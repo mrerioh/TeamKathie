@@ -6,45 +6,50 @@ public class PlayerMovement : MonoBehaviour
 
     public InputActionAsset InputActions;
 
-    private InputAction     moveAction;
-    private InputAction     jumpAction;
+    private InputActionMap    playerMap;
+    private InputAction       moveAction;
+    private InputAction       jumpAction;
 
-    private Vector2         moveAmt;
-    private Rigidbody2D     rb;
+    private Vector2           moveAmt;
+    private Rigidbody         rb;
 
-    public float            walkSpeed = 5;
-    public float            jumpSpeed = 5;
+    public float              walkSpeed = 5;
+    public float              jumpSpeed = 5;
+
+    private void Awake()
+    {
+        playerMap = InputActions.FindActionMap( "Player" );
+    }
 
     private void OnEnable()
     {
-        InputActions.FindActionMap( "Player" ).Enable();
+        playerMap.Enable();
     }
 
     private void OnDisable()
     {
-        InputActions.FindActionMap( "Player" ).Disable();
+        playerMap.Disable();
     }
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        moveAction = InputSystem.actions.FindAction( "Move" );
-        jumpAction = InputSystem.actions.FindAction( "Jump" );
-        rb         = GetComponent<Rigidbody2D>();
+        moveAction = playerMap.FindAction( "Move" );
+        jumpAction = playerMap.FindAction( "Jump" );
+        rb         = GetComponent<Rigidbody>();
     }
 
     void JumpPlayer()
     {
-        rb.AddForceAtPosition( new Vector2( 0, jumpSpeed ), Vector2.up, ForceMode2D.Impulse );
+        rb.AddForce( Vector3.up * jumpSpeed, ForceMode.Impulse );
     }
 
-    // Update is called once per frame
     void Update()
     {
         moveAmt = moveAction.ReadValue<Vector2>();
 
-        rb.linearVelocity = new Vector2 ( moveAmt.x * walkSpeed ,
-                                          rb.linearVelocity.y );
+        rb.linearVelocity = new Vector3( moveAmt.x * walkSpeed,
+                                         rb.linearVelocity.y,
+                                         0 );
 
         if( jumpAction.WasPressedThisFrame() )
             JumpPlayer();
