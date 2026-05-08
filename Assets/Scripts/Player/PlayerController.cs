@@ -31,14 +31,14 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        float x = Input.GetAxis("Horizontal");
-        float y = Input.GetAxis("Vertical");
-        Vector3 MoveDir = new Vector3(x, 0, y);
-        rb.linearVelocity = MoveDir * Speed;
+        // float x = Input.GetAxis("Horizontal");
+        // float y = Input.GetAxis("Vertical");
+        // Vector3 MoveDir = new Vector3(x, 0, y);
+        // rb.linearVelocity = MoveDir * Speed;
 
-        if( ( x != 0 ) && ( x < 0 ) )
-            sr.flipX = true;
-        else if ( ( x != 0 ) && ( x > 0 ) )
-            sr.flipX = false;
+        // if( ( x != 0 ) && ( x < 0 ) )
+        //     sr.flipX = true;
+        // else if ( ( x != 0 ) && ( x > 0 ) )
+        //     sr.flipX = false;
     }
 }
