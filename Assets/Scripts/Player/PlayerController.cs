@@ -48,7 +48,7 @@ public class PlayerController : MonoBehaviour
 
     void JumpPlayer()
     {
-        rb.AddForceAtPosition( new Vector3(0, 5f, 0), Vector3.up, ForceMode.Impulse );
+        rb.AddForce( Vector3.up * JumpSpeed, ForceMode.Impulse );
     }
 
     void SwitchPlayer()
@@ -96,7 +96,7 @@ public class PlayerController : MonoBehaviour
 
         rb.linearVelocity = new Vector3( MoveDir.x * Speed,
                                          rb.linearVelocity.y,
-                                         0 );
+                                         0f );
 
         if( Jump.WasPressedThisFrame() )
             JumpPlayer();
