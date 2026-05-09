@@ -78,19 +78,6 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // RaycastHit Hit;
-        // Vector3    CastPos = transform.position;
-        // CastPos.y++;
-
-        // if( Physics.Raycast( CastPos, -transform.up, out Hit, Mathf.Infinity, TerrainLayer ) )
-        // {
-        //     if( Hit.collider != null )
-        //     {
-        //         Vector3 MovePos = transform.position;
-        //         MovePos.y = Hit.point.y + GroundDist;
-        //         transform.position = MovePos;
-        //     }
-        // }
 
         MoveDir = Move.ReadValue<Vector2>();
 
