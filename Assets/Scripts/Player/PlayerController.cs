@@ -15,26 +15,28 @@ public enum MovementState
 
 public class PlayerController : MonoBehaviour
 {
-    public InputActionAsset           InputActions;
+    [Header("References")]
+    public  InputActionAsset          InputActions;
     private InputActionMap            PlayerMap;
     [SerializeField] private Animator animator;
 
     private EventInstance             PlayerFootsteps;
-    public Rigidbody                  rb;
-    public SpriteRenderer             sr;
+    public  Rigidbody                 rb;
 
-    public MovementState              PlayerMovementState;
+    public  MovementState             PlayerMovementState;
+    [SerializeField] CapsuleCollider  PlayerCollider;
 
     [Header("Grounding Info")]
     public float                      PlayerHeight;
     public LayerMask                  GroundLayer;
+    int    Mask;
     bool                              IsGrounded;
 
     [Header("Walk Info")]
     private InputAction               Move;
     private Vector2                   MoveDir;
     public float                      Speed       = 5;
-    public int                       facingRight  = 1;
+    public int                        facingRight  = 1;
 
     [Header("Switch Info")]
     private InputAction               Switch;
@@ -82,6 +84,13 @@ public class PlayerController : MonoBehaviour
         Switch          = PlayerMap.FindAction( "SwitchLayer" );
         PlayerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.PlayerFootsteps);
         IsReadyToJump   = true;
+        Mask            = LayerMask.GetMask( "Terrain", "GrappleLayer" );
+        PlayerHeight    = PlayerCollider.height;
+    }
+
+    public Vector3 GetPlayerCenter()
+    {
+        return PlayerCollider.bounds.center;
     }
 
     private void MovePlayer()
@@ -186,7 +195,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
 
-        IsGrounded = Physics.Raycast( transform.position, Vector3.down, PlayerHeight * 0.5f + 0.2f, GroundLayer );
+        IsGrounded = Physics.Raycast( transform.position, Vector3.down, PlayerHeight * 0.5f + 0.2f, Mask );
 
         MovePlayer();
 
