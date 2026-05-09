@@ -3,10 +3,14 @@ using UnityEngine.InputSystem;
 
 public class GrappleHook : MonoBehaviour
 {
-    private PlayerController           Pc;
-    public  Transform                  Camera;
+
+    [Header("References")]
+    public  PlayerController           Pc;
+    public  Camera                     Camera;
     public  Transform                  GrappleTip;
     [SerializeField] private LayerMask GrappleLayer;
+    public  LineRenderer               lr;
+
     private Vector3                    GrapplePoint;
     private DistanceJoint2D            Joint;
     public  InputActionAsset           InputActions;
@@ -21,11 +25,10 @@ public class GrappleHook : MonoBehaviour
 
     private bool                       IsGrappling;
 
-    public  LineRenderer               lr;
-
     private void Awake()
     {
         PlayerMap = InputActions.FindActionMap( "Player" );
+        Camera    = Camera.main;
     }
 
     private void OnEnable()
@@ -46,23 +49,27 @@ public class GrappleHook : MonoBehaviour
 
     private void StartGrapple()
     {
-        Debug.Log("Start Grapple");
         if( GrappleCooldownTimer > 0)
             return;
 
-        IsGrappling = true;
+        IsGrappling          = true;
+        Pc.IsPreppingGrapple = true;
 
-        RaycastHit hit;
+        RaycastHit Hit;
+        Vector2    MousePosition = Mouse.current.position.ReadValue();
+        Ray        Ray = Camera.ScreenPointToRay( MousePosition );
 
-        if( Physics.Raycast( transform.position, Camera.right, out hit, MaxGrappleLen, GrappleLayer ) )
+        if( Physics.Raycast( Ray, out Hit, MaxGrappleLen, GrappleLayer ) )
         {
-            GrapplePoint = hit.point;
+            GrapplePoint   = Hit.point;
+            GrapplePoint.z = transform.position.z;
 
             Invoke( nameof( ExecuteGrapple ), GrappleDelayTime );
         }
         else
         {
-            GrapplePoint = Camera.position + Camera.right * MaxGrappleLen;
+            GrapplePoint   = Ray.origin + Ray.direction * MaxGrappleLen;
+            GrapplePoint.z = transform.position.z;
             Invoke( nameof( StopGrapple ), GrappleDelayTime );
         }
 
@@ -72,14 +79,17 @@ public class GrappleHook : MonoBehaviour
 
     private void ExecuteGrapple()
     {
+        Vector3 Direction    = ( GrapplePoint - transform.position ).normalized;
+        Pc.IsPreppingGrapple = false;
+
     }
 
     private void StopGrapple()
     {
-        IsGrappling = false;
+        IsGrappling          = false;
+        Pc.IsPreppingGrapple = false;
         GrappleCooldownTimer = GrappleCooldown;
-
-        lr.enabled = false;
+        lr.enabled           = false;
 
     }
 
