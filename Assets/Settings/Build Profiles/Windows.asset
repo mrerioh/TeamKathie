@@ -19,13 +19,7 @@ MonoBehaviour:
   m_PlatformBuildProfile:
     rid: 4822704765212819696
   m_OverrideGlobalSceneList: 1
-  m_Scenes:
-  - m_enabled: 1
-    m_path: Assets/Scenes/SampleScene.unity
-    m_guid: 8c9cfa26abfee488c85f1582747f6a02
-  - m_enabled: 1
-    m_path: Assets/Scenes/SceneErio.unity
-    m_guid: c67153bb9bcd9e74fb9dec3a23b06bd2
+  m_Scenes: []
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
