@@ -4,23 +4,25 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    public InputActionAsset     InputActions;
-    private InputActionMap      PlayerMap;
-    private InputAction         Move;
-    private InputAction         Jump;
-    private InputAction         Switch;
-    private Vector2             MoveDir;
-    public float                Speed       = 5;
-    public float                JumpSpeed   = 5;
-    public float                GroundDist;
+    public InputActionAsset           InputActions;
+    private InputActionMap            PlayerMap;
+    private InputAction               Move;
+    private InputAction               Jump;
+    private InputAction               Switch;
+    private Vector2                   MoveDir;
+    public float                      Speed       = 5;
+    public float                      JumpSpeed   = 5;
+    public float                      GroundDist;
+    [SerializeField] private Animator animator;
 
-    public LayerMask            TerrainLayer;
-    public Rigidbody            rb;
-    public SpriteRenderer       sr;
-    public float                zFore        = 4.92f;
-
-    public float                zBack        = 14.07f;
-    public bool                 isBackground = false;
+    public LayerMask                  TerrainLayer;
+    public Rigidbody                  rb;
+    public SpriteRenderer             sr;
+    public float                      zFore        = 4.92f;
+      
+    public float                      zBack        = 14.07f;
+    public bool                       isBackground = false;
+    private int                       facingRight  = 1;
 
     private void Awake()
     {
@@ -91,9 +93,27 @@ public class PlayerController : MonoBehaviour
         if(Switch.WasPressedThisFrame())
             SwitchPlayer();
 
-        // if( ( x != 0 ) && ( x < 0 ) )
-        //     sr.flipX = true;
-        // else if ( ( x != 0 ) && ( x > 0 ) )
-        //     sr.flipX = false;
+        // Animation switching
+        if( rb.linearVelocity.x != 0 )
+        {
+            animator.SetBool("isWalking", true);
+        }
+        else
+        {
+            animator.SetBool("isWalking", false);
+        }
+
+        // Character facing right/left
+        if( rb.linearVelocity.x > 0 )
+        {
+            facingRight = 1;
+            transform.localScale = new Vector3(facingRight, 1, 1);
+        }
+        else if ( rb.linearVelocity.x < 0 )
+        {
+            facingRight = -1;
+            transform.localScale = new Vector3(facingRight, 1, 1);
+        }
+
     }
 }

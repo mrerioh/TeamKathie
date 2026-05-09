@@ -20,7 +20,7 @@ public class SceneController : MonoBehaviour
     }
     public void NextLevel()
     {
-        SceneManager.LoadSceneAsync( SceneManager.GetActiveSCene().buildIndex + 1 );
+        SceneManager.LoadSceneAsync( SceneManager.GetActiveScene().buildIndex + 1 );
     }
 
     public void LoadScene( string SceneName )
