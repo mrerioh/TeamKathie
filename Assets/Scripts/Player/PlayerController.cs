@@ -132,35 +132,36 @@ public class PlayerController : MonoBehaviour
         if ( IsPreppingGrapple )
         {
             PlayerMovementState = MovementState.PREPPING_GRAPPLE;
-            Speed = 0;
-            rb.linearVelocity = Vector3.zero;
+            Speed               = 0;
+            rb.linearVelocity   = Vector3.zero;
         }
         else if ( IsGrappling )
         {
             PlayerMovementState = MovementState.GRAPPLING;
-            Speed = 5;
+            Speed               = 5;
+            rb.useGravity       = false;
         }
         else if ( IsSwinging )
         {
             PlayerMovementState = MovementState.SWINGING;
-            Speed = 5;
+            Speed               = 5;
         }
         else if ( IsGrounded )
         {
             PlayerMovementState = MovementState.WALKING;
-            Speed = 5;
+            Speed               = 5;
         }
         else if( IsSwitching )
         {
             PlayerMovementState = MovementState.SWITCHING;
-            Speed = 0;
-            rb.linearVelocity = Vector3.zero;
+            Speed               = 0;
+            rb.linearVelocity   = Vector3.zero;
         }
         else
         {
             PlayerMovementState = MovementState.MID_AIR;
         }
-        // Debug.Log(PlayerMovementState);
+        Debug.Log(PlayerMovementState);
     }
 
     private void UpdateSound()
@@ -177,6 +178,19 @@ public class PlayerController : MonoBehaviour
         {
             PlayerFootsteps.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
         }
+    }
+
+    public void ResetRestrictions()
+    {
+        IsGrappling = false;
+    }
+
+    public void JumpToPosition( Vector3 TargetPoint )
+    {
+        IsGrappling = true;
+
+
+        Invoke( nameof(ResetRestrictions), 3f );
     }
 
     // Update is called once per frame

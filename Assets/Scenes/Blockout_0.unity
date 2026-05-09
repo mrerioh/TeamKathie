@@ -306,16 +306,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60b94858357fb8b49b7aa7ae462f06c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GrappleHook
-  Camera: {fileID: 1647094568}
+  Pc: {fileID: 350648951}
+  Camera: {fileID: 1647094567}
   GrappleTip: {fileID: 16333337}
   GrappleLayer:
     serializedVersion: 2
     m_Bits: 128
+  lr: {fileID: 44557401}
   InputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  MaxGrappleLen: 5
+  MaxGrappleLen: 15
   GrappleDelayTime: 0.25
   GrappleCooldown: 0.5
-  lr: {fileID: 44557401}
 --- !u!1 &290389349
 GameObject:
   m_ObjectHideFlags: 0
@@ -885,48 +886,8 @@ Transform:
   m_GameObject: {fileID: 389977039}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.1, y: 0.19, z: 2.61}
+  m_LocalPosition: {x: -3.1, y: 0.19, z: 4.774}
   m_LocalScale: {x: 1, y: 0.4436, z: 0.94082326}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &448985135
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 448985138}
-  - component: {fileID: 448985136}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!81 &448985136
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 448985135}
-  m_Enabled: 1
---- !u!4 &448985138
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 448985135}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.082, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2097,7 +2058,7 @@ GameObject:
   - component: {fileID: 1647094565}
   - component: {fileID: 1647094569}
   m_Layer: 0
-  m_Name: Main Camera (1)
+  m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2548,7 +2509,6 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 448985138}
   - {fileID: 1820008288}
   - {fileID: 1161715940}
   - {fileID: 1647094568}
