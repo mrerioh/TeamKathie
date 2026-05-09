@@ -317,6 +317,9 @@ MonoBehaviour:
   MaxGrappleLen: 15
   GrappleDelayTime: 0.25
   GrappleCooldown: 0.5
+  StompCooldown: 0.5
+  StompDelayTime: 0.25
+  GrappleState: 1
 --- !u!1 &290389349
 GameObject:
   m_ObjectHideFlags: 0
@@ -1293,7 +1296,7 @@ GameObject:
   - component: {fileID: 866170499}
   - component: {fileID: 866170498}
   - component: {fileID: 866170497}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Libm
   m_TagString: Untagged
   m_Icon: {fileID: 0}

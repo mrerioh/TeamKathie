@@ -7,7 +7,6 @@ public enum MovementState
 {
     PREPPING_GRAPPLE,
     GRAPPLING,
-    SWINGING,
     WALKING,
     SPRINTING,
     SWITCHING,
@@ -54,7 +53,6 @@ public class PlayerController : MonoBehaviour
     [Header("Grapple Info")]
     public bool                       IsPreppingGrapple;
     bool                              IsGrappling;
-    bool                              IsSwinging;
 
     [Header("Punching Info")]
     public bool IsPunching;
@@ -78,19 +76,16 @@ public class PlayerController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        rb     = gameObject.GetComponent<Rigidbody>();
-        Move   = PlayerMap.FindAction( "Move" );
-        Jump   = PlayerMap.FindAction( "Jump" );
-        Switch = PlayerMap.FindAction( "SwitchLayer" );
+        rb              = gameObject.GetComponent<Rigidbody>();
+        Move            = PlayerMap.FindAction( "Move" );
+        Jump            = PlayerMap.FindAction( "Jump" );
+        Switch          = PlayerMap.FindAction( "SwitchLayer" );
         PlayerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.PlayerFootsteps);
-        IsReadyToJump = true;
+        IsReadyToJump   = true;
     }
 
     private void MovePlayer()
     {
-        if ( IsGrappling ) return;
-        if ( IsSwinging )  return;
-
         MoveDir = Move.ReadValue<Vector2>();
         rb.linearVelocity = new Vector3( MoveDir.x * Speed,
                                          rb.linearVelocity.y,
@@ -138,13 +133,7 @@ public class PlayerController : MonoBehaviour
         else if ( IsGrappling )
         {
             PlayerMovementState = MovementState.GRAPPLING;
-            Speed               = 5;
-            rb.useGravity       = false;
-        }
-        else if ( IsSwinging )
-        {
-            PlayerMovementState = MovementState.SWINGING;
-            Speed               = 5;
+            Speed               = 1;
         }
         else if ( IsGrounded )
         {
@@ -161,7 +150,7 @@ public class PlayerController : MonoBehaviour
         {
             PlayerMovementState = MovementState.MID_AIR;
         }
-        Debug.Log(PlayerMovementState);
+        // Debug.Log(PlayerMovementState);
     }
 
     private void UpdateSound()
