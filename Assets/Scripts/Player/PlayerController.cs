@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using FMODUnity;
+using FMOD.Studio;
 
 
 public class PlayerController : MonoBehaviour
@@ -14,6 +16,8 @@ public class PlayerController : MonoBehaviour
     public float                      JumpSpeed   = 5;
     public float                      GroundDist;
     [SerializeField] private Animator animator;
+
+    private EventInstance             PlayerFootsteps;
 
     public LayerMask                  TerrainLayer;
     public Rigidbody                  rb;
@@ -46,6 +50,7 @@ public class PlayerController : MonoBehaviour
         Move   = PlayerMap.FindAction( "Move" );
         Jump   = PlayerMap.FindAction( "Jump" );
         Switch = PlayerMap.FindAction( "SwitchLayer" );
+        PlayerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.PlayerFootsteps);
     }
 
     void JumpPlayer()
@@ -75,6 +80,22 @@ public class PlayerController : MonoBehaviour
     void WalkPlayer()
     {
         return;
+    }
+
+    private void UpdateSound()
+    {
+        if( rb.linearVelocity.x != 0 )
+        {
+            PLAYBACK_STATE PlaybackState;
+            PlayerFootsteps.getPlaybackState( out PlaybackState );
+            if( PlaybackState.Equals( PLAYBACK_STATE.STOPPED ) )
+                PlayerFootsteps.start();
+
+        }
+        else
+        {
+            PlayerFootsteps.stop(FMOD.Studio.STOP_MODE.ALLOWFADEOUT);
+        }
     }
 
     // Update is called once per frame
@@ -114,6 +135,9 @@ public class PlayerController : MonoBehaviour
             facingRight = -1;
             transform.localScale = new Vector3(facingRight, 1, 1);
         }
+
+        // Update sound
+        UpdateSound();
 
     }
 }
