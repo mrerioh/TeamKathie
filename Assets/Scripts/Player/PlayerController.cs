@@ -1,17 +1,48 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
+
 
 public class PlayerController : MonoBehaviour
 {
-    public float          Speed;
-    public float          GroundDist;
+    public InputActionAsset     InputActions;
+    private InputActionMap      PlayerMap;
+    private InputAction         MoveAction;
+    private InputAction         JumpAction;
+    private Vector3             MoveAmt;
+    public float                Speed       = 5;
+    public float                JumpSpeed   = 5;
+    public float                GroundDist;
 
-    public LayerMask      TerrainLayer;
-    public Rigidbody      rb;
-    public SpriteRenderer sr;
+    public LayerMask            TerrainLayer;
+    public Rigidbody            rb;
+    public SpriteRenderer       sr;
+
+    private void Awake()
+    {
+        PlayerMap = InputActions.FindActionMap( "Player" );
+    }
+
+    private void OnEnable()
+    {
+        PlayerMap.Enable();
+    }
+
+    private void OnDisable()
+    {
+        PlayerMap.Disable();
+    }
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = gameObject.GetComponent<Rigidbody>();
+        MoveAction = PlayerMap.FindAction( "Move" );
+        JumpAction = PlayerMap.FindAction( "Jump" );
+    }
+
+    void JumpPlayer()
+    {
+        rb.AddForce( Vector3.up * JumpSpeed, ForceMode.Impulse );
     }
 
     // Update is called once per frame
@@ -31,10 +62,14 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        // float x = Input.GetAxis("Horizontal");
-        // float y = Input.GetAxis("Vertical");
-        // Vector3 MoveDir = new Vector3(x, 0, y);
-        // rb.linearVelocity = MoveDir * Speed;
+        MoveAmt = MoveAction.ReadValue<Vector2>();
+
+        rb.linearVelocity = new Vector3( MoveAmt.x * Speed,
+                                         rb.linearVelocity.y,
+                                         0 );
+
+        if( JumpAction.WasPressedThisFrame() )
+            JumpPlayer();
 
         // if( ( x != 0 ) && ( x < 0 ) )
         //     sr.flipX = true;
