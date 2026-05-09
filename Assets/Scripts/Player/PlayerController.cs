@@ -156,7 +156,7 @@ public class PlayerController : MonoBehaviour
         {
             PlayerMovementState = MovementState.MID_AIR;
         }
-        Debug.Log(PlayerMovementState);
+        // Debug.Log(PlayerMovementState);
     }
 
     private void UpdateSound()

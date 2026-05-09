@@ -41,35 +41,33 @@ public class GrappleHook : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Joint    = gameObject.GetComponent<DistanceJoint2D>();
-        Joint.enabled = false;
-
         Attack   = PlayerMap.FindAction( "Attack" );
     }
 
     private void StartGrapple()
     {
-        // if( GrappleCooldownTimer > 0)
-        //     return;
+        Debug.Log("Start Grapple");
+        if( GrappleCooldownTimer > 0)
+            return;
 
-        // IsGrappling = true;
+        IsGrappling = true;
 
-        // RaycastHit hit;
+        RaycastHit hit;
 
-        // if( Physics.Raycast( Camera.position, Camera.forward, out hit, MaxGrappleLen, GrappleLayer ) )
-        // {
-        //     GrapplePoint = hit.point;
+        if( Physics.Raycast( transform.position, Camera.right, out hit, MaxGrappleLen, GrappleLayer ) )
+        {
+            GrapplePoint = hit.point;
 
-        //     Invoke( nameof( ExecuteGrapple ), GrappleDelayTime );
-        // }
-        // else
-        // {
-        //     GrapplePoint = Camera.position + Camera.forward * MaxGrappleLen;
-        //     Invoke( nameof( StopGrapple ), GrappleDelayTime );
-        // }
+            Invoke( nameof( ExecuteGrapple ), GrappleDelayTime );
+        }
+        else
+        {
+            GrapplePoint = Camera.position + Camera.right * MaxGrappleLen;
+            Invoke( nameof( StopGrapple ), GrappleDelayTime );
+        }
 
-        // lr.enabled = true;
-        // lr.SetPosition( 1, GrapplePoint );
+        lr.enabled = true;
+        lr.SetPosition( 1, GrapplePoint );
     }
 
     private void ExecuteGrapple()
@@ -88,13 +86,13 @@ public class GrappleHook : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // if( Attack.WasPressedThisFrame() )
-        //     StartGrapple();
+        if( Attack.WasPressedThisFrame() )
+            StartGrapple();
 
-        // if( GrappleCooldownTimer > 0)
-        //     GrappleCooldownTimer -= Time.deltaTime;
+        if( GrappleCooldownTimer > 0)
+            GrappleCooldownTimer -= Time.deltaTime;
 
-        // if( IsGrappling )
-        //     lr.SetPosition( 0, GrappleTip.position );
+        if( IsGrappling )
+            lr.SetPosition( 0, GrappleTip.position );
     }
 }
