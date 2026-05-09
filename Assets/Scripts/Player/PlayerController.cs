@@ -6,9 +6,9 @@ public class PlayerController : MonoBehaviour
 {
     public InputActionAsset     InputActions;
     private InputActionMap      PlayerMap;
-    private InputAction         MoveAction;
-    private InputAction         JumpAction;
-    private Vector3             MoveAmt;
+    private InputAction         Move;
+    private InputAction         Jump;
+    private Vector2             MoveDir;
     public float                Speed       = 5;
     public float                JumpSpeed   = 5;
     public float                GroundDist;
@@ -35,40 +35,45 @@ public class PlayerController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        rb = gameObject.GetComponent<Rigidbody>();
-        MoveAction = PlayerMap.FindAction( "Move" );
-        JumpAction = PlayerMap.FindAction( "Jump" );
+        rb   = gameObject.GetComponent<Rigidbody>();
+        Move = PlayerMap.FindAction( "Move" );
+        Jump = PlayerMap.FindAction( "Jump" );
     }
 
     void JumpPlayer()
     {
-        rb.AddForce( Vector3.up * JumpSpeed, ForceMode.Impulse );
+        rb.AddForceAtPosition( new Vector3(0, 5f, 0), Vector3.up, ForceMode.Impulse );
+    }
+
+    void WalkPlayer()
+    {
+        return;
     }
 
     // Update is called once per frame
     void Update()
     {
-        RaycastHit Hit;
-        Vector3    CastPos = transform.position;
-        CastPos.y++;
+        // RaycastHit Hit;
+        // Vector3    CastPos = transform.position;
+        // CastPos.y++;
 
-        if( Physics.Raycast( CastPos, -transform.up, out Hit, Mathf.Infinity, TerrainLayer ) )
-        {
-            if( Hit.collider != null )
-            {
-                Vector3 MovePos = transform.position;
-                MovePos.y = Hit.point.y + GroundDist;
-                transform.position = MovePos;
-            }
-        }
+        // if( Physics.Raycast( CastPos, -transform.up, out Hit, Mathf.Infinity, TerrainLayer ) )
+        // {
+        //     if( Hit.collider != null )
+        //     {
+        //         Vector3 MovePos = transform.position;
+        //         MovePos.y = Hit.point.y + GroundDist;
+        //         transform.position = MovePos;
+        //     }
+        // }
 
-        MoveAmt = MoveAction.ReadValue<Vector2>();
+        MoveDir = Move.ReadValue<Vector2>();
 
-        rb.linearVelocity = new Vector3( MoveAmt.x * Speed,
+        rb.linearVelocity = new Vector3( MoveDir.x * Speed,
                                          rb.linearVelocity.y,
                                          0 );
 
-        if( JumpAction.WasPressedThisFrame() )
+        if( Jump.WasPressedThisFrame() )
             JumpPlayer();
 
         // if( ( x != 0 ) && ( x < 0 ) )
