@@ -35,7 +35,7 @@ public class PlayerController : MonoBehaviour
     private InputAction               Move;
     private Vector2                   MoveDir;
     public float                      Speed       = 5;
-    private int                       facingRight  = 1;
+    public int                       facingRight  = 1;
 
     [Header("Switch Info")]
     private InputAction               Switch;
@@ -55,6 +55,10 @@ public class PlayerController : MonoBehaviour
     public bool                       IsPreppingGrapple;
     bool                              IsGrappling;
     bool                              IsSwinging;
+
+    [Header("Punching Info")]
+    public bool IsPunching;
+    public bool IsChargingPunch=false;
 
     private void Awake()
     {
