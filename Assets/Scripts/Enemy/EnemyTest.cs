@@ -5,9 +5,16 @@ public class EnemyTest : MonoBehaviour
     public float speed = 3f;
     public float sightRange = 10f;
     public bool onBackLayer;
+    public float stunDuratrion=0.35f;
+    private float stunTimer;
 
     Rigidbody rb;
     PlayerController player;
+
+    public void stun(float duration)
+    {
+        stunTimer = Mathf.Max(stunTimer,duration);
+    }
 
     void Start()
     {
@@ -20,6 +27,13 @@ public class EnemyTest : MonoBehaviour
 
     void Update()
     {
+
+        if(stunTimer>0f)
+        {
+            stunTimer-=Time.deltaTime;
+
+            return;
+        }
         if (!player || player.isBackground != onBackLayer)
         {
             rb.linearVelocity = new Vector3(0, rb.linearVelocity.y, 0);

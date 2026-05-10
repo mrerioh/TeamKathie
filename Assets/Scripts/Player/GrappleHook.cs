@@ -186,6 +186,7 @@ public class GrappleHook : MonoBehaviour
             if( IsPreppingGrapple )
             {
                 GrappleState   = GrappleState.GRAPPLE_PREP;
+                GrappleTip.position = Pc.GetPlayerCenter();
             }
             else if( IsReadyToStomp )
             {
@@ -233,7 +234,7 @@ public class GrappleHook : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if( Attack.WasPressedThisFrame() )
+        if( Attack.WasPressedThisFrame() && ( IsStomped == false ) )
         {
             StartGrapple();
         }

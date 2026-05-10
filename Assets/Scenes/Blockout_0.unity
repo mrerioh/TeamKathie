@@ -1500,7 +1500,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ccfa03b024f6877499c35ee883d909b1, type: 2}
+  - {fileID: 2100000, guid: 2ed3662533e8a2742b6cd32647d55f79, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1576,6 +1576,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9689d2aed47dc34fba7b6a9e408e702, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  curtainAnimationHandler: {fileID: 0}
+  GameplayCam: {fileID: 0}
+  StageCamera: {fileID: 0}
 --- !u!4 &957308728
 Transform:
   m_ObjectHideFlags: 0
@@ -1960,6 +1963,9 @@ MonoBehaviour:
   SpawnLocation: {x: 0, y: 0, z: 0}
   MaxLeft: 2
   MaxRight: 2
+  Normalized: 0
+  LinkedMovement: {fileID: 0}
+  TransformedValue: 0
 --- !u!54 &1139482128
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3638,6 +3644,9 @@ MonoBehaviour:
   SpawnLocation: {x: 0, y: 0, z: 0}
   MaxLeft: 0
   MaxRight: 0
+  Normalized: 0
+  LinkedMovement: {fileID: 0}
+  TransformedValue: 0
 --- !u!1 &1943879554
 GameObject:
   m_ObjectHideFlags: 0

@@ -148,7 +148,7 @@ public class RocketPunch : MonoBehaviour
         playerAnimator.SetBool("isCharging", false);
         playerAnimator.SetTrigger("QuickPunch");
 
-        
+        //EnableQuickPunchHitbox();
 
         
     }
@@ -158,16 +158,17 @@ public class RocketPunch : MonoBehaviour
         ChargeHoldCur=0f;
         Pc.IsChargingPunch=false;
         Pc.IsPunching=true;
+        ChargeCoef=1f;
         ChargeTimer=0f;
         //rb.linearVelocity=dir * (MaxPunchSpeed*ChargeCoef);
         ChargeTimer=0f;
 
         fistAnimator.SetBool("isCharging", false);
         playerAnimator.SetTrigger("HeavyPunch");
-        fistAnimator.SetBool("isCharging", false);
-        playerAnimator.SetTrigger("HeavyPunch");
+        playerAnimator.SetBool("isCharging", false);
+        fistAnimator.SetTrigger("HeavyPunch");
 
-        
+        //EnableHeavyPunchHitbox();
     }
 
     private void PunchFrames()
