@@ -28,6 +28,7 @@ public class GrappleHook : MonoBehaviour
     private InputActionMap             PlayerMap;
     private InputAction                Attack;
     private InputAction                Stomp;
+    private InputAction                Pull;
 
     [Header("Grapple state parameters")]
     public float                       MaxGrappleLen;
@@ -51,6 +52,13 @@ public class GrappleHook : MonoBehaviour
     private bool                       EnableBoxCollider  = false;
     private bool                       EnableLineRenderer = false;
 
+    [Header("Pull state parameters")]
+    private GameObject                 HitObject;
+    public  float                      PullCooldown;
+    private float                      PullCooldownTimer;
+    public float                       PullDelayTime;
+
+
     private void Awake()
     {
         PlayerMap = InputActions.FindActionMap( "Player" );
@@ -71,7 +79,7 @@ public class GrappleHook : MonoBehaviour
     void Start()
     {
         Attack                  = PlayerMap.FindAction( "Attack" );
-        // Pickup   = PlayerMap.FindAction( "Pickup" );
+        Pull                    = PlayerMap.FindAction( "Interact" );
         Stomp                   = PlayerMap.FindAction( "Stomp" );
         lc.boxCollider.enabled  = false;
         lc.lineRenderer.enabled = false;
@@ -85,7 +93,6 @@ public class GrappleHook : MonoBehaviour
 
         Debug.Log("StartGrapple");
         IsPreppingGrapple = true;
-        // Pc.IsPreppingGrapple = true;
 
         RaycastHit Hit;
         Vector2    MousePosition = Mouse.current.position.ReadValue();
@@ -96,6 +103,7 @@ public class GrappleHook : MonoBehaviour
             GrapplePoint   = Hit.point;
             GrapplePoint.z = transform.position.z;
             IsReadyToStomp = true;
+            HitObject      = Hit.collider.gameObject;
             Invoke( nameof( ExecuteGrapple ), GrappleDelayTime );
         }
         else
@@ -121,7 +129,6 @@ public class GrappleHook : MonoBehaviour
         RaycastHit Hit;
         if( Physics.Raycast( transform.position, Vector3.down, out Hit, Pc.PlayerHeight * 0.5f + 0.2f, GrappleLayer ) )
         {
-            Debug.Log("Detected GrappleLayer underneath StartStomp");
             AnchorPoint         = Hit.point;
             // Player "stomps" their arm down to leg level
             AnchorPoint.z       = transform.position.z;
@@ -129,7 +136,6 @@ public class GrappleHook : MonoBehaviour
         }
         else
         {
-            Debug.Log("Invoke StopStomp");
             // Stop Stomp if not standing on grapple layer
             if( IsStomped == false )
                 Invoke( nameof( StopStomp ), StompDelayTime );
@@ -198,7 +204,30 @@ public class GrappleHook : MonoBehaviour
             //     Pickup();
             // else
             //     RenderOnGround();
-        Debug.Log(GrappleState);
+        // Debug.Log(GrappleState);
+    }
+
+    private void StartPull()
+    {
+        if( PullCooldownTimer > 0 )
+            return;
+
+        Debug.Log("StartPull");
+        
+        if( HitObject.GetComponent<PullHandler>() != null )
+            HitObject.GetComponent<PullHandler>().OnPulled();
+
+        Invoke( nameof( StopPull ), PullDelayTime );
+    }
+
+    private void StopPull()
+    {
+        Debug.Log("StopPull");
+        PullCooldownTimer    = PullCooldown;
+        EnableLineRenderer   = false;
+        EnableBoxCollider    = false;
+        IsStomped            = false;
+
     }
 
     // Update is called once per frame
@@ -209,10 +238,19 @@ public class GrappleHook : MonoBehaviour
             StartGrapple();
         }
 
-        if( Stomp.WasPressedThisFrame() && ( IsReadyToStomp == true ) )
+        if( IsReadyToStomp == true )
         {
-            StartStomp();
-            return;
+            if( Stomp.WasPressedThisFrame() )
+            {
+                StartStomp();
+                return;
+            }
+
+            else if( Pull.WasPressedThisFrame() )
+            {
+                StartPull();
+                return;
+            }
         }
 
         if( Stomp.WasPressedThisFrame() && ( IsStomped == true ) )
@@ -222,11 +260,14 @@ public class GrappleHook : MonoBehaviour
 
         FsmHandler();
 
-        if( GrappleCooldownTimer > 0)
+        if( GrappleCooldownTimer > 0 )
             GrappleCooldownTimer -= Time.deltaTime;
 
-        if( StompCooldownTimer > 0)
+        if( StompCooldownTimer > 0 )
             StompCooldownTimer -= Time.deltaTime;
+
+        if( PullCooldownTimer > 0 )
+            PullCooldownTimer -= Time.deltaTime;
 
         // GrappleTip.position updated as part of FSM handler
         lc.lineRenderer.SetPosition( 0, GrappleTip.position );

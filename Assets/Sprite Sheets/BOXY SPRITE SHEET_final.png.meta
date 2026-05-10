@@ -1,0 +1,7423 @@
+fileFormatVersion: 2
+guid: 00bb49fb6d2c52c42b717255680155a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1439168408814674689
+    second: BOXY SPRITE SHEET_final_0
+  - first:
+      213: -8504754306705272217
+    second: BOXY SPRITE SHEET_final_1
+  - first:
+      213: -6239553132467668607
+    second: BOXY SPRITE SHEET_final_2
+  - first:
+      213: 4841617489429600865
+    second: BOXY SPRITE SHEET_final_3
+  - first:
+      213: -3250674970383167492
+    second: BOXY SPRITE SHEET_final_4
+  - first:
+      213: 7747556502395606576
+    second: BOXY SPRITE SHEET_final_5
+  - first:
+      213: -212518271084364279
+    second: BOXY SPRITE SHEET_final_6
+  - first:
+      213: 3796060555846422460
+    second: BOXY SPRITE SHEET_final_7
+  - first:
+      213: 2643134328481717709
+    second: BOXY SPRITE SHEET_final_8
+  - first:
+      213: 3318962645498805418
+    second: BOXY SPRITE SHEET_final_9
+  - first:
+      213: -7681210730266430796
+    second: BOXY SPRITE SHEET_final_10
+  - first:
+      213: 8530573997440234418
+    second: BOXY SPRITE SHEET_final_11
+  - first:
+      213: 1490684547144985408
+    second: BOXY SPRITE SHEET_final_12
+  - first:
+      213: 962544757405099145
+    second: BOXY SPRITE SHEET_final_13
+  - first:
+      213: -5969135970009678058
+    second: BOXY SPRITE SHEET_final_14
+  - first:
+      213: 8438403731797646728
+    second: BOXY SPRITE SHEET_final_15
+  - first:
+      213: 4674083357147737719
+    second: BOXY SPRITE SHEET_final_16
+  - first:
+      213: -5466852218334377023
+    second: BOXY SPRITE SHEET_final_17
+  - first:
+      213: -6174869190523143809
+    second: BOXY SPRITE SHEET_final_18
+  - first:
+      213: -4026440966343006987
+    second: BOXY SPRITE SHEET_final_19
+  - first:
+      213: -5101675335094734053
+    second: BOXY SPRITE SHEET_final_20
+  - first:
+      213: -7422215934016340938
+    second: BOXY SPRITE SHEET_final_21
+  - first:
+      213: 2764074158742919491
+    second: BOXY SPRITE SHEET_final_22
+  - first:
+      213: 8359769811801224275
+    second: BOXY SPRITE SHEET_final_23
+  - first:
+      213: -5714048556936187624
+    second: BOXY SPRITE SHEET_final_24
+  - first:
+      213: -4510180889456347041
+    second: BOXY SPRITE SHEET_final_25
+  - first:
+      213: 6911670421915600354
+    second: BOXY SPRITE SHEET_final_26
+  - first:
+      213: -2112704711074758850
+    second: BOXY SPRITE SHEET_final_27
+  - first:
+      213: -4206080847514819500
+    second: BOXY SPRITE SHEET_final_28
+  - first:
+      213: -4567416078080194358
+    second: BOXY SPRITE SHEET_final_29
+  - first:
+      213: 696487800058225163
+    second: BOXY SPRITE SHEET_final_30
+  - first:
+      213: -2262926350387317899
+    second: BOXY SPRITE SHEET_final_31
+  - first:
+      213: -8618840913912616581
+    second: BOXY SPRITE SHEET_final_32
+  - first:
+      213: -2539489137478022763
+    second: BOXY SPRITE SHEET_final_33
+  - first:
+      213: 5796337347709906643
+    second: BOXY SPRITE SHEET_final_34
+  - first:
+      213: 7855334303391315310
+    second: BOXY SPRITE SHEET_final_35
+  - first:
+      213: -1975416107994788092
+    second: BOXY SPRITE SHEET_final_36
+  - first:
+      213: -780718989095797635
+    second: BOXY SPRITE SHEET_final_37
+  - first:
+      213: -6321533219712913643
+    second: BOXY SPRITE SHEET_final_38
+  - first:
+      213: 5595510460283540865
+    second: BOXY SPRITE SHEET_final_39
+  - first:
+      213: -877551069165905394
+    second: BOXY SPRITE SHEET_final_40
+  - first:
+      213: 2516157505281820471
+    second: BOXY SPRITE SHEET_final_41
+  - first:
+      213: 5332502596595815124
+    second: BOXY SPRITE SHEET_final_42
+  - first:
+      213: -1541262028917025338
+    second: BOXY SPRITE SHEET_final_43
+  - first:
+      213: 5221723252643247244
+    second: BOXY SPRITE SHEET_final_44
+  - first:
+      213: 8280650869846937338
+    second: BOXY SPRITE SHEET_final_45
+  - first:
+      213: 2599331075052211060
+    second: BOXY SPRITE SHEET_final_46
+  - first:
+      213: -1239082389313415770
+    second: BOXY SPRITE SHEET_final_47
+  - first:
+      213: -2272302539188488834
+    second: BOXY SPRITE SHEET_final_48
+  - first:
+      213: 1273980605275657074
+    second: BOXY SPRITE SHEET_final_49
+  - first:
+      213: -3935998931840663478
+    second: BOXY SPRITE SHEET_final_50
+  - first:
+      213: -8452036352317013255
+    second: BOXY SPRITE SHEET_final_51
+  - first:
+      213: 9067827665835011185
+    second: BOXY SPRITE SHEET_final_52
+  - first:
+      213: 3569864050203312291
+    second: BOXY SPRITE SHEET_final_53
+  - first:
+      213: -7963332130453411056
+    second: BOXY SPRITE SHEET_final_54
+  - first:
+      213: -2344193744376684797
+    second: BOXY SPRITE SHEET_final_55
+  - first:
+      213: 2520761826338880641
+    second: BOXY SPRITE SHEET_final_56
+  - first:
+      213: -9172381144267968618
+    second: BOXY SPRITE SHEET_final_57
+  - first:
+      213: -6560232324663045785
+    second: BOXY SPRITE SHEET_final_58
+  - first:
+      213: 3219493761460794335
+    second: BOXY SPRITE SHEET_final_59
+  - first:
+      213: 1767809765867500784
+    second: BOXY SPRITE SHEET_final_60
+  - first:
+      213: -2602069394776327588
+    second: BOXY SPRITE SHEET_final_61
+  - first:
+      213: -7584908834688600631
+    second: BOXY SPRITE SHEET_final_62
+  - first:
+      213: -5107069282255818135
+    second: BOXY SPRITE SHEET_final_63
+  - first:
+      213: -8948290937813983429
+    second: BOXY SPRITE SHEET_final_64
+  - first:
+      213: -6228624773476388434
+    second: BOXY SPRITE SHEET_final_65
+  - first:
+      213: -7160731938016955889
+    second: BOXY SPRITE SHEET_final_66
+  - first:
+      213: 2518408056514272903
+    second: BOXY SPRITE SHEET_final_67
+  - first:
+      213: -8004736555861022646
+    second: BOXY SPRITE SHEET_final_68
+  - first:
+      213: 5073834542947542187
+    second: BOXY SPRITE SHEET_final_69
+  - first:
+      213: 8144793586196590404
+    second: BOXY SPRITE SHEET_final_70
+  - first:
+      213: 1004816962041126144
+    second: BOXY SPRITE SHEET_final_71
+  - first:
+      213: 8915786015348693510
+    second: BOXY SPRITE SHEET_final_72
+  - first:
+      213: 1052586764534932881
+    second: BOXY SPRITE SHEET_final_73
+  - first:
+      213: 4246310573131677517
+    second: BOXY SPRITE SHEET_final_74
+  - first:
+      213: -7183554640542923502
+    second: BOXY SPRITE SHEET_final_75
+  - first:
+      213: -6400004596242113354
+    second: BOXY SPRITE SHEET_final_76
+  - first:
+      213: -5331741850650211784
+    second: BOXY SPRITE SHEET_final_77
+  - first:
+      213: 527117849247025740
+    second: BOXY SPRITE SHEET_final_78
+  - first:
+      213: -4778762649421350252
+    second: BOXY SPRITE SHEET_final_79
+  - first:
+      213: 5776023246572113973
+    second: BOXY SPRITE SHEET_final_80
+  - first:
+      213: -9022956680056079165
+    second: BOXY SPRITE SHEET_final_81
+  - first:
+      213: -4495358406639337965
+    second: BOXY SPRITE SHEET_final_82
+  - first:
+      213: -1840118417323355214
+    second: BOXY SPRITE SHEET_final_83
+  - first:
+      213: -8141135832312691955
+    second: BOXY SPRITE SHEET_final_84
+  - first:
+      213: -334846322500571288
+    second: BOXY SPRITE SHEET_final_85
+  - first:
+      213: -8678323464972313231
+    second: BOXY SPRITE SHEET_final_86
+  - first:
+      213: -6149435242468416053
+    second: BOXY SPRITE SHEET_final_87
+  - first:
+      213: -8805431497100404481
+    second: BOXY SPRITE SHEET_final_88
+  - first:
+      213: 4322358959994930638
+    second: BOXY SPRITE SHEET_final_89
+  - first:
+      213: -5966896222626618724
+    second: BOXY SPRITE SHEET_final_90
+  - first:
+      213: -3520396750171687414
+    second: BOXY SPRITE SHEET_final_91
+  - first:
+      213: 8523740952445144158
+    second: BOXY SPRITE SHEET_final_92
+  - first:
+      213: -5132359404807455695
+    second: BOXY SPRITE SHEET_final_93
+  - first:
+      213: -1781210180712638867
+    second: BOXY SPRITE SHEET_final_94
+  - first:
+      213: 7886453252387320073
+    second: BOXY SPRITE SHEET_final_95
+  - first:
+      213: -7802854830729321916
+    second: BOXY SPRITE SHEET_final_96
+  - first:
+      213: 4078799329863525960
+    second: BOXY SPRITE SHEET_final_97
+  - first:
+      213: 7153319843899394446
+    second: BOXY SPRITE SHEET_final_98
+  - first:
+      213: -3917362136543494182
+    second: BOXY SPRITE SHEET_final_99
+  - first:
+      213: 4500361669057329573
+    second: BOXY SPRITE SHEET_final_100
+  - first:
+      213: -8061507019988556777
+    second: BOXY SPRITE SHEET_final_101
+  - first:
+      213: 7713350588837535536
+    second: BOXY SPRITE SHEET_final_102
+  - first:
+      213: 4701281699972232222
+    second: BOXY SPRITE SHEET_final_103
+  - first:
+      213: 3558164801488225485
+    second: BOXY SPRITE SHEET_final_104
+  - first:
+      213: -7452296161860880285
+    second: BOXY SPRITE SHEET_final_105
+  - first:
+      213: -7166858459235776891
+    second: BOXY SPRITE SHEET_final_106
+  - first:
+      213: -673033477944030756
+    second: BOXY SPRITE SHEET_final_107
+  - first:
+      213: 2877100559794401859
+    second: BOXY SPRITE SHEET_final_108
+  - first:
+      213: -3949226506766876930
+    second: BOXY SPRITE SHEET_final_109
+  - first:
+      213: 8455723542526007994
+    second: BOXY SPRITE SHEET_final_110
+  - first:
+      213: -1460936638417517482
+    second: BOXY SPRITE SHEET_final_111
+  - first:
+      213: 7371327862263064219
+    second: BOXY SPRITE SHEET_final_112
+  - first:
+      213: -5149463692559609403
+    second: BOXY SPRITE SHEET_final_113
+  - first:
+      213: -6707599752882556689
+    second: BOXY SPRITE SHEET_final_114
+  - first:
+      213: 7531235464460782136
+    second: BOXY SPRITE SHEET_final_115
+  - first:
+      213: -8143355378464364068
+    second: BOXY SPRITE SHEET_final_116
+  - first:
+      213: -2412271013511055541
+    second: BOXY SPRITE SHEET_final_117
+  - first:
+      213: 7672438979348014624
+    second: BOXY SPRITE SHEET_final_118
+  - first:
+      213: 6044451409576809271
+    second: BOXY SPRITE SHEET_final_119
+  - first:
+      213: 3242208903591581640
+    second: BOXY SPRITE SHEET_final_120
+  - first:
+      213: -7992525906133438230
+    second: BOXY SPRITE SHEET_final_121
+  - first:
+      213: -1314822041471048602
+    second: BOXY SPRITE SHEET_final_122
+  - first:
+      213: 7351135310618891020
+    second: BOXY SPRITE SHEET_final_123
+  - first:
+      213: 3671160740894467308
+    second: BOXY SPRITE SHEET_final_124
+  - first:
+      213: -6920676113384830302
+    second: BOXY SPRITE SHEET_final_125
+  - first:
+      213: 8004357682881886549
+    second: BOXY SPRITE SHEET_final_126
+  - first:
+      213: 2160610047854176629
+    second: BOXY SPRITE SHEET_final_127
+  - first:
+      213: -8911713475793499182
+    second: BOXY SPRITE SHEET_final_128
+  - first:
+      213: 8039728978045334375
+    second: BOXY SPRITE SHEET_final_129
+  - first:
+      213: -5216545609501176431
+    second: BOXY SPRITE SHEET_final_130
+  - first:
+      213: -8290232692849485931
+    second: BOXY SPRITE SHEET_final_131
+  - first:
+      213: -2036064779533601452
+    second: BOXY SPRITE SHEET_final_132
+  - first:
+      213: -7122635851817431457
+    second: BOXY SPRITE SHEET_final_133
+  - first:
+      213: 4870842772630677198
+    second: BOXY SPRITE SHEET_final_134
+  - first:
+      213: -287108155891622730
+    second: BOXY SPRITE SHEET_final_135
+  - first:
+      213: -8651149304152103050
+    second: BOXY SPRITE SHEET_final_136
+  - first:
+      213: 5501816525251995071
+    second: BOXY SPRITE SHEET_final_137
+  - first:
+      213: -7537148539189872725
+    second: BOXY SPRITE SHEET_final_138
+  - first:
+      213: -7943294346568150453
+    second: BOXY SPRITE SHEET_final_139
+  - first:
+      213: 8370423970117100597
+    second: BOXY SPRITE SHEET_final_140
+  - first:
+      213: 1035880770028279038
+    second: BOXY SPRITE SHEET_final_141
+  - first:
+      213: 7248419197084944046
+    second: BOXY SPRITE SHEET_final_142
+  - first:
+      213: 2481046760553859494
+    second: BOXY SPRITE SHEET_final_143
+  - first:
+      213: -50771101546703769
+    second: BOXY SPRITE SHEET_final_144
+  - first:
+      213: 8442458028230419353
+    second: BOXY SPRITE SHEET_final_145
+  - first:
+      213: 8606082203652829028
+    second: BOXY SPRITE SHEET_final_146
+  - first:
+      213: -5558621199341317112
+    second: BOXY SPRITE SHEET_final_147
+  - first:
+      213: -3877696545815024280
+    second: BOXY SPRITE SHEET_final_148
+  - first:
+      213: 9172723006904329220
+    second: BOXY SPRITE SHEET_final_149
+  - first:
+      213: -3250414523500923014
+    second: BOXY SPRITE SHEET_final_150
+  - first:
+      213: -7129321030119053403
+    second: BOXY SPRITE SHEET_final_151
+  - first:
+      213: -1367405911732045480
+    second: BOXY SPRITE SHEET_final_152
+  - first:
+      213: -2204730285988227661
+    second: BOXY SPRITE SHEET_final_153
+  - first:
+      213: 3427188185928586767
+    second: BOXY SPRITE SHEET_final_154
+  - first:
+      213: 1481767269865229266
+    second: BOXY SPRITE SHEET_final_155
+  - first:
+      213: 957154607016309798
+    second: BOXY SPRITE SHEET_final_156
+  - first:
+      213: -8835906956362456749
+    second: BOXY SPRITE SHEET_final_157
+  - first:
+      213: 1259606210201744793
+    second: BOXY SPRITE SHEET_final_158
+  - first:
+      213: 4724478486370069162
+    second: BOXY SPRITE SHEET_final_159
+  - first:
+      213: -7840394936250750927
+    second: BOXY SPRITE SHEET_final_160
+  - first:
+      213: -167802358297498129
+    second: BOXY SPRITE SHEET_final_161
+  - first:
+      213: 7063732052468191461
+    second: BOXY SPRITE SHEET_final_162
+  - first:
+      213: 7779429933482783903
+    second: BOXY SPRITE SHEET_final_163
+  - first:
+      213: 2724606302017152811
+    second: BOXY SPRITE SHEET_final_164
+  - first:
+      213: -8025248006056589902
+    second: BOXY SPRITE SHEET_final_165
+  - first:
+      213: -7812249212555265518
+    second: BOXY SPRITE SHEET_final_166
+  - first:
+      213: -6270004709218120590
+    second: BOXY SPRITE SHEET_final_167
+  - first:
+      213: 7451326055681387461
+    second: BOXY SPRITE SHEET_final_168
+  - first:
+      213: 7759466854215708205
+    second: BOXY SPRITE SHEET_final_169
+  - first:
+      213: 4555191061756957103
+    second: BOXY SPRITE SHEET_final_170
+  - first:
+      213: -2439611099829232685
+    second: BOXY SPRITE SHEET_final_171
+  - first:
+      213: 4208368755637959821
+    second: BOXY SPRITE SHEET_final_172
+  - first:
+      213: 7003412715812080782
+    second: BOXY SPRITE SHEET_final_173
+  - first:
+      213: -8036776718580888178
+    second: BOXY SPRITE SHEET_final_174
+  - first:
+      213: -7516786543864772817
+    second: BOXY SPRITE SHEET_final_175
+  - first:
+      213: -5523800748491327753
+    second: BOXY SPRITE SHEET_final_176
+  - first:
+      213: -8356965459677492212
+    second: BOXY SPRITE SHEET_final_177
+  - first:
+      213: -8174271436915921154
+    second: BOXY SPRITE SHEET_final_178
+  - first:
+      213: -8990193304873197982
+    second: BOXY SPRITE SHEET_final_179
+  - first:
+      213: 6424831985108451391
+    second: BOXY SPRITE SHEET_final_180
+  - first:
+      213: 6143623412582637812
+    second: BOXY SPRITE SHEET_final_181
+  - first:
+      213: -8328357762738163661
+    second: BOXY SPRITE SHEET_final_182
+  - first:
+      213: -752198417923906435
+    second: BOXY SPRITE SHEET_final_183
+  - first:
+      213: 7822088396238952878
+    second: BOXY SPRITE SHEET_final_184
+  - first:
+      213: 8298221941965926342
+    second: BOXY SPRITE SHEET_final_185
+  - first:
+      213: -3780909486191838874
+    second: BOXY SPRITE SHEET_final_186
+  - first:
+      213: -7414483766773028561
+    second: BOXY SPRITE SHEET_final_187
+  - first:
+      213: -4504435480285514317
+    second: BOXY SPRITE SHEET_final_188
+  - first:
+      213: 7760675633355232641
+    second: BOXY SPRITE SHEET_final_189
+  - first:
+      213: 6217584716307269136
+    second: BOXY SPRITE SHEET_final_190
+  - first:
+      213: 4466874251085387658
+    second: BOXY SPRITE SHEET_final_191
+  - first:
+      213: -7217075640949204206
+    second: BOXY SPRITE SHEET_final_192
+  - first:
+      213: -4150745063385649151
+    second: BOXY SPRITE SHEET_final_193
+  - first:
+      213: -2367381422344117057
+    second: BOXY SPRITE SHEET_final_194
+  - first:
+      213: -4135983235205850137
+    second: BOXY SPRITE SHEET_final_195
+  - first:
+      213: 8279650854893671782
+    second: BOXY SPRITE SHEET_final_196
+  - first:
+      213: -2481793118201093065
+    second: BOXY SPRITE SHEET_final_197
+  - first:
+      213: 6409780733042174426
+    second: BOXY SPRITE SHEET_final_198
+  - first:
+      213: 447392423682554311
+    second: BOXY SPRITE SHEET_final_199
+  - first:
+      213: -6725691064875181657
+    second: BOXY SPRITE SHEET_final_200
+  - first:
+      213: -6977073610152791487
+    second: BOXY SPRITE SHEET_final_201
+  - first:
+      213: 7931210441466734644
+    second: BOXY SPRITE SHEET_final_202
+  - first:
+      213: -8088944083815451486
+    second: BOXY SPRITE SHEET_final_203
+  - first:
+      213: 8243430110871065875
+    second: BOXY SPRITE SHEET_final_204
+  - first:
+      213: 1024041597450628983
+    second: BOXY SPRITE SHEET_final_205
+  - first:
+      213: 3365475930953674415
+    second: BOXY SPRITE SHEET_final_206
+  - first:
+      213: 2973462925649671527
+    second: BOXY SPRITE SHEET_final_207
+  - first:
+      213: -8460064642072805898
+    second: BOXY SPRITE SHEET_final_208
+  - first:
+      213: 2063871337880695467
+    second: BOXY SPRITE SHEET_final_209
+  - first:
+      213: -5233611424161544545
+    second: BOXY SPRITE SHEET_final_210
+  - first:
+      213: 7677235665644605116
+    second: BOXY SPRITE SHEET_final_211
+  - first:
+      213: 2796758334258139562
+    second: BOXY SPRITE SHEET_final_212
+  - first:
+      213: -984399659066726152
+    second: BOXY SPRITE SHEET_final_213
+  - first:
+      213: -7822019841350568434
+    second: BOXY SPRITE SHEET_final_214
+  - first:
+      213: -6253100259566687181
+    second: BOXY SPRITE SHEET_final_215
+  - first:
+      213: 5564869416918594076
+    second: BOXY SPRITE SHEET_final_216
+  - first:
+      213: -8902007272212790384
+    second: BOXY SPRITE SHEET_final_217
+  - first:
+      213: -2723456869614672309
+    second: BOXY SPRITE SHEET_final_218
+  - first:
+      213: -8317159885932437805
+    second: BOXY SPRITE SHEET_final_219
+  - first:
+      213: -223516863319712693
+    second: BOXY SPRITE SHEET_final_220
+  - first:
+      213: 4631841524715772577
+    second: BOXY SPRITE SHEET_final_221
+  - first:
+      213: 8955990312286796641
+    second: BOXY SPRITE SHEET_final_222
+  - first:
+      213: -9119234881634287573
+    second: BOXY SPRITE SHEET_final_223
+  - first:
+      213: -2645250244975413545
+    second: BOXY SPRITE SHEET_final_224
+  - first:
+      213: -4624174266722129032
+    second: BOXY SPRITE SHEET_final_225
+  - first:
+      213: -5640241018343317264
+    second: BOXY SPRITE SHEET_final_226
+  - first:
+      213: -7209622162187209044
+    second: BOXY SPRITE SHEET_final_227
+  - first:
+      213: 5206364861833921604
+    second: BOXY SPRITE SHEET_final_228
+  - first:
+      213: 5470300256623088612
+    second: BOXY SPRITE SHEET_final_229
+  - first:
+      213: 1568139130316134602
+    second: BOXY SPRITE SHEET_final_230
+  - first:
+      213: -7301932110194224404
+    second: BOXY SPRITE SHEET_final_231
+  - first:
+      213: -1386431464816071652
+    second: BOXY SPRITE SHEET_final_232
+  - first:
+      213: 3984258540012850006
+    second: BOXY SPRITE SHEET_final_233
+  - first:
+      213: 4478208817545930072
+    second: BOXY SPRITE SHEET_final_234
+  - first:
+      213: 6386713265365721262
+    second: BOXY SPRITE SHEET_final_235
+  - first:
+      213: 8663639400042593651
+    second: BOXY SPRITE SHEET_final_236
+  - first:
+      213: 1471908995044393720
+    second: BOXY SPRITE SHEET_final_237
+  - first:
+      213: -6033221157206420326
+    second: BOXY SPRITE SHEET_final_238
+  - first:
+      213: 5213858874750512244
+    second: BOXY SPRITE SHEET_final_239
+  - first:
+      213: -5317128433396390756
+    second: BOXY SPRITE SHEET_final_240
+  - first:
+      213: 6018300806324007179
+    second: BOXY SPRITE SHEET_final_241
+  - first:
+      213: 4703238947785265451
+    second: BOXY SPRITE SHEET_final_242
+  - first:
+      213: -8030539620085996955
+    second: BOXY SPRITE SHEET_final_243
+  - first:
+      213: 4175288307246019157
+    second: BOXY SPRITE SHEET_final_244
+  - first:
+      213: -1151365046458199893
+    second: BOXY SPRITE SHEET_final_245
+  - first:
+      213: 393732274206653038
+    second: BOXY SPRITE SHEET_final_246
+  - first:
+      213: 6225808370055532536
+    second: BOXY SPRITE SHEET_final_247
+  - first:
+      213: -7701328221293825802
+    second: BOXY SPRITE SHEET_final_248
+  - first:
+      213: 5863142548119797192
+    second: BOXY SPRITE SHEET_final_249
+  - first:
+      213: 9125179964811287531
+    second: BOXY SPRITE SHEET_final_250
+  - first:
+      213: 3560303688927426749
+    second: BOXY SPRITE SHEET_final_251
+  - first:
+      213: 6598768753254431631
+    second: BOXY SPRITE SHEET_final_252
+  - first:
+      213: -4212633878655444085
+    second: BOXY SPRITE SHEET_final_253
+  - first:
+      213: 72221143730341590
+    second: BOXY SPRITE SHEET_final_254
+  - first:
+      213: 2078562423603722198
+    second: BOXY SPRITE SHEET_final_255
+  - first:
+      213: -1181369791515096420
+    second: BOXY SPRITE SHEET_final_256
+  - first:
+      213: 8634347156875847885
+    second: BOXY SPRITE SHEET_final_257
+  - first:
+      213: -9086123127357294098
+    second: BOXY SPRITE SHEET_final_258
+  - first:
+      213: 8564199234601039382
+    second: BOXY SPRITE SHEET_final_259
+  - first:
+      213: 3928658509913874846
+    second: BOXY SPRITE SHEET_final_260
+  - first:
+      213: -3381607160816996175
+    second: BOXY SPRITE SHEET_final_261
+  - first:
+      213: 8919826074375545392
+    second: BOXY SPRITE SHEET_final_262
+  - first:
+      213: -4129372489563653977
+    second: BOXY SPRITE SHEET_final_263
+  - first:
+      213: 7585536429563882363
+    second: BOXY SPRITE SHEET_final_264
+  - first:
+      213: -5923044888560314707
+    second: BOXY SPRITE SHEET_final_265
+  - first:
+      213: -4923389741967319584
+    second: BOXY SPRITE SHEET_final_266
+  - first:
+      213: -4652364076043742451
+    second: BOXY SPRITE SHEET_final_267
+  - first:
+      213: 3307515026321728441
+    second: BOXY SPRITE SHEET_final_268
+  - first:
+      213: -2413289192552724460
+    second: BOXY SPRITE SHEET_final_269
+  - first:
+      213: 4903608078647846581
+    second: BOXY SPRITE SHEET_final_270
+  - first:
+      213: -4935810733622075796
+    second: BOXY SPRITE SHEET_final_271
+  - first:
+      213: -7174026661371510923
+    second: BOXY SPRITE SHEET_final_272
+  - first:
+      213: 5273164195041719782
+    second: BOXY SPRITE SHEET_final_273
+  - first:
+      213: 1472393339043074185
+    second: BOXY SPRITE SHEET_final_274
+  - first:
+      213: -5529579632120551546
+    second: BOXY SPRITE SHEET_final_275
+  - first:
+      213: 7481099466988841109
+    second: BOXY SPRITE SHEET_final_276
+  - first:
+      213: -2287278780654834565
+    second: BOXY SPRITE SHEET_final_277
+  - first:
+      213: -1832802766410559020
+    second: BOXY SPRITE SHEET_final_278
+  - first:
+      213: -7614173074225391198
+    second: BOXY SPRITE SHEET_final_279
+  - first:
+      213: -4838560598413065500
+    second: BOXY SPRITE SHEET_final_280
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_0
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 7799
+        width: 302
+        height: 2401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103ec53fa04f8f310800000000000000
+      internalID: 1439168408814674689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_1
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 10118
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762dbd6a40b09f980800000000000000
+      internalID: -8504754306705272217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_2
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 9967
+        width: 106
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b61e0c77a869a0800000000000000
+      internalID: -6239553132467668607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_3
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 10126
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a15c36471e03340800000000000000
+      internalID: 4841617489429600865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_4
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 9961
+        width: 119
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffce06565843e2d0800000000000000
+      internalID: -3250674970383167492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_5
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 7799
+        width: 302
+        height: 2401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036de823799d48b60800000000000000
+      internalID: 7747556502395606576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_6
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 10118
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e7cb722cbfc0df0800000000000000
+      internalID: -212518271084364279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_7
+      rect:
+        serializedVersion: 2
+        x: 4915
+        y: 9967
+        width: 106
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf091196f05ea430800000000000000
+      internalID: 3796060555846422460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_8
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 10126
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1bc6faac4ea420800000000000000
+      internalID: 2643134328481717709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_9
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 9961
+        width: 119
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac3fb301f25f0e20800000000000000
+      internalID: 3318962645498805418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_10
+      rect:
+        serializedVersion: 2
+        x: 8699
+        y: 9599
+        width: 302
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2fc81a98bd66590800000000000000
+      internalID: -7681210730266430796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_11
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 10016
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3fb9f8adfa26670800000000000000
+      internalID: 8530573997440234418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_12
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 10016
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04badb892b9ffa410800000000000000
+      internalID: 1490684547144985408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_13
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 9953
+        width: 180
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984ab896b55ab5d00800000000000000
+      internalID: 962544757405099145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_14
+      rect:
+        serializedVersion: 2
+        x: 9334
+        y: 9953
+        width: 181
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ff09b067e592da0800000000000000
+      internalID: -5969135970009678058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_15
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 9996
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d11294c7b3b1570800000000000000
+      internalID: 8438403731797646728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_16
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 9996
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e2b598c0eadd040800000000000000
+      internalID: 4674083357147737719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_17
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 9996
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb8f9e3fd6d124b0800000000000000
+      internalID: -5466852218334377023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_18
+      rect:
+        serializedVersion: 2
+        x: 4986
+        y: 9996
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f793d54ef257e4aa0800000000000000
+      internalID: -6174869190523143809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_19
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 9961
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f46b0c26453f18c0800000000000000
+      internalID: -4026440966343006987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_20
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 9962
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b137e4400553339b0800000000000000
+      internalID: -5101675335094734053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_21
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 9961
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c36bebeedfef890800000000000000
+      internalID: -7422215934016340938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_22
+      rect:
+        serializedVersion: 2
+        x: 4961
+        y: 9962
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34955bc7dc6fb5620800000000000000
+      internalID: 2764074158742919491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_23
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 9755
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35432741a5ed30470800000000000000
+      internalID: 8359769811801224275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_24
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 9750
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8113c7e9c1f93b0b0800000000000000
+      internalID: -5714048556936187624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_25
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 9761
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58f233806e9861c0800000000000000
+      internalID: -4510180889456347041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_26
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 9752
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e58ade01af2bef50800000000000000
+      internalID: 6911670421915600354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_27
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 9711
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f3815424a2ea2e0800000000000000
+      internalID: -2112704711074758850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_28
+      rect:
+        serializedVersion: 2
+        x: 5232
+        y: 9747
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4542e4301cff0a5c0800000000000000
+      internalID: -4206080847514819500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_29
+      rect:
+        serializedVersion: 2
+        x: 9033
+        y: 9653
+        width: 182
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac84f94b6474d90c0800000000000000
+      internalID: -4567416078080194358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_30
+      rect:
+        serializedVersion: 2
+        x: 9138
+        y: 9715
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b022dd8c6fb6aa900800000000000000
+      internalID: 696487800058225163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_31
+      rect:
+        serializedVersion: 2
+        x: 9335
+        y: 9653
+        width: 181
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573fa4c49787890e0800000000000000
+      internalID: -2262926350387317899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_32
+      rect:
+        serializedVersion: 2
+        x: 9439
+        y: 9724
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79a2a67ad9b36880800000000000000
+      internalID: -8618840913912616581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_33
+      rect:
+        serializedVersion: 2
+        x: 9205
+        y: 9679
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599c8a1951ce1ccd0800000000000000
+      internalID: -2539489137478022763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 9361
+        width: 85
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de24908b1ab07050800000000000000
+      internalID: 5796337347709906643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9396
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e657499fde0c30d60800000000000000
+      internalID: 7855334303391315310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_36
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 9361
+        width: 85
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fc2671489e594e0800000000000000
+      internalID: -1975416107994788092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 9400
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cfa8147345a25f0800000000000000
+      internalID: -780718989095797635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_38
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 9410
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f2e2397076548a0800000000000000
+      internalID: -6321533219712913643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_39
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 9360
+        width: 79
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185de2a0e1f37ad40800000000000000
+      internalID: 5595510460283540865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_40
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 9360
+        width: 83
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1a1ab3ff42d3f0800000000000000
+      internalID: -877551069165905394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_41
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 9360
+        width: 83
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737814d7bef2be220800000000000000
+      internalID: 2516157505281820471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_42
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 9360
+        width: 79
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d211f9dbdad00a40800000000000000
+      internalID: 5332502596595815124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_43
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 5399
+        width: 302
+        height: 4202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c55a94c9565c9ae0800000000000000
+      internalID: -1541262028917025338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_44
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 9360
+        width: 76
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84b235e1a9477840800000000000000
+      internalID: 5221723252643247244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_45
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 9361
+        width: 75
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe8146e718cae270800000000000000
+      internalID: 8280650869846937338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_46
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 9361
+        width: 77
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b0f1647dda21420800000000000000
+      internalID: 2599331075052211060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_47
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 9361
+        width: 75
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a51881c125edcee0800000000000000
+      internalID: -1239082389313415770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_48
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 9414
+        width: 120
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75b37931e82770e0800000000000000
+      internalID: -2272302539188488834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_49
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 9433
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27351345c961ea110800000000000000
+      internalID: 1273980605275657074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_50
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 9432
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40025743d58069c0800000000000000
+      internalID: -3935998931840663478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_51
+      rect:
+        serializedVersion: 2
+        x: 4887
+        y: 9362
+        width: 65
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2c477e7b554ba80800000000000000
+      internalID: -8452036352317013255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_52
+      rect:
+        serializedVersion: 2
+        x: 5187
+        y: 9396
+        width: 120
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c2e8af73567dd70800000000000000
+      internalID: 9067827665835011185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 9148
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a04ec09074ba8130800000000000000
+      internalID: 3569864050203312291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_54
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 9148
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01baedf6e9f8c7190800000000000000
+      internalID: -7963332130453411056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 9119
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f1cb5a530c77fd0800000000000000
+      internalID: -2344193744376684797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_56
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9133
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c3b46868b8bf220800000000000000
+      internalID: 2520761826338880641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_57
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 9133
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69faa6752f725b080800000000000000
+      internalID: -9172381144267968618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_58
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 9119
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619c64557f55f4a0800000000000000
+      internalID: -6560232324663045785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_59
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 9119
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3f478b480fdac20800000000000000
+      internalID: 3219493761460794335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_60
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 9115
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4bff4ad95888810800000000000000
+      internalID: 1767809765867500784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_61
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 9108
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5af07bfba793ebd0800000000000000
+      internalID: -2602069394776327588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_62
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 9115
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5f9a6f99dfcb690800000000000000
+      internalID: -7584908834688600631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_63
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 9065
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96235d3db8b0029b0800000000000000
+      internalID: -5107069282255818135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_64
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 9148
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f10c85dc841d380800000000000000
+      internalID: -8948290937813983429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_65
+      rect:
+        serializedVersion: 2
+        x: 4957
+        y: 9065
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1fdb9e4ca7f89a0800000000000000
+      internalID: -6228624773476388434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_66
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 9125
+        width: 129
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0274b6dd38ff9c90800000000000000
+      internalID: -7160731938016955889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_67
+      rect:
+        serializedVersion: 2
+        x: 5798
+        y: 9125
+        width: 229
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ed308c8ce23f220800000000000000
+      internalID: 2518408056514272903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_68
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 8767
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48e15b638679e090800000000000000
+      internalID: -8004736555861022646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_69
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 8926
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4ae7d62a1e96640800000000000000
+      internalID: 5073834542947542187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_70
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 8918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fa02a1d9e180170800000000000000
+      internalID: 8144793586196590404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_71
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 8761
+        width: 119
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d9fb604b3d1fd00800000000000000
+      internalID: 1004816962041126144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_72
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 8767
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a1142a42c3bbb70800000000000000
+      internalID: 8915786015348693510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_73
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 8926
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195e163e51a8b9e00800000000000000
+      internalID: 1052586764534932881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_74
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 8918
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fbf75e7fcedea30800000000000000
+      internalID: 4246310573131677517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_75
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 8761
+        width: 119
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21584d15d13ee4c90800000000000000
+      internalID: -7183554640542923502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_76
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8834
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc1f187abd9e27a0800000000000000
+      internalID: -6400004596242113354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_77
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 8834
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a09ed1909d106b0800000000000000
+      internalID: -5331741850650211784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_78
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 8833
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a032f14e2b05700800000000000000
+      internalID: 527117849247025740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_79
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 8852
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49af55770bc6eadb0800000000000000
+      internalID: -4778762649421350252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_80
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 8852
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53054524a8e882050800000000000000
+      internalID: 5776023246572113973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_81
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 8833
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccf48584b408c280800000000000000
+      internalID: -9022956680056079165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_82
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 8833
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e323ab8574d91c0800000000000000
+      internalID: -4495358406639337965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_83
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 8825
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b399ce7c069676e0800000000000000
+      internalID: -1840118417323355214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_84
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 8822
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d034cc61810e40f80800000000000000
+      internalID: -8141135832312691955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_85
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 8825
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fe1053b036a5bf0800000000000000
+      internalID: -334846322500571288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_86
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 8816
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d5360d9c6609780800000000000000
+      internalID: -8678323464972313231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_87
+      rect:
+        serializedVersion: 2
+        x: 5608
+        y: 8816
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5e6636a31d8aaa0800000000000000
+      internalID: -6149435242468416053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_88
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 8796
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff85b41e4b2dcc580800000000000000
+      internalID: -8805431497100404481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_89
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 8796
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec58932c29a1cfb30800000000000000
+      internalID: 4322358959994930638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_90
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 8796
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9268bedf73513da0800000000000000
+      internalID: -5966896222626618724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_91
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 8796
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06b39dbec9052fc0800000000000000
+      internalID: -3520396750171687414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_92
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 8762
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c41fb4c396a4670800000000000000
+      internalID: 8523740952445144158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_93
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 8761
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf0d0505236c8b0800000000000000
+      internalID: -5132359404807455695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_94
+      rect:
+        serializedVersion: 2
+        x: 4945
+        y: 8762
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66505427ced747e0800000000000000
+      internalID: -1781210180712638867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_95
+      rect:
+        serializedVersion: 2
+        x: 4969
+        y: 8761
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9013546e27f427d60800000000000000
+      internalID: 7886453252387320073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_96
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8523
+        width: 123
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442207c6fd0b6b390800000000000000
+      internalID: -7802854830729321916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_97
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 8523
+        width: 123
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846ed9e416eca9830800000000000000
+      internalID: 4078799329863525960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_98
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 8482
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8940648f72b54360800000000000000
+      internalID: 7153319843899394446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_99
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 8488
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf72c254ebb2a9c0800000000000000
+      internalID: -3917362136543494182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_100
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 8488
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a932f4181f747e30800000000000000
+      internalID: 4500361669057329573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_101
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 8482
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a347b316cf1090800000000000000
+      internalID: -8061507019988556777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_102
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 8473
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f16b35e735b0b60800000000000000
+      internalID: 7713350588837535536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_103
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 8474
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14b3e33cce4e3140800000000000000
+      internalID: 4701281699972232222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_104
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 8473
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc40105f804216130800000000000000
+      internalID: 3558164801488225485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_105
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 8468
+        width: 86
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368764fef10249890800000000000000
+      internalID: -7452296161860880285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_106
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 8559
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5868fb5f3343a8c90800000000000000
+      internalID: -7166858459235776891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_107
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 8550
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd943312e97e8a6f0800000000000000
+      internalID: -673033477944030756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_108
+      rect:
+        serializedVersion: 2
+        x: 4899
+        y: 8526
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3427f9137b38de720800000000000000
+      internalID: 2877100559794401859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_109
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 8553
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe7a9e7a678139c0800000000000000
+      internalID: -3949226506766876930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8190
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba9b27f2c3c85570800000000000000
+      internalID: 8455723542526007994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_111
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 8228
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65445c32ed5b9bbe0800000000000000
+      internalID: -1460936638417517482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_112
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 8228
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b962121c2a73c4660800000000000000
+      internalID: 7371327862263064219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_113
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 8190
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1963dfd0e6988b0800000000000000
+      internalID: -5149463692559609403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_114
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 8214
+        width: 119
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0ffe92091d9e2a0800000000000000
+      internalID: -6707599752882556689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_115
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 8214
+        width: 119
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a4203b0c2548860800000000000000
+      internalID: 7531235464460782136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_116
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 8188
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd96ddabd6dfcfe80800000000000000
+      internalID: -8143355378464364068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_117
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 8234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47b3b14b44e58ed0800000000000000
+      internalID: -2412271013511055541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_118
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 8184
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02626e4f99af97a60800000000000000
+      internalID: 7672438979348014624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_119
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 8188
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7335fe9388432e350800000000000000
+      internalID: 6044451409576809271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_120
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 8184
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c75f22e1d3aefc20800000000000000
+      internalID: 3242208903591581640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_121
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 8232
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae03fcad808d41190800000000000000
+      internalID: -7992525906133438230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_122
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 8226
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664a34bc150d0cde0800000000000000
+      internalID: -1314822041471048602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_123
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 8226
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c031545fd9a740660800000000000000
+      internalID: 7351135310618891020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_124
+      rect:
+        serializedVersion: 2
+        x: 4908
+        y: 8164
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4ef524e3592f230800000000000000
+      internalID: 3671160740894467308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_125
+      rect:
+        serializedVersion: 2
+        x: 5543
+        y: 8237
+        width: 120
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa8a200eb1d4ff90800000000000000
+      internalID: -6920676113384830302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7870
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559f75757e0351f60800000000000000
+      internalID: 8004357682881886549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_127
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 7870
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579ec7024670cfd10800000000000000
+      internalID: 2160610047854176629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_128
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 7950
+        width: 130
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db444f5fcb335480800000000000000
+      internalID: -8911713475793499182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_129
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 7915
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7637ec2c8ead29f60800000000000000
+      internalID: 8039728978045334375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_130
+      rect:
+        serializedVersion: 2
+        x: 4970
+        y: 7947
+        width: 130
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d0f07186b1b97b0800000000000000
+      internalID: -5216545609501176431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_131
+      rect:
+        serializedVersion: 2
+        x: 5422
+        y: 7928
+        width: 130
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59750651a4d23fc80800000000000000
+      internalID: -8290232692849485931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_132
+      rect:
+        serializedVersion: 2
+        x: 5798
+        y: 7925
+        width: 229
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455373cded17eb3e0800000000000000
+      internalID: -2036064779533601452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_133
+      rect:
+        serializedVersion: 2
+        x: 6286
+        y: 5399
+        width: 1113
+        height: 2830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ec5fb1e60572d90800000000000000
+      internalID: -7122635851817431457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_134
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7564
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec62e63e1b5b89340800000000000000
+      internalID: 4870842772630677198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_135
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 7564
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc56f347acf30cf0800000000000000
+      internalID: -287108155891622730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_136
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7263
+        width: 94
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677652b2b81f0f780800000000000000
+      internalID: -8651149304152103050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_137
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 7263
+        width: 94
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5e407daf06a5c40800000000000000
+      internalID: 5501816525251995071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_138
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 7261
+        width: 84
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7bb3e465ba66790800000000000000
+      internalID: -7537148539189872725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_139
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 7265
+        width: 97
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42df6e80efb3c190800000000000000
+      internalID: -7943294346568150453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_140
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 7265
+        width: 97
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534ae3e9048b92470800000000000000
+      internalID: 8370423970117100597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_141
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 7263
+        width: 84
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4913f6210306e00800000000000000
+      internalID: 1035880770028279038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_142
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 7270
+        width: 72
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6ce512bde879460800000000000000
+      internalID: 7248419197084944046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_143
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 7312
+        width: 71
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a942f132e27e6220800000000000000
+      internalID: 2481046760553859494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_144
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 7295
+        width: 82
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764147fb3ff9b4ff0800000000000000
+      internalID: -50771101546703769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_145
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 5399
+        width: 308
+        height: 2102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993a1dbb8d2a92570800000000000000
+      internalID: 8442458028230419353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_146
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 7262
+        width: 91
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fa980da22fe6770800000000000000
+      internalID: 8606082203652829028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_147
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 7259
+        width: 96
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041e44587fcbd2b0800000000000000
+      internalID: -5558621199341317112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_148
+      rect:
+        serializedVersion: 2
+        x: 5281
+        y: 7448
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dafe75987af2ac0800000000000000
+      internalID: -3877696545815024280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_149
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 5399
+        width: 302
+        height: 2102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404e591c9fe0c4f70800000000000000
+      internalID: 9172723006904329220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_150
+      rect:
+        serializedVersion: 2
+        x: 5805
+        y: 7262
+        width: 91
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77f4f9563534e2d0800000000000000
+      internalID: -3250414523500923014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_151
+      rect:
+        serializedVersion: 2
+        x: 6106
+        y: 7260
+        width: 104
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7280ebb409f0d90800000000000000
+      internalID: -7129321030119053403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_152
+      rect:
+        serializedVersion: 2
+        x: 6182
+        y: 7449
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859317f619ff50de0800000000000000
+      internalID: -1367405911732045480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_153
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 7433
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5502e6c793761e0800000000000000
+      internalID: -2204730285988227661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_154
+      rect:
+        serializedVersion: 2
+        x: 6101
+        y: 7434
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0650b04f71df8f20800000000000000
+      internalID: 3427188185928586767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_155
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 7254
+        width: 114
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0e103b7b409410800000000000000
+      internalID: 1481767269865229266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_156
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 7266
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624f55a3b0f784d00800000000000000
+      internalID: 957154607016309798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_157
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 7254
+        width: 114
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351ec95107d806580800000000000000
+      internalID: -8835906956362456749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_158
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 7254
+        width: 114
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99573fbac250b7110800000000000000
+      internalID: 1259606210201744793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_159
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 7266
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa2019e628b09140800000000000000
+      internalID: 4724478486370069162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_160
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 7301
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138a00e7852513390800000000000000
+      internalID: -7840394936250750927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_161
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 7302
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed6439e4a8dbadf0800000000000000
+      internalID: -167802358297498129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_162
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 7260
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e058ef50ea670260800000000000000
+      internalID: 7063732052468191461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_163
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 7262
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94384cae4616fb60800000000000000
+      internalID: 7779429933482783903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_164
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 7260
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27e5800ffebfc520800000000000000
+      internalID: 2724606302017152811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_165
+      rect:
+        serializedVersion: 2
+        x: 4362
+        y: 7262
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5c594457790a090800000000000000
+      internalID: -8025248006056589902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_166
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 7037
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a71d47bb0559390800000000000000
+      internalID: -7812249212555265518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_167
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 7098
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c0707dfe77cf8a0800000000000000
+      internalID: -6270004709218120590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_168
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 7085
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb608e919d686760800000000000000
+      internalID: 7451326055681387461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_169
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 7059
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ee1f31ef92fab60800000000000000
+      internalID: 7759466854215708205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_170
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7057
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1de00e22a473f30800000000000000
+      internalID: 4555191061756957103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_171
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7073
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db149c51a2c42ed0800000000000000
+      internalID: -2439611099829232685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_172
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 7059
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c37ab1611276a30800000000000000
+      internalID: 4208368755637959821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_173
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 7057
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cce6562ce113160800000000000000
+      internalID: 7003412715812080782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_174
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7073
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d4bd5b722a77090800000000000000
+      internalID: -8036776718580888178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_175
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 7021
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f270188c6720fa790800000000000000
+      internalID: -7516786543864772817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_176
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 7039
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f633205c748753b0800000000000000
+      internalID: -5523800748491327753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_177
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 7039
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cc6b70138160c80800000000000000
+      internalID: -8356965459677492212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_178
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 7021
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe2101ff672f8e80800000000000000
+      internalID: -8174271436915921154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_179
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 7028
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e10f042da6c3380800000000000000
+      internalID: -8990193304873197982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_180
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 7028
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3005f576a6992950800000000000000
+      internalID: 6424831985108451391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_181
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 7028
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0e2c481f8824550800000000000000
+      internalID: 6143623412582637812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_182
+      rect:
+        serializedVersion: 2
+        x: 4891
+        y: 7038
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330ff958dbabb6c80800000000000000
+      internalID: -8328357762738163661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_183
+      rect:
+        serializedVersion: 2
+        x: 5186
+        y: 7055
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74e8033687af85f0800000000000000
+      internalID: -752198417923906435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_184
+      rect:
+        serializedVersion: 2
+        x: 5791
+        y: 7038
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9178304f3ad8c60800000000000000
+      internalID: 7822088396238952878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_185
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 7055
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf2b3ee3e4392370800000000000000
+      internalID: 8298221941965926342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_186
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 7026
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66971abbad2878bc0800000000000000
+      internalID: -3780909486191838874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_187
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 7026
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29e7983c467a1990800000000000000
+      internalID: -7414483766773028561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_188
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 7026
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b57ae3dbc70d71c0800000000000000
+      internalID: -4504435480285514317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_189
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 7026
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1851b27ee5573bb60800000000000000
+      internalID: 7760675633355232641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_190
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 7024
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01684687b5c494650800000000000000
+      internalID: 6217584716307269136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_191
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 7024
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87984007768dfd30800000000000000
+      internalID: 4466874251085387658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_192
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 6810
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b191831fbc7db90800000000000000
+      internalID: -7217075640949204206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_193
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 6780
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10031bf3b579566c0800000000000000
+      internalID: -4150745063385649151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_194
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6733
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4e159a32f552fd0800000000000000
+      internalID: -2367381422344117057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_195
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 6733
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb959439290a96c0800000000000000
+      internalID: -4135983235205850137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_196
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 6758
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6655236c59a37e270800000000000000
+      internalID: 8279650854893671782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_197
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 6746
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7346d9fde46ee8dd0800000000000000
+      internalID: -2481793118201093065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_198
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 6758
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad92f11cd9d14f850800000000000000
+      internalID: 6409780733042174426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_199
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 6746
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9bcc8f905753600800000000000000
+      internalID: 447392423682554311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_200
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 6743
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a998195c9b89a2a0800000000000000
+      internalID: -6725691064875181657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_201
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 6738
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142371784847c2f90800000000000000
+      internalID: -6977073610152791487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_202
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 6759
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4386e7a00e1511e60800000000000000
+      internalID: 7931210441466734644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_203
+      rect:
+        serializedVersion: 2
+        x: 5864
+        y: 6738
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4be2c763c4ebf80800000000000000
+      internalID: -8088944083815451486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_204
+      rect:
+        serializedVersion: 2
+        x: 6163
+        y: 6759
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3159a31a20c866270800000000000000
+      internalID: 8243430110871065875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_205
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 6726
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fa4434860263e00800000000000000
+      internalID: 1024041597450628983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_206
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 6739
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faeee94378294be20800000000000000
+      internalID: 3365475930953674415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_207
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 6739
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765742cd6ccd34920800000000000000
+      internalID: 2973462925649671527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_208
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 6726
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd78680800d79a80800000000000000
+      internalID: -8460064642072805898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_209
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6725
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba23d740c0854ac10800000000000000
+      internalID: 2063871337880695467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_210
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6719
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96cc6a732a7e57b0800000000000000
+      internalID: -5233611424161544545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_211
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 6725
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbec4b389250b8a60800000000000000
+      internalID: 7677235665644605116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_212
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 6719
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1d11c13e410d620800000000000000
+      internalID: 2796758334258139562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_213
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6446
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8ef44c9b5b652f0800000000000000
+      internalID: -984399659066726152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_214
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6446
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06fd3aa56a927390800000000000000
+      internalID: -7822019841350568434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_215
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 6382
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cef9bb1768839a0800000000000000
+      internalID: -6253100259566687181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_216
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 6388
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c123ed030436a3d40800000000000000
+      internalID: 5564869416918594076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_217
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 6388
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09300dffc87b57480800000000000000
+      internalID: -8902007272212790384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_218
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 6382
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4625851866543ad0800000000000000
+      internalID: -2723456869614672309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_219
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 6393
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de5ed26623839c80800000000000000
+      internalID: -8317159885932437805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_220
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 6370
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cd488d898e5ecf0800000000000000
+      internalID: -223516863319712693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_221
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 6373
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa5690835b974040800000000000000
+      internalID: 4631841524715772577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_222
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 6441
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb1b7fcb11a4c70800000000000000
+      internalID: 8955990312286796641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_223
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 6470
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2046d0e038f17180800000000000000
+      internalID: -9119234881634287573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_224
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 6393
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6b936daee2a4bd0800000000000000
+      internalID: -2645250244975413545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_225
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 6393
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b668c1102a3dfb0800000000000000
+      internalID: -4624174266722129032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_226
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 6383
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f02f065da6d9b1b0800000000000000
+      internalID: -5640241018343317264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_227
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 6390
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca63c0a77d642fb90800000000000000
+      internalID: -7209622162187209044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_228
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 6435
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444cfa0e149b04840800000000000000
+      internalID: 5206364861833921604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_229
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 6390
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35fbab9196aeb40800000000000000
+      internalID: 5470300256623088612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_230
+      rect:
+        serializedVersion: 2
+        x: 6039
+        y: 6435
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac812ec0b3623c510800000000000000
+      internalID: 1568139130316134602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_231
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 6234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2daddde635aaa90800000000000000
+      internalID: -7301932110194224404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_232
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 6166
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ca63aade762cce0800000000000000
+      internalID: -1386431464816071652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_233
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 6150
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b48ca580eea4730800000000000000
+      internalID: 3984258540012850006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_234
+      rect:
+        serializedVersion: 2
+        x: 5141
+        y: 6147
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855e8d7613bc52e30800000000000000
+      internalID: 4478208817545930072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_235
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 6147
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0266860e922a850800000000000000
+      internalID: 6386713265365721262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_236
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 6098
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dfd95e12e6b3870800000000000000
+      internalID: 8663639400042593651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_237
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 6098
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2c257be654d6410800000000000000
+      internalID: 1471908995044393720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_238
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 6108
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a941759a251b54ca0800000000000000
+      internalID: -6033221157206420326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_239
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 6098
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ca58ab5095b5840800000000000000
+      internalID: 5213858874750512244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_240
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 6215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9467467cd3c536b0800000000000000
+      internalID: -5317128433396390756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_241
+      rect:
+        serializedVersion: 2
+        x: 6039
+        y: 6215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01b36072bc458350800000000000000
+      internalID: 6018300806324007179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_242
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6084
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21d58877e2454140800000000000000
+      internalID: 4703238947785265451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_243
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 6137
+        width: 122
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562e21e53cacd8090800000000000000
+      internalID: -8030539620085996955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_244
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6137
+        width: 122
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552bd34089a91f930800000000000000
+      internalID: 4175288307246019157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_245
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 6084
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0de0727978500f0800000000000000
+      internalID: -1151365046458199893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_246
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 6108
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ab1b4da61d67500800000000000000
+      internalID: 393732274206653038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_247
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 6108
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff40d01ab3866650800000000000000
+      internalID: 6225808370055532536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_248
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 6079
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0371f39c26f1590800000000000000
+      internalID: -7701328221293825802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_249
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 6148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb82055111e5150800000000000000
+      internalID: 5863142548119797192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_250
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 6079
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb961aa4d623ae70800000000000000
+      internalID: 9125179964811287531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_251
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 6102
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8380f775db86130800000000000000
+      internalID: 3560303688927426749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_252
+      rect:
+        serializedVersion: 2
+        x: 5748
+        y: 6102
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b7da42839839b50800000000000000
+      internalID: 6598768753254431631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_253
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 6100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b57fd8ec7b985c0800000000000000
+      internalID: -4212633878655444085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_254
+      rect:
+        serializedVersion: 2
+        x: 5778
+        y: 6100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6c1516fb4900100800000000000000
+      internalID: 72221143730341590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_255
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 5834
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ff56f28988dc10800000000000000
+      internalID: 2078562423603722198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_256
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 5836
+        width: 131
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a8d5c0f6eea9fe0800000000000000
+      internalID: -1181369791515096420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_257
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 5799
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc82df01efc53d770800000000000000
+      internalID: 8634347156875847885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_258
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 5851
+        width: 120
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee93860f72b97e180800000000000000
+      internalID: -9086123127357294098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_259
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 5885
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616311c24d52ad670800000000000000
+      internalID: 8564199234601039382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_260
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 5834
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e916b3f8916658630800000000000000
+      internalID: 3928658509913874846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_261
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 5834
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0f599243e1211d0800000000000000
+      internalID: -3381607160816996175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_262
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 5836
+        width: 131
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032eb6d2e8699cb70800000000000000
+      internalID: 8919826074375545392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_263
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 5776
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b94e599581b6c0800000000000000
+      internalID: -4129372489563653977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_264
+      rect:
+        serializedVersion: 2
+        x: 5262
+        y: 5860
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ba0fa513d354960800000000000000
+      internalID: 7585536429563882363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_265
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 5776
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da65ba43e0e1dcda0800000000000000
+      internalID: -5923044888560314707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_266
+      rect:
+        serializedVersion: 2
+        x: 6162
+        y: 5860
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed5c3b6d1b9cabb0800000000000000
+      internalID: -4923389741967319584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_267
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 5770
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03df99a58b7f6fb0800000000000000
+      internalID: -4652364076043742451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_268
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 5519
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b36c297467a6ed20800000000000000
+      internalID: 3307515026321728441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_269
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 5493
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4180b99f346428ed0800000000000000
+      internalID: -2413289192552724460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_270
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 5575
+        width: 129
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b66a8d219d1d0440800000000000000
+      internalID: 4903608078647846581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_271
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 5591
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e55efe94a708bb0800000000000000
+      internalID: -4935810733622075796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_272
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 5519
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ff4c7d2ccb07c90800000000000000
+      internalID: -7174026661371510923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_273
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 5519
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e535cf95ea0e2940800000000000000
+      internalID: 5273164195041719782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_274
+      rect:
+        serializedVersion: 2
+        x: 5251
+        y: 5556
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9805057d0fdfe6410800000000000000
+      internalID: 1472393339043074185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_275
+      rect:
+        serializedVersion: 2
+        x: 6151
+        y: 5556
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687283e1f9cf243b0800000000000000
+      internalID: -5529579632120551546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_276
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5464
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598eb33245432d760800000000000000
+      internalID: 7481099466988841109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_277
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 5514
+        width: 131
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca7c84114f140e0800000000000000
+      internalID: -2287278780654834565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_278
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 5514
+        width: 131
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1deb438939096e0800000000000000
+      internalID: -1832802766410559020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_279
+      rect:
+        serializedVersion: 2
+        x: 4957
+        y: 5476
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9937c3ee5055690800000000000000
+      internalID: -7614173074225391198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY SPRITE SHEET_final_280
+      rect:
+        serializedVersion: 2
+        x: 5857
+        y: 5476
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2436385caf9dcb0800000000000000
+      internalID: -4838560598413065500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BOXY SPRITE SHEET_final_0: 1439168408814674689
+      BOXY SPRITE SHEET_final_1: -8504754306705272217
+      BOXY SPRITE SHEET_final_10: -7681210730266430796
+      BOXY SPRITE SHEET_final_100: 4500361669057329573
+      BOXY SPRITE SHEET_final_101: -8061507019988556777
+      BOXY SPRITE SHEET_final_102: 7713350588837535536
+      BOXY SPRITE SHEET_final_103: 4701281699972232222
+      BOXY SPRITE SHEET_final_104: 3558164801488225485
+      BOXY SPRITE SHEET_final_105: -7452296161860880285
+      BOXY SPRITE SHEET_final_106: -7166858459235776891
+      BOXY SPRITE SHEET_final_107: -673033477944030756
+      BOXY SPRITE SHEET_final_108: 2877100559794401859
+      BOXY SPRITE SHEET_final_109: -3949226506766876930
+      BOXY SPRITE SHEET_final_11: 8530573997440234418
+      BOXY SPRITE SHEET_final_110: 8455723542526007994
+      BOXY SPRITE SHEET_final_111: -1460936638417517482
+      BOXY SPRITE SHEET_final_112: 7371327862263064219
+      BOXY SPRITE SHEET_final_113: -5149463692559609403
+      BOXY SPRITE SHEET_final_114: -6707599752882556689
+      BOXY SPRITE SHEET_final_115: 7531235464460782136
+      BOXY SPRITE SHEET_final_116: -8143355378464364068
+      BOXY SPRITE SHEET_final_117: -2412271013511055541
+      BOXY SPRITE SHEET_final_118: 7672438979348014624
+      BOXY SPRITE SHEET_final_119: 6044451409576809271
+      BOXY SPRITE SHEET_final_12: 1490684547144985408
+      BOXY SPRITE SHEET_final_120: 3242208903591581640
+      BOXY SPRITE SHEET_final_121: -7992525906133438230
+      BOXY SPRITE SHEET_final_122: -1314822041471048602
+      BOXY SPRITE SHEET_final_123: 7351135310618891020
+      BOXY SPRITE SHEET_final_124: 3671160740894467308
+      BOXY SPRITE SHEET_final_125: -6920676113384830302
+      BOXY SPRITE SHEET_final_126: 8004357682881886549
+      BOXY SPRITE SHEET_final_127: 2160610047854176629
+      BOXY SPRITE SHEET_final_128: -8911713475793499182
+      BOXY SPRITE SHEET_final_129: 8039728978045334375
+      BOXY SPRITE SHEET_final_13: 962544757405099145
+      BOXY SPRITE SHEET_final_130: -5216545609501176431
+      BOXY SPRITE SHEET_final_131: -8290232692849485931
+      BOXY SPRITE SHEET_final_132: -2036064779533601452
+      BOXY SPRITE SHEET_final_133: -7122635851817431457
+      BOXY SPRITE SHEET_final_134: 4870842772630677198
+      BOXY SPRITE SHEET_final_135: -287108155891622730
+      BOXY SPRITE SHEET_final_136: -8651149304152103050
+      BOXY SPRITE SHEET_final_137: 5501816525251995071
+      BOXY SPRITE SHEET_final_138: -7537148539189872725
+      BOXY SPRITE SHEET_final_139: -7943294346568150453
+      BOXY SPRITE SHEET_final_14: -5969135970009678058
+      BOXY SPRITE SHEET_final_140: 8370423970117100597
+      BOXY SPRITE SHEET_final_141: 1035880770028279038
+      BOXY SPRITE SHEET_final_142: 7248419197084944046
+      BOXY SPRITE SHEET_final_143: 2481046760553859494
+      BOXY SPRITE SHEET_final_144: -50771101546703769
+      BOXY SPRITE SHEET_final_145: 8442458028230419353
+      BOXY SPRITE SHEET_final_146: 8606082203652829028
+      BOXY SPRITE SHEET_final_147: -5558621199341317112
+      BOXY SPRITE SHEET_final_148: -3877696545815024280
+      BOXY SPRITE SHEET_final_149: 9172723006904329220
+      BOXY SPRITE SHEET_final_15: 8438403731797646728
+      BOXY SPRITE SHEET_final_150: -3250414523500923014
+      BOXY SPRITE SHEET_final_151: -7129321030119053403
+      BOXY SPRITE SHEET_final_152: -1367405911732045480
+      BOXY SPRITE SHEET_final_153: -2204730285988227661
+      BOXY SPRITE SHEET_final_154: 3427188185928586767
+      BOXY SPRITE SHEET_final_155: 1481767269865229266
+      BOXY SPRITE SHEET_final_156: 957154607016309798
+      BOXY SPRITE SHEET_final_157: -8835906956362456749
+      BOXY SPRITE SHEET_final_158: 1259606210201744793
+      BOXY SPRITE SHEET_final_159: 4724478486370069162
+      BOXY SPRITE SHEET_final_16: 4674083357147737719
+      BOXY SPRITE SHEET_final_160: -7840394936250750927
+      BOXY SPRITE SHEET_final_161: -167802358297498129
+      BOXY SPRITE SHEET_final_162: 7063732052468191461
+      BOXY SPRITE SHEET_final_163: 7779429933482783903
+      BOXY SPRITE SHEET_final_164: 2724606302017152811
+      BOXY SPRITE SHEET_final_165: -8025248006056589902
+      BOXY SPRITE SHEET_final_166: -7812249212555265518
+      BOXY SPRITE SHEET_final_167: -6270004709218120590
+      BOXY SPRITE SHEET_final_168: 7451326055681387461
+      BOXY SPRITE SHEET_final_169: 7759466854215708205
+      BOXY SPRITE SHEET_final_17: -5466852218334377023
+      BOXY SPRITE SHEET_final_170: 4555191061756957103
+      BOXY SPRITE SHEET_final_171: -2439611099829232685
+      BOXY SPRITE SHEET_final_172: 4208368755637959821
+      BOXY SPRITE SHEET_final_173: 7003412715812080782
+      BOXY SPRITE SHEET_final_174: -8036776718580888178
+      BOXY SPRITE SHEET_final_175: -7516786543864772817
+      BOXY SPRITE SHEET_final_176: -5523800748491327753
+      BOXY SPRITE SHEET_final_177: -8356965459677492212
+      BOXY SPRITE SHEET_final_178: -8174271436915921154
+      BOXY SPRITE SHEET_final_179: -8990193304873197982
+      BOXY SPRITE SHEET_final_18: -6174869190523143809
+      BOXY SPRITE SHEET_final_180: 6424831985108451391
+      BOXY SPRITE SHEET_final_181: 6143623412582637812
+      BOXY SPRITE SHEET_final_182: -8328357762738163661
+      BOXY SPRITE SHEET_final_183: -752198417923906435
+      BOXY SPRITE SHEET_final_184: 7822088396238952878
+      BOXY SPRITE SHEET_final_185: 8298221941965926342
+      BOXY SPRITE SHEET_final_186: -3780909486191838874
+      BOXY SPRITE SHEET_final_187: -7414483766773028561
+      BOXY SPRITE SHEET_final_188: -4504435480285514317
+      BOXY SPRITE SHEET_final_189: 7760675633355232641
+      BOXY SPRITE SHEET_final_19: -4026440966343006987
+      BOXY SPRITE SHEET_final_190: 6217584716307269136
+      BOXY SPRITE SHEET_final_191: 4466874251085387658
+      BOXY SPRITE SHEET_final_192: -7217075640949204206
+      BOXY SPRITE SHEET_final_193: -4150745063385649151
+      BOXY SPRITE SHEET_final_194: -2367381422344117057
+      BOXY SPRITE SHEET_final_195: -4135983235205850137
+      BOXY SPRITE SHEET_final_196: 8279650854893671782
+      BOXY SPRITE SHEET_final_197: -2481793118201093065
+      BOXY SPRITE SHEET_final_198: 6409780733042174426
+      BOXY SPRITE SHEET_final_199: 447392423682554311
+      BOXY SPRITE SHEET_final_2: -6239553132467668607
+      BOXY SPRITE SHEET_final_20: -5101675335094734053
+      BOXY SPRITE SHEET_final_200: -6725691064875181657
+      BOXY SPRITE SHEET_final_201: -6977073610152791487
+      BOXY SPRITE SHEET_final_202: 7931210441466734644
+      BOXY SPRITE SHEET_final_203: -8088944083815451486
+      BOXY SPRITE SHEET_final_204: 8243430110871065875
+      BOXY SPRITE SHEET_final_205: 1024041597450628983
+      BOXY SPRITE SHEET_final_206: 3365475930953674415
+      BOXY SPRITE SHEET_final_207: 2973462925649671527
+      BOXY SPRITE SHEET_final_208: -8460064642072805898
+      BOXY SPRITE SHEET_final_209: 2063871337880695467
+      BOXY SPRITE SHEET_final_21: -7422215934016340938
+      BOXY SPRITE SHEET_final_210: -5233611424161544545
+      BOXY SPRITE SHEET_final_211: 7677235665644605116
+      BOXY SPRITE SHEET_final_212: 2796758334258139562
+      BOXY SPRITE SHEET_final_213: -984399659066726152
+      BOXY SPRITE SHEET_final_214: -7822019841350568434
+      BOXY SPRITE SHEET_final_215: -6253100259566687181
+      BOXY SPRITE SHEET_final_216: 5564869416918594076
+      BOXY SPRITE SHEET_final_217: -8902007272212790384
+      BOXY SPRITE SHEET_final_218: -2723456869614672309
+      BOXY SPRITE SHEET_final_219: -8317159885932437805
+      BOXY SPRITE SHEET_final_22: 2764074158742919491
+      BOXY SPRITE SHEET_final_220: -223516863319712693
+      BOXY SPRITE SHEET_final_221: 4631841524715772577
+      BOXY SPRITE SHEET_final_222: 8955990312286796641
+      BOXY SPRITE SHEET_final_223: -9119234881634287573
+      BOXY SPRITE SHEET_final_224: -2645250244975413545
+      BOXY SPRITE SHEET_final_225: -4624174266722129032
+      BOXY SPRITE SHEET_final_226: -5640241018343317264
+      BOXY SPRITE SHEET_final_227: -7209622162187209044
+      BOXY SPRITE SHEET_final_228: 5206364861833921604
+      BOXY SPRITE SHEET_final_229: 5470300256623088612
+      BOXY SPRITE SHEET_final_23: 8359769811801224275
+      BOXY SPRITE SHEET_final_230: 1568139130316134602
+      BOXY SPRITE SHEET_final_231: -7301932110194224404
+      BOXY SPRITE SHEET_final_232: -1386431464816071652
+      BOXY SPRITE SHEET_final_233: 3984258540012850006
+      BOXY SPRITE SHEET_final_234: 4478208817545930072
+      BOXY SPRITE SHEET_final_235: 6386713265365721262
+      BOXY SPRITE SHEET_final_236: 8663639400042593651
+      BOXY SPRITE SHEET_final_237: 1471908995044393720
+      BOXY SPRITE SHEET_final_238: -6033221157206420326
+      BOXY SPRITE SHEET_final_239: 5213858874750512244
+      BOXY SPRITE SHEET_final_24: -5714048556936187624
+      BOXY SPRITE SHEET_final_240: -5317128433396390756
+      BOXY SPRITE SHEET_final_241: 6018300806324007179
+      BOXY SPRITE SHEET_final_242: 4703238947785265451
+      BOXY SPRITE SHEET_final_243: -8030539620085996955
+      BOXY SPRITE SHEET_final_244: 4175288307246019157
+      BOXY SPRITE SHEET_final_245: -1151365046458199893
+      BOXY SPRITE SHEET_final_246: 393732274206653038
+      BOXY SPRITE SHEET_final_247: 6225808370055532536
+      BOXY SPRITE SHEET_final_248: -7701328221293825802
+      BOXY SPRITE SHEET_final_249: 5863142548119797192
+      BOXY SPRITE SHEET_final_25: -4510180889456347041
+      BOXY SPRITE SHEET_final_250: 9125179964811287531
+      BOXY SPRITE SHEET_final_251: 3560303688927426749
+      BOXY SPRITE SHEET_final_252: 6598768753254431631
+      BOXY SPRITE SHEET_final_253: -4212633878655444085
+      BOXY SPRITE SHEET_final_254: 72221143730341590
+      BOXY SPRITE SHEET_final_255: 2078562423603722198
+      BOXY SPRITE SHEET_final_256: -1181369791515096420
+      BOXY SPRITE SHEET_final_257: 8634347156875847885
+      BOXY SPRITE SHEET_final_258: -9086123127357294098
+      BOXY SPRITE SHEET_final_259: 8564199234601039382
+      BOXY SPRITE SHEET_final_26: 6911670421915600354
+      BOXY SPRITE SHEET_final_260: 3928658509913874846
+      BOXY SPRITE SHEET_final_261: -3381607160816996175
+      BOXY SPRITE SHEET_final_262: 8919826074375545392
+      BOXY SPRITE SHEET_final_263: -4129372489563653977
+      BOXY SPRITE SHEET_final_264: 7585536429563882363
+      BOXY SPRITE SHEET_final_265: -5923044888560314707
+      BOXY SPRITE SHEET_final_266: -4923389741967319584
+      BOXY SPRITE SHEET_final_267: -4652364076043742451
+      BOXY SPRITE SHEET_final_268: 3307515026321728441
+      BOXY SPRITE SHEET_final_269: -2413289192552724460
+      BOXY SPRITE SHEET_final_27: -2112704711074758850
+      BOXY SPRITE SHEET_final_270: 4903608078647846581
+      BOXY SPRITE SHEET_final_271: -4935810733622075796
+      BOXY SPRITE SHEET_final_272: -7174026661371510923
+      BOXY SPRITE SHEET_final_273: 5273164195041719782
+      BOXY SPRITE SHEET_final_274: 1472393339043074185
+      BOXY SPRITE SHEET_final_275: -5529579632120551546
+      BOXY SPRITE SHEET_final_276: 7481099466988841109
+      BOXY SPRITE SHEET_final_277: -2287278780654834565
+      BOXY SPRITE SHEET_final_278: -1832802766410559020
+      BOXY SPRITE SHEET_final_279: -7614173074225391198
+      BOXY SPRITE SHEET_final_28: -4206080847514819500
+      BOXY SPRITE SHEET_final_280: -4838560598413065500
+      BOXY SPRITE SHEET_final_29: -4567416078080194358
+      BOXY SPRITE SHEET_final_3: 4841617489429600865
+      BOXY SPRITE SHEET_final_30: 696487800058225163
+      BOXY SPRITE SHEET_final_31: -2262926350387317899
+      BOXY SPRITE SHEET_final_32: -8618840913912616581
+      BOXY SPRITE SHEET_final_33: -2539489137478022763
+      BOXY SPRITE SHEET_final_34: 5796337347709906643
+      BOXY SPRITE SHEET_final_35: 7855334303391315310
+      BOXY SPRITE SHEET_final_36: -1975416107994788092
+      BOXY SPRITE SHEET_final_37: -780718989095797635
+      BOXY SPRITE SHEET_final_38: -6321533219712913643
+      BOXY SPRITE SHEET_final_39: 5595510460283540865
+      BOXY SPRITE SHEET_final_4: -3250674970383167492
+      BOXY SPRITE SHEET_final_40: -877551069165905394
+      BOXY SPRITE SHEET_final_41: 2516157505281820471
+      BOXY SPRITE SHEET_final_42: 5332502596595815124
+      BOXY SPRITE SHEET_final_43: -1541262028917025338
+      BOXY SPRITE SHEET_final_44: 5221723252643247244
+      BOXY SPRITE SHEET_final_45: 8280650869846937338
+      BOXY SPRITE SHEET_final_46: 2599331075052211060
+      BOXY SPRITE SHEET_final_47: -1239082389313415770
+      BOXY SPRITE SHEET_final_48: -2272302539188488834
+      BOXY SPRITE SHEET_final_49: 1273980605275657074
+      BOXY SPRITE SHEET_final_5: 7747556502395606576
+      BOXY SPRITE SHEET_final_50: -3935998931840663478
+      BOXY SPRITE SHEET_final_51: -8452036352317013255
+      BOXY SPRITE SHEET_final_52: 9067827665835011185
+      BOXY SPRITE SHEET_final_53: 3569864050203312291
+      BOXY SPRITE SHEET_final_54: -7963332130453411056
+      BOXY SPRITE SHEET_final_55: -2344193744376684797
+      BOXY SPRITE SHEET_final_56: 2520761826338880641
+      BOXY SPRITE SHEET_final_57: -9172381144267968618
+      BOXY SPRITE SHEET_final_58: -6560232324663045785
+      BOXY SPRITE SHEET_final_59: 3219493761460794335
+      BOXY SPRITE SHEET_final_6: -212518271084364279
+      BOXY SPRITE SHEET_final_60: 1767809765867500784
+      BOXY SPRITE SHEET_final_61: -2602069394776327588
+      BOXY SPRITE SHEET_final_62: -7584908834688600631
+      BOXY SPRITE SHEET_final_63: -5107069282255818135
+      BOXY SPRITE SHEET_final_64: -8948290937813983429
+      BOXY SPRITE SHEET_final_65: -6228624773476388434
+      BOXY SPRITE SHEET_final_66: -7160731938016955889
+      BOXY SPRITE SHEET_final_67: 2518408056514272903
+      BOXY SPRITE SHEET_final_68: -8004736555861022646
+      BOXY SPRITE SHEET_final_69: 5073834542947542187
+      BOXY SPRITE SHEET_final_7: 3796060555846422460
+      BOXY SPRITE SHEET_final_70: 8144793586196590404
+      BOXY SPRITE SHEET_final_71: 1004816962041126144
+      BOXY SPRITE SHEET_final_72: 8915786015348693510
+      BOXY SPRITE SHEET_final_73: 1052586764534932881
+      BOXY SPRITE SHEET_final_74: 4246310573131677517
+      BOXY SPRITE SHEET_final_75: -7183554640542923502
+      BOXY SPRITE SHEET_final_76: -6400004596242113354
+      BOXY SPRITE SHEET_final_77: -5331741850650211784
+      BOXY SPRITE SHEET_final_78: 527117849247025740
+      BOXY SPRITE SHEET_final_79: -4778762649421350252
+      BOXY SPRITE SHEET_final_8: 2643134328481717709
+      BOXY SPRITE SHEET_final_80: 5776023246572113973
+      BOXY SPRITE SHEET_final_81: -9022956680056079165
+      BOXY SPRITE SHEET_final_82: -4495358406639337965
+      BOXY SPRITE SHEET_final_83: -1840118417323355214
+      BOXY SPRITE SHEET_final_84: -8141135832312691955
+      BOXY SPRITE SHEET_final_85: -334846322500571288
+      BOXY SPRITE SHEET_final_86: -8678323464972313231
+      BOXY SPRITE SHEET_final_87: -6149435242468416053
+      BOXY SPRITE SHEET_final_88: -8805431497100404481
+      BOXY SPRITE SHEET_final_89: 4322358959994930638
+      BOXY SPRITE SHEET_final_9: 3318962645498805418
+      BOXY SPRITE SHEET_final_90: -5966896222626618724
+      BOXY SPRITE SHEET_final_91: -3520396750171687414
+      BOXY SPRITE SHEET_final_92: 8523740952445144158
+      BOXY SPRITE SHEET_final_93: -5132359404807455695
+      BOXY SPRITE SHEET_final_94: -1781210180712638867
+      BOXY SPRITE SHEET_final_95: 7886453252387320073
+      BOXY SPRITE SHEET_final_96: -7802854830729321916
+      BOXY SPRITE SHEET_final_97: 4078799329863525960
+      BOXY SPRITE SHEET_final_98: 7153319843899394446
+      BOXY SPRITE SHEET_final_99: -3917362136543494182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
