@@ -86,10 +86,16 @@ public class PlayerController : MonoBehaviour
 
     private void MovePlayer()
     {
+        if (IsChargingPunch )
+    {
+        rb.linearVelocity = new Vector3( 0f, rb.linearVelocity.y, 0 );
+        return;
+    }
         MoveDir = Move.ReadValue<Vector2>();
         rb.linearVelocity = new Vector3( MoveDir.x * Speed,
                                          rb.linearVelocity.y,
                                          0 );
+                                                   
     }
 
     private void JumpPlayer()
@@ -189,8 +195,9 @@ public class PlayerController : MonoBehaviour
         IsGrounded = Physics.Raycast( transform.position, Vector3.down, PlayerHeight * 0.5f + 0.2f, GroundLayer );
 
         MovePlayer();
-
-        if( Jump.WasPressedThisFrame() && IsGrounded && IsReadyToJump )
+//Debug.Log($"pressed={Jump.WasPressedThisFrame()}  grounded={IsGrounded}  ready={IsReadyToJump}");
+//Debug.Log($"map enabled: {PlayerMap.enabled}, jump enabled: {Jump.enabled}, jump phase: {Jump.phase}");
+        if( Jump.WasPressedThisFrame() && IsGrounded && IsReadyToJump && !IsChargingPunch)
         {
             IsReadyToJump = false;
             JumpPlayer();

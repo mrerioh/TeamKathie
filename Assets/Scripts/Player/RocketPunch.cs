@@ -1,5 +1,4 @@
-using Unity.VisualScripting;
-using UnityEditor.Callbacks;
+
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -11,26 +10,40 @@ public class RocketPunch : MonoBehaviour
     public InputActionAsset InputActions;
     private InputActionMap PlayerMap;
     private InputAction Punch;
+    
 
     [Header("Charge Mechanics ")]
     //public float MinChargeTime=0.15f;
     public float MaxChargeTime=1.0f;
+    public float TapThreshold=0.15f;
+    private int StoredChargeCoef=0;
 
     [Header("Punch")]
 
-    public float MaxPunchSpeed=15f;
+    public float MaxPunchSpeed=10f;
     public float MaxPunchLength=0.5f;
 
     public float punchCooldown=1;
 
+    public float ChargeHoldMax=5f;
+    public float ChargeHoldCur=0f;
+
     [Header("Hit stuff")]
 
-    public float hitRadius;
+    public PunchHitBox Hitbox;
+    public Vector3 QuickHitboxScale=new Vector3(1f, 1f, 1f);
+    public Vector3 HeavyHitboxScale=new Vector3(2.5f,1.5f,1f);
+    public float QuickActiveTime=0.1f;
+    public float HeavyActiveTime=0.2f;
+    public float QuickKnockback=3f;
+    public float HeavyKnockback=15f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private float ChargeTimer;
     private float ChargeCoef;
     private float PunchTimer;
     private float CooldownTimer=0;
+
+    
     private Vector3 dir;
 
     private void Awake()
@@ -64,6 +77,14 @@ public class RocketPunch : MonoBehaviour
             CooldownTimer-=Time.deltaTime;
         }
 
+        if (ChargeHoldCur > 0f)
+        {
+            ChargeHoldCur-=Time.deltaTime;
+            if(ChargeHoldCur<0f) {
+                ChargeHoldCur=0f;
+            }
+        }
+
 
         if(Punch.IsPressed() && !Pc.IsPunching && CooldownTimer<=0)
         {
@@ -72,35 +93,64 @@ public class RocketPunch : MonoBehaviour
         }
         if(Pc.IsChargingPunch && Punch.WasReleasedThisFrame())
         {
-            if(ChargeTimer>MaxChargeTime)
+            if(ChargeTimer <TapThreshold)
             {
-                ChargeCoef=MaxChargeTime;
+                //ChargeCoef=MaxChargeTime;
+                if (ChargeHoldCur > 0f)
+                {
+                    LaunchPunch();
+                }
+                QuickPunch();
             }
-            else
+            else if (ChargeTimer>=MaxChargeTime) 
             {
-                ChargeCoef=(ChargeTimer/MaxChargeTime);
+                ChargeHoldCur= ChargeHoldMax;
+                Pc.IsChargingPunch = false;
+                ChargeTimer= 0f;
             }
 
-            LaunchPunch();
+            
         }
         if(Pc.IsPunching) PunchFrames();
     }
 
+    private void QuickPunch()
+    {
+        Pc.IsChargingPunch=false;
+        Pc.IsPunching=true;
+        PunchTimer=0f;
+        ChargeTimer=0f;
+        ChargeCoef=0.3f;
+        dir=new Vector3(Pc.facingRight, 0f, 0f);
+
+        Vector3 s = QuickHitboxScale;
+        s.x*=Pc.facingRight;
+        Hitbox.transform.localScale=s;
+        Hitbox.Activate(QuickKnockback);
+    }
+
     private void LaunchPunch()
     {
+        ChargeHoldCur=0f;
+        ChargeCoef=1f;
         Pc.IsChargingPunch=false;
         Pc.IsPunching=true;
         PunchTimer=0f;
         dir=new Vector3(Pc.facingRight, 0f, 0f);
         ChargeTimer=0f;
-        rb.linearVelocity=dir * (MaxPunchSpeed*ChargeCoef);
+        //rb.linearVelocity=dir * (MaxPunchSpeed*ChargeCoef);
         ChargeTimer=0f;
+
+        Vector3 s = HeavyHitboxScale;
+        s.x*=Pc.facingRight;
+        Hitbox.transform.localScale=s;
+        Hitbox.Activate(HeavyKnockback);
     }
 
     private void PunchFrames()
     {
         PunchTimer+=Time.deltaTime;
-        rb.linearVelocity=dir*(MaxPunchSpeed * ChargeCoef);
+       // rb.linearVelocity=dir*(MaxPunchSpeed * ChargeCoef);
         if(PunchTimer>=MaxPunchLength*ChargeCoef) StopPunch();
     }
 
@@ -108,5 +158,7 @@ public class RocketPunch : MonoBehaviour
     {
         Pc.IsPunching=false;
         CooldownTimer=punchCooldown;
+
+        Hitbox.Deactivate();
     }
 }
