@@ -144,7 +144,7 @@ Transform:
   m_GameObject: {fileID: 16333336}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.5, y: 0, z: 0}
+  m_LocalPosition: {x: 0.5, y: 0.026, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -160,7 +160,9 @@ GameObject:
   m_Component:
   - component: {fileID: 44557400}
   - component: {fileID: 44557402}
+  - component: {fileID: 44557404}
   - component: {fileID: 44557401}
+  - component: {fileID: 44557403}
   m_Layer: 0
   m_Name: GrappleHook
   m_TagString: Untagged
@@ -235,7 +237,7 @@ LineRenderer:
   m_MaskInteraction: 0
   m_Positions:
   - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 1}
+  - {x: 0, y: 0, z: 0}
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 0.5
@@ -312,7 +314,7 @@ MonoBehaviour:
   GrappleLayer:
     serializedVersion: 2
     m_Bits: 128
-  lr: {fileID: 44557401}
+  lc: {fileID: 44557404}
   InputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   MaxGrappleLen: 15
   GrappleDelayTime: 0.25
@@ -320,6 +322,41 @@ MonoBehaviour:
   StompCooldown: 0.5
   StompDelayTime: 0.25
   GrappleState: 1
+--- !u!65 &44557403
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44557399}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.9713602, y: 1, z: 1}
+  m_Center: {x: -0.014319897, y: 0, z: 0}
+--- !u!114 &44557404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44557399}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80ed3e2ee7fbb534b8ed52514535eaf2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LineCollider
+  lineRenderer: {fileID: 44557401}
+  boxCollider: {fileID: 44557403}
 --- !u!1 &290389349
 GameObject:
   m_ObjectHideFlags: 0
@@ -491,6 +528,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   Speed: 3
+  facingRight: 1
   zFore: 4.92
   zBack: 14.07
   isBackground: 0
@@ -498,6 +536,8 @@ MonoBehaviour:
   JumpSpeed: 5
   JumpForce: 5
   IsPreppingGrapple: 0
+  IsPunching: 0
+  IsChargingPunch: 0
 --- !u!54 &350648952
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -889,7 +929,7 @@ Transform:
   m_GameObject: {fileID: 389977039}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.1, y: 0.19, z: 4.774}
+  m_LocalPosition: {x: -3.1, y: -3.666, z: 4.954}
   m_LocalScale: {x: 1, y: 0.4436, z: 0.94082326}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1390,7 +1430,7 @@ Transform:
   m_GameObject: {fileID: 866170496}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.59, y: -3.68, z: 4.06}
+  m_LocalPosition: {x: -5.72, y: -3.68, z: 4.91}
   m_LocalScale: {x: 1, y: 0.4436, z: 0.94082326}
   m_ConstrainProportionsScale: 0
   m_Children: []
