@@ -5,30 +5,45 @@ public class RopeCollisionHandler : MonoBehaviour
 {
     [SerializeField] private bool ExceedsWeight;
     [SerializeField] private int NumOnRope;
+    [SerializeField] private int NumToBreak = 0;
+    [SerializeField] private GameObject LeftEnd;
+    [SerializeField] private GameObject RightEnd;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         NumOnRope = 0;
     }
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider other)
     {
-        
-        if (collision.gameObject.layer == 10)
+        if (other.gameObject.layer == 10)
         {
             Debug.Log("Hit");
             NumOnRope += 1;
             CheckWeight();
         }
     }
-    private void OnCollisionExit(Collision collision)
+
+    private void OnTriggerExit(Collider other)
     {
         Debug.Log("Exited");
         NumOnRope -= 1;
     }
+
+
     private void CheckWeight()
     {
-        if(NumOnRope == 3)
-            this.gameObject.SetActive(false);
+        if (NumOnRope == NumToBreak)
+            CutEnds();
+    }
+
+    void CutEnds()
+    {
+        if (this.RightEnd != null)
+            RightEnd.gameObject.SetActive(false);
+        if (this.LeftEnd != null)
+            LeftEnd.gameObject.SetActive(false);
+
     }
 }
