@@ -226,8 +226,8 @@ LineRenderer:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
-        value: 1
+        time: 0.012048192
+        value: 0.13013609
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -358,6 +358,8 @@ MonoBehaviour:
   StompDelayTime: 0.25
   GrappleState: 1
   IsReadyToUse: 1
+  PullCooldown: 0
+  PullDelayTime: 0
 --- !u!1001 &100924636
 PrefabInstance:
   m_ObjectHideFlags: 0

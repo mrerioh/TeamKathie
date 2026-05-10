@@ -109,12 +109,14 @@ public class PlayerController : MonoBehaviour
 
     private void JumpPlayer()
     {
+        animator.SetBool("isJumping", true);
         rb.linearVelocity = new Vector3(rb.linearVelocity.x, 0f, rb.linearVelocity.z);
         rb.AddForce(transform.up * JumpForce, ForceMode.Impulse);
     }
 
     private void ResetJump()
     {
+        animator.SetBool("isJumping", false);
         IsReadyToJump = true;
     }
 

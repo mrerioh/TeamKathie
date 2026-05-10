@@ -20,8 +20,10 @@ public class PullHandler : MonoBehaviour
         }
     }
 
-    private void OnPulled()
+    public void OnPulled()
     {
+        if (_currentPull >= _maxPull)
+            return;
         Debug.Log("Drawer Pulling");
         _gameObject
             .transform.DOMoveX(_gameObject.transform.position.x - 1f, 1f)
@@ -35,6 +37,8 @@ public class PullHandler : MonoBehaviour
 
     private void OnPunched()
     {
+        if (_currentPull - 1 >= -1)
+            return;
         Debug.Log("Drawer Pushed");
         _gameObject
             .transform.DOMoveX(_gameObject.transform.position.x - 1f, 1f)
