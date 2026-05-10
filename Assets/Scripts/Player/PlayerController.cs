@@ -41,7 +41,7 @@ public class PlayerController : MonoBehaviour
     [Header("Switch Info")]
     private InputAction               Switch;
     public float                      zFore        = 4.92f;
-    public float                      zBack        = 14.07f;
+    public float                      zBack        = 3.2f;
     public bool                       isBackground = false;
     bool                              IsSwitching;
 
@@ -82,7 +82,7 @@ public class PlayerController : MonoBehaviour
         Move            = PlayerMap.FindAction( "Move" );
         Jump            = PlayerMap.FindAction( "Jump" );
         Switch          = PlayerMap.FindAction( "SwitchLayer" );
-        PlayerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.PlayerFootsteps);
+        //PlayerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.PlayerFootsteps);
         IsReadyToJump   = true;
         Mask            = LayerMask.GetMask( "Terrain", "GrappleLayer" );
         PlayerHeight    = PlayerCollider.height;
