@@ -10,10 +10,13 @@ public class MovementLocker : MonoBehaviour
     [SerializeField] private float MaxLeft;
     [SerializeField] private float MaxRight;
     [SerializeField] private float Normalized;
+    [SerializeField] private GameObject LinkedMovement;
+    [SerializeField] private float TransformedValue;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         this.SpawnLocation = transform.position;
+        Normalized = 0f;
         
         
     }
@@ -21,10 +24,13 @@ public class MovementLocker : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        Normalized = (float) math.remap(MaxLeft, MaxRight, 0d, 1d, this.transform.position.x);
-        if (this.transform.position.x < this.SpawnLocation.x - MaxLeft)
-            this.transform.position = this.SpawnLocation - new Vector3(MaxLeft, 0, 0);
-        else if (this.transform.position.x > this.SpawnLocation.x + MaxRight)
-            this.transform.position = this.SpawnLocation + new Vector3(MaxRight, 0, 0);
+        Normalized = Mathf.InverseLerp(MaxLeft * -1f, MaxRight, this.transform.position.x - this.SpawnLocation.x);
+        
+        if (this.transform.position.x <= this.SpawnLocation.x - MaxLeft)
+            this.transform.position = new Vector3(this.SpawnLocation.x - MaxLeft, this.transform.position.y, this.transform.position.z);
+        else if (this.transform.position.x >= this.SpawnLocation.x + MaxRight)
+            this.transform.position = new Vector3(this.SpawnLocation.x + MaxRight, this.transform.position.y, this.transform.position.z);
+        TransformedValue = Normalized * 90f;
+        LinkedMovement.gameObject.transform.eulerAngles = new Vector3(0, TransformedValue, 0);
     }
 }
