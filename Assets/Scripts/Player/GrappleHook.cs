@@ -1,5 +1,16 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UIElements;
+
+public enum GrappleState
+{
+    GRAPPLE_ON_GROUND,
+    GRAPPLE_READY_TO_USE,
+    GRAPPLE_PREP,
+    GRAPPLE_READY_TO_STOMP,
+    GRAPPLE_STOMP
+}
 
 public class GrappleHook : MonoBehaviour
 {
@@ -9,21 +20,36 @@ public class GrappleHook : MonoBehaviour
     public  Camera                     Camera;
     public  Transform                  GrappleTip;
     [SerializeField] private LayerMask GrappleLayer;
-    public  LineRenderer               lr;
+    public  LineCollider               lc;
 
     private Vector3                    GrapplePoint;
-    private DistanceJoint2D            Joint;
+    private Vector3                    AnchorPoint;
     public  InputActionAsset           InputActions;
     private InputActionMap             PlayerMap;
     private InputAction                Attack;
+    private InputAction                Stomp;
 
+    [Header("Grapple state parameters")]
     public float                       MaxGrappleLen;
     public float                       GrappleDelayTime;
 
     public  float                      GrappleCooldown;
     private float                      GrappleCooldownTimer;
 
-    private bool                       IsGrappling;
+    [Header("Stomp state parameters")]
+    public  float                      StompCooldown;
+    private float                      StompCooldownTimer;
+    public float                       StompDelayTime;
+
+    [Header("Grapple state booleans")]
+    public GrappleState                GrappleState;
+    public bool                        IsReadyToUse;
+    bool                               IsPreppingGrapple;
+    bool                               IsReadyToStomp;
+    bool                               IsStomped;
+
+    private bool                       EnableBoxCollider  = false;
+    private bool                       EnableLineRenderer = false;
 
     private void Awake()
     {
@@ -44,16 +70,22 @@ public class GrappleHook : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Attack   = PlayerMap.FindAction( "Attack" );
+        Attack                  = PlayerMap.FindAction( "Attack" );
+        // Pickup   = PlayerMap.FindAction( "Pickup" );
+        Stomp                   = PlayerMap.FindAction( "Stomp" );
+        lc.boxCollider.enabled  = false;
+        lc.lineRenderer.enabled = false;
+        GrappleTip.position     = Pc.GetPlayerCenter();
     }
 
     private void StartGrapple()
     {
-        if( GrappleCooldownTimer > 0)
+        if( GrappleCooldownTimer > 0 )
             return;
 
-        IsGrappling          = true;
-        Pc.IsPreppingGrapple = true;
+        Debug.Log("StartGrapple");
+        IsPreppingGrapple = true;
+        // Pc.IsPreppingGrapple = true;
 
         RaycastHit Hit;
         Vector2    MousePosition = Mouse.current.position.ReadValue();
@@ -63,46 +95,142 @@ public class GrappleHook : MonoBehaviour
         {
             GrapplePoint   = Hit.point;
             GrapplePoint.z = transform.position.z;
-
+            IsReadyToStomp = true;
             Invoke( nameof( ExecuteGrapple ), GrappleDelayTime );
         }
         else
         {
+            // If user misses the grapple, still need to StopGrapple();
             GrapplePoint   = Ray.origin + Ray.direction * MaxGrappleLen;
             GrapplePoint.z = transform.position.z;
             Invoke( nameof( StopGrapple ), GrappleDelayTime );
         }
 
-        lr.enabled = true;
-        lr.SetPosition( 1, GrapplePoint );
+        EnableLineRenderer = true;
+        lc.lineRenderer.SetPosition( 1, GrapplePoint );
     }
 
+    private void StartStomp()
+    {
+        if( StompCooldownTimer > 0 )
+            return;
+
+        Debug.Log("StartStomp");
+        IsPreppingGrapple = false;
+        // if standing on grapple layer, lock in stomp and set IsStomped = true;
+        RaycastHit Hit;
+        if( Physics.Raycast( transform.position, Vector3.down, out Hit, Pc.PlayerHeight * 0.5f + 0.2f, GrappleLayer ) )
+        {
+            Debug.Log("Detected GrappleLayer underneath StartStomp");
+            AnchorPoint         = Hit.point;
+            // Player "stomps" their arm down to leg level
+            AnchorPoint.z       = transform.position.z;
+            Invoke( nameof( ExecuteStomp ), StompDelayTime );
+        }
+        else
+        {
+            Debug.Log("Invoke StopStomp");
+            // Stop Stomp if not standing on grapple layer
+            if( IsStomped == false )
+                Invoke( nameof( StopStomp ), StompDelayTime );
+        }
+    }
+    private void ExecuteStomp()
+    {
+        // Enable box collider here
+        Debug.Log("ExecuteStomp");
+        IsReadyToStomp          = false;
+        IsStomped               = true;
+        EnableLineRenderer      = true;
+        EnableBoxCollider       = true;
+    }
     private void ExecuteGrapple()
     {
-        Vector3 Direction    = ( GrapplePoint - transform.position ).normalized;
-        Pc.IsPreppingGrapple = false;
+        EnableLineRenderer      = true;
+        Debug.Log("ExecuteGrapple");
+    }
 
+    private void StopStomp()
+    {
+        // disable box collider here,  drop grapple hook at point of grapple layer. user will have to pick this up
+        Debug.Log("StopStomp");
+        EnableLineRenderer       = false;
+        EnableBoxCollider        = false;
+        IsStomped                = false;
+        StompCooldownTimer       = StompCooldown;
     }
 
     private void StopGrapple()
     {
-        IsGrappling          = false;
-        Pc.IsPreppingGrapple = false;
-        GrappleCooldownTimer = GrappleCooldown;
-        lr.enabled           = false;
+        Debug.Log("StopGrapple");
+        IsPreppingGrapple       = false;
+        // Pc.IsPreppingGrapple = false;
+        GrappleCooldownTimer    = GrappleCooldown;
+        EnableLineRenderer      = false;
+        EnableBoxCollider       = false;
+    }
 
+    private void FsmHandler()
+    {
+        if( IsReadyToUse )
+        {
+            // Follow Player
+            transform.position = Pc.transform.position;
+
+            if( IsPreppingGrapple )
+            {
+                GrappleState   = GrappleState.GRAPPLE_PREP;
+            }
+            else if( IsReadyToStomp )
+            {
+                GrappleState        = GrappleState.GRAPPLE_READY_TO_STOMP;
+                GrappleTip.position = Pc.GetPlayerCenter();
+            }
+            else if( IsStomped )
+            {
+                GrappleState        = GrappleState.GRAPPLE_STOMP;
+                GrappleTip.position = AnchorPoint;
+            }
+        }
+        else
+            GrappleState = GrappleState.GRAPPLE_ON_GROUND;
+            // if( PickUp.WasPressedThisFrame() )
+            //     Pickup();
+            // else
+            //     RenderOnGround();
+        Debug.Log(GrappleState);
     }
 
     // Update is called once per frame
     void Update()
     {
         if( Attack.WasPressedThisFrame() )
+        {
             StartGrapple();
+        }
+
+        if( Stomp.WasPressedThisFrame() && ( IsReadyToStomp == true ) )
+        {
+            StartStomp();
+            return;
+        }
+
+        if( Stomp.WasPressedThisFrame() && ( IsStomped == true ) )
+        {
+            StopStomp();
+        }
+
+        FsmHandler();
 
         if( GrappleCooldownTimer > 0)
             GrappleCooldownTimer -= Time.deltaTime;
 
-        if( IsGrappling )
-            lr.SetPosition( 0, GrappleTip.position );
+        if( StompCooldownTimer > 0)
+            StompCooldownTimer -= Time.deltaTime;
+
+        // GrappleTip.position updated as part of FSM handler
+        lc.lineRenderer.SetPosition( 0, GrappleTip.position );
+        lc.boxCollider.enabled  = EnableBoxCollider;
+        lc.lineRenderer.enabled = EnableLineRenderer;
     }
 }
