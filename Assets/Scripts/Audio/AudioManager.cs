@@ -30,7 +30,7 @@ public class AudioManager : MonoBehaviour
 
     private void Start()
     {
-        InitializeAmbience(FMODEvents.instance.Ambience);
+        //InitializeAmbience(FMODEvents.instance.Ambience);
     }
 
     public EventInstance CreateEventInstance( EventReference eventReference )

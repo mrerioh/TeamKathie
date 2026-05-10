@@ -1,0 +1,6331 @@
+fileFormatVersion: 2
+guid: a87706c97838e9c47be88f5d6a8f982b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 890940038221719658
+    second: BOXY_test_0
+  - first:
+      213: -7532643136626341103
+    second: BOXY_test_1
+  - first:
+      213: -6081633869445640003
+    second: BOXY_test_2
+  - first:
+      213: 6676492726140399062
+    second: BOXY_test_3
+  - first:
+      213: -2799914651928712168
+    second: BOXY_test_4
+  - first:
+      213: 7736667001073000703
+    second: BOXY_test_5
+  - first:
+      213: 2559386683406350694
+    second: BOXY_test_6
+  - first:
+      213: 6749381847134162036
+    second: BOXY_test_7
+  - first:
+      213: 4199370542869097566
+    second: BOXY_test_8
+  - first:
+      213: -3551913400985302865
+    second: BOXY_test_9
+  - first:
+      213: -1327608140376208413
+    second: BOXY_test_10
+  - first:
+      213: 5928304323819079380
+    second: BOXY_test_11
+  - first:
+      213: 2545078785752172380
+    second: BOXY_test_12
+  - first:
+      213: 1326787341863544885
+    second: BOXY_test_13
+  - first:
+      213: 3791827003223130313
+    second: BOXY_test_14
+  - first:
+      213: -4466413528735245414
+    second: BOXY_test_15
+  - first:
+      213: -2551451219418809473
+    second: BOXY_test_16
+  - first:
+      213: 6612224881465855306
+    second: BOXY_test_17
+  - first:
+      213: -3580462843505374198
+    second: BOXY_test_18
+  - first:
+      213: 2589643064723974298
+    second: BOXY_test_19
+  - first:
+      213: -6550520512529321329
+    second: BOXY_test_20
+  - first:
+      213: -5375375932047962180
+    second: BOXY_test_21
+  - first:
+      213: 1513625636802841706
+    second: BOXY_test_22
+  - first:
+      213: 3789171910923904690
+    second: BOXY_test_23
+  - first:
+      213: -4396288838908181238
+    second: BOXY_test_24
+  - first:
+      213: 4530205731120102154
+    second: BOXY_test_25
+  - first:
+      213: 1738566740825370790
+    second: BOXY_test_26
+  - first:
+      213: -3790064623898138758
+    second: BOXY_test_27
+  - first:
+      213: 2759996827289408097
+    second: BOXY_test_28
+  - first:
+      213: -8041722126217598017
+    second: BOXY_test_29
+  - first:
+      213: 6616249465056120496
+    second: BOXY_test_30
+  - first:
+      213: -1465388673780269425
+    second: BOXY_test_31
+  - first:
+      213: -1226322078687827425
+    second: BOXY_test_32
+  - first:
+      213: 733008929956111610
+    second: BOXY_test_33
+  - first:
+      213: 6495280706965174111
+    second: BOXY_test_34
+  - first:
+      213: -8606431164093010136
+    second: BOXY_test_35
+  - first:
+      213: 1858743764322647577
+    second: BOXY_test_36
+  - first:
+      213: -6083194423050363085
+    second: BOXY_test_37
+  - first:
+      213: -7227623002156124900
+    second: BOXY_test_38
+  - first:
+      213: -9124784286121783120
+    second: BOXY_test_39
+  - first:
+      213: -7321277408370162909
+    second: BOXY_test_40
+  - first:
+      213: 5556726072779540043
+    second: BOXY_test_41
+  - first:
+      213: 4996345622750901018
+    second: BOXY_test_42
+  - first:
+      213: -827701460367851235
+    second: BOXY_test_43
+  - first:
+      213: -3688228605920992102
+    second: BOXY_test_44
+  - first:
+      213: 9030607661546014408
+    second: BOXY_test_45
+  - first:
+      213: 5598275648746573530
+    second: BOXY_test_46
+  - first:
+      213: 9078831716236254165
+    second: BOXY_test_47
+  - first:
+      213: 9198145590372985553
+    second: BOXY_test_48
+  - first:
+      213: -369605982824325887
+    second: BOXY_test_49
+  - first:
+      213: -8627029415429694297
+    second: BOXY_test_50
+  - first:
+      213: -2341202262829960125
+    second: BOXY_test_51
+  - first:
+      213: 6669995696922711946
+    second: BOXY_test_52
+  - first:
+      213: -5575586607046023799
+    second: BOXY_test_53
+  - first:
+      213: 6929104360475871572
+    second: BOXY_test_54
+  - first:
+      213: -1291358113517593390
+    second: BOXY_test_55
+  - first:
+      213: 2505889743573655602
+    second: BOXY_test_56
+  - first:
+      213: -995492753321421674
+    second: BOXY_test_57
+  - first:
+      213: 4716337342389789495
+    second: BOXY_test_58
+  - first:
+      213: -6434408779438110912
+    second: BOXY_test_59
+  - first:
+      213: -471455724122055698
+    second: BOXY_test_60
+  - first:
+      213: -823434968007407750
+    second: BOXY_test_61
+  - first:
+      213: 8288579188967054502
+    second: BOXY_test_62
+  - first:
+      213: -2810243236575564904
+    second: BOXY_test_63
+  - first:
+      213: 8376903760852789677
+    second: BOXY_test_64
+  - first:
+      213: -8156190757917709505
+    second: BOXY_test_65
+  - first:
+      213: 4864646026369683851
+    second: BOXY_test_66
+  - first:
+      213: -154757123793638605
+    second: BOXY_test_67
+  - first:
+      213: -577985530213208037
+    second: BOXY_test_68
+  - first:
+      213: 4477641830036071566
+    second: BOXY_test_69
+  - first:
+      213: 8955168785902105580
+    second: BOXY_test_70
+  - first:
+      213: -5626114153439537374
+    second: BOXY_test_71
+  - first:
+      213: 8480585213383081696
+    second: BOXY_test_72
+  - first:
+      213: -6235983996010055269
+    second: BOXY_test_73
+  - first:
+      213: -8787692329455301943
+    second: BOXY_test_74
+  - first:
+      213: 8266266651793899490
+    second: BOXY_test_75
+  - first:
+      213: 6523179849890602328
+    second: BOXY_test_76
+  - first:
+      213: 4050496412287547643
+    second: BOXY_test_77
+  - first:
+      213: -9091339516314781130
+    second: BOXY_test_78
+  - first:
+      213: -4878647405723368319
+    second: BOXY_test_79
+  - first:
+      213: 7894832282099664622
+    second: BOXY_test_80
+  - first:
+      213: -4229131269411443212
+    second: BOXY_test_81
+  - first:
+      213: -4009117717616372177
+    second: BOXY_test_82
+  - first:
+      213: 6789196059648018057
+    second: BOXY_test_83
+  - first:
+      213: -195252764880966851
+    second: BOXY_test_84
+  - first:
+      213: -4500320255861637344
+    second: BOXY_test_85
+  - first:
+      213: 4079384732240065667
+    second: BOXY_test_86
+  - first:
+      213: 900095093897244731
+    second: BOXY_test_87
+  - first:
+      213: 2390548647335843923
+    second: BOXY_test_88
+  - first:
+      213: -4999413311902146116
+    second: BOXY_test_89
+  - first:
+      213: -7691125393874543616
+    second: BOXY_test_90
+  - first:
+      213: -710821482022055613
+    second: BOXY_test_91
+  - first:
+      213: -3647422365496549077
+    second: BOXY_test_92
+  - first:
+      213: -3236107230383902876
+    second: BOXY_test_93
+  - first:
+      213: 7571913622354840570
+    second: BOXY_test_94
+  - first:
+      213: -8117236244891949187
+    second: BOXY_test_95
+  - first:
+      213: -6415969830506385158
+    second: BOXY_test_96
+  - first:
+      213: -7930798514663086485
+    second: BOXY_test_97
+  - first:
+      213: -7514903602883593989
+    second: BOXY_test_98
+  - first:
+      213: 3954150905764905461
+    second: BOXY_test_99
+  - first:
+      213: 4070786474562486972
+    second: BOXY_test_100
+  - first:
+      213: 3336372778224301259
+    second: BOXY_test_101
+  - first:
+      213: -5034527550294715305
+    second: BOXY_test_102
+  - first:
+      213: -6896813974165412546
+    second: BOXY_test_103
+  - first:
+      213: 665512807877529306
+    second: BOXY_test_104
+  - first:
+      213: -152840373304835461
+    second: BOXY_test_105
+  - first:
+      213: 1590491895894168614
+    second: BOXY_test_106
+  - first:
+      213: -3362312385273638983
+    second: BOXY_test_107
+  - first:
+      213: 2694498179088506501
+    second: BOXY_test_108
+  - first:
+      213: 681864370449521278
+    second: BOXY_test_109
+  - first:
+      213: -5876365094680373847
+    second: BOXY_test_110
+  - first:
+      213: -6776869545378101368
+    second: BOXY_test_111
+  - first:
+      213: 8916185407157906633
+    second: BOXY_test_112
+  - first:
+      213: 4709340753195220072
+    second: BOXY_test_113
+  - first:
+      213: 5416223449320598053
+    second: BOXY_test_114
+  - first:
+      213: -4772969293658703562
+    second: BOXY_test_115
+  - first:
+      213: 3464052115740782003
+    second: BOXY_test_116
+  - first:
+      213: -4941916473777983339
+    second: BOXY_test_117
+  - first:
+      213: 168974855229080361
+    second: BOXY_test_118
+  - first:
+      213: -147535544247008914
+    second: BOXY_test_119
+  - first:
+      213: -3353778877350415081
+    second: BOXY_test_120
+  - first:
+      213: 2091596233098271682
+    second: BOXY_test_121
+  - first:
+      213: 7409159248019492256
+    second: BOXY_test_122
+  - first:
+      213: -1127025957829665385
+    second: BOXY_test_123
+  - first:
+      213: -9204516952872811835
+    second: BOXY_test_124
+  - first:
+      213: -1765120321817245796
+    second: BOXY_test_125
+  - first:
+      213: 2457479628420431948
+    second: BOXY_test_126
+  - first:
+      213: -3804232190720685694
+    second: BOXY_test_127
+  - first:
+      213: 9154193054178504752
+    second: BOXY_test_128
+  - first:
+      213: -7979434346209614026
+    second: BOXY_test_129
+  - first:
+      213: 2236948707123696039
+    second: BOXY_test_130
+  - first:
+      213: 2711274019683803660
+    second: BOXY_test_131
+  - first:
+      213: 8236226030001086397
+    second: BOXY_test_132
+  - first:
+      213: 822080052604514699
+    second: BOXY_test_133
+  - first:
+      213: 282073727247729239
+    second: BOXY_test_134
+  - first:
+      213: 7891209277862466042
+    second: BOXY_test_135
+  - first:
+      213: -6490896981495312711
+    second: BOXY_test_136
+  - first:
+      213: 6061362601718718742
+    second: BOXY_test_137
+  - first:
+      213: -5797076961863302071
+    second: BOXY_test_138
+  - first:
+      213: 5006209916668452901
+    second: BOXY_test_139
+  - first:
+      213: 738137139981995312
+    second: BOXY_test_140
+  - first:
+      213: 7629351533202264689
+    second: BOXY_test_141
+  - first:
+      213: 7248255183081142199
+    second: BOXY_test_142
+  - first:
+      213: 9173611891435412191
+    second: BOXY_test_143
+  - first:
+      213: -1751307671977081979
+    second: BOXY_test_144
+  - first:
+      213: -1983539843640308255
+    second: BOXY_test_145
+  - first:
+      213: -6695563233603687999
+    second: BOXY_test_146
+  - first:
+      213: 2798009937591258480
+    second: BOXY_test_147
+  - first:
+      213: 3933807530184270764
+    second: BOXY_test_148
+  - first:
+      213: -4767782376450517917
+    second: BOXY_test_149
+  - first:
+      213: 3844369418908577389
+    second: BOXY_test_150
+  - first:
+      213: -3525712614634579794
+    second: BOXY_test_151
+  - first:
+      213: 2124718212535107790
+    second: BOXY_test_152
+  - first:
+      213: 8521267210794568636
+    second: BOXY_test_153
+  - first:
+      213: 5132647672881166562
+    second: BOXY_test_154
+  - first:
+      213: -4178012149166131731
+    second: BOXY_test_155
+  - first:
+      213: 3553921266230554104
+    second: BOXY_test_156
+  - first:
+      213: -4716462375193725287
+    second: BOXY_test_157
+  - first:
+      213: 5483322398308289545
+    second: BOXY_test_158
+  - first:
+      213: -4204612937679273603
+    second: BOXY_test_159
+  - first:
+      213: 7450683933298301676
+    second: BOXY_test_160
+  - first:
+      213: -4749994788767983594
+    second: BOXY_test_161
+  - first:
+      213: -5202069045786431269
+    second: BOXY_test_162
+  - first:
+      213: 6736710698964352361
+    second: BOXY_test_163
+  - first:
+      213: 4079427099252820229
+    second: BOXY_test_164
+  - first:
+      213: 2782853318974204892
+    second: BOXY_test_165
+  - first:
+      213: -2802405115151123257
+    second: BOXY_test_166
+  - first:
+      213: -9000001504834367775
+    second: BOXY_test_167
+  - first:
+      213: -8684794346070622912
+    second: BOXY_test_168
+  - first:
+      213: -5794474968756323205
+    second: BOXY_test_169
+  - first:
+      213: -7749831623125463170
+    second: BOXY_test_170
+  - first:
+      213: -6785796623508399565
+    second: BOXY_test_171
+  - first:
+      213: 1439134668645053280
+    second: BOXY_test_172
+  - first:
+      213: -7531571599247985449
+    second: BOXY_test_173
+  - first:
+      213: -8181053118837962036
+    second: BOXY_test_174
+  - first:
+      213: -3357253232342328316
+    second: BOXY_test_175
+  - first:
+      213: 6575570339443366834
+    second: BOXY_test_176
+  - first:
+      213: -8810068395097993357
+    second: BOXY_test_177
+  - first:
+      213: -4136684748565894946
+    second: BOXY_test_178
+  - first:
+      213: -2859058233005403504
+    second: BOXY_test_179
+  - first:
+      213: -8238343444957735060
+    second: BOXY_test_180
+  - first:
+      213: 293416348333089263
+    second: BOXY_test_181
+  - first:
+      213: 2003090846675190689
+    second: BOXY_test_182
+  - first:
+      213: -2597430038393453766
+    second: BOXY_test_183
+  - first:
+      213: 178383426310825457
+    second: BOXY_test_184
+  - first:
+      213: 5354239256337709910
+    second: BOXY_test_185
+  - first:
+      213: 9185215288072411352
+    second: BOXY_test_186
+  - first:
+      213: 5520679844065432249
+    second: BOXY_test_187
+  - first:
+      213: -1797435290724810107
+    second: BOXY_test_188
+  - first:
+      213: -3176626062307940732
+    second: BOXY_test_189
+  - first:
+      213: 4917656099413769550
+    second: BOXY_test_190
+  - first:
+      213: 8937194036077280535
+    second: BOXY_test_191
+  - first:
+      213: 3321966104060965111
+    second: BOXY_test_192
+  - first:
+      213: 3749876572528848076
+    second: BOXY_test_193
+  - first:
+      213: -7076628050491464496
+    second: BOXY_test_194
+  - first:
+      213: -4237455446421862167
+    second: BOXY_test_195
+  - first:
+      213: 3538544396608294781
+    second: BOXY_test_196
+  - first:
+      213: -201052819627213374
+    second: BOXY_test_197
+  - first:
+      213: -382379632985365954
+    second: BOXY_test_198
+  - first:
+      213: 7647953703033301284
+    second: BOXY_test_199
+  - first:
+      213: 6733239577066385119
+    second: BOXY_test_200
+  - first:
+      213: 4035734823493068213
+    second: BOXY_test_201
+  - first:
+      213: 5694412465482389346
+    second: BOXY_test_202
+  - first:
+      213: -3792027636507381959
+    second: BOXY_test_203
+  - first:
+      213: 732714560892678318
+    second: BOXY_test_204
+  - first:
+      213: 5849187866426900548
+    second: BOXY_test_205
+  - first:
+      213: 2831888712759145476
+    second: BOXY_test_206
+  - first:
+      213: 1957398959218767251
+    second: BOXY_test_207
+  - first:
+      213: 647753762538763078
+    second: BOXY_test_208
+  - first:
+      213: 333858106422491061
+    second: BOXY_test_209
+  - first:
+      213: -1918919997470311013
+    second: BOXY_test_210
+  - first:
+      213: 8079570535043724654
+    second: BOXY_test_211
+  - first:
+      213: 7681518700379338381
+    second: BOXY_test_212
+  - first:
+      213: 322424296607087018
+    second: BOXY_test_213
+  - first:
+      213: 5875340890291564232
+    second: BOXY_test_214
+  - first:
+      213: -4648893835564383429
+    second: BOXY_test_215
+  - first:
+      213: -8524153048309183430
+    second: BOXY_test_216
+  - first:
+      213: -7101090604632884009
+    second: BOXY_test_217
+  - first:
+      213: 1360082554020280773
+    second: BOXY_test_218
+  - first:
+      213: -7930090515161126929
+    second: BOXY_test_219
+  - first:
+      213: -2725411288828575737
+    second: BOXY_test_220
+  - first:
+      213: -6388695937506877036
+    second: BOXY_test_221
+  - first:
+      213: 4972831741052894185
+    second: BOXY_test_222
+  - first:
+      213: -895452618479754436
+    second: BOXY_test_223
+  - first:
+      213: -2765835975547970399
+    second: BOXY_test_224
+  - first:
+      213: -5988869936798783557
+    second: BOXY_test_225
+  - first:
+      213: 1883490195701596001
+    second: BOXY_test_226
+  - first:
+      213: -305904496366048421
+    second: BOXY_test_227
+  - first:
+      213: -5289287170558952667
+    second: BOXY_test_228
+  - first:
+      213: 3855919844783659012
+    second: BOXY_test_229
+  - first:
+      213: 3737076476960811601
+    second: BOXY_test_230
+  - first:
+      213: -7369382204994387209
+    second: BOXY_test_231
+  - first:
+      213: 8765354157866028690
+    second: BOXY_test_232
+  - first:
+      213: 4872130010014571099
+    second: BOXY_test_233
+  - first:
+      213: -2206932058740153750
+    second: BOXY_test_234
+  - first:
+      213: -4013818169437372473
+    second: BOXY_test_235
+  - first:
+      213: -7378542632247977010
+    second: BOXY_test_236
+  - first:
+      213: 4980976976698663063
+    second: BOXY_test_237
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOXY_test_0
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 10118
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68e06e8e314d5c00800000000000000
+      internalID: 890940038221719658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_1
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 9967
+        width: 106
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b4a951afca67790800000000000000
+      internalID: -7532643136626341103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_2
+      rect:
+        serializedVersion: 2
+        x: 5566
+        y: 10126
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db055b5b732b99ba0800000000000000
+      internalID: -6081633869445640003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_3
+      rect:
+        serializedVersion: 2
+        x: 5821
+        y: 9961
+        width: 119
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dde317c2caa7ac50800000000000000
+      internalID: 6676492726140399062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_4
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 9967
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ca06a6574b429d0800000000000000
+      internalID: -2799914651928712168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_5
+      rect:
+        serializedVersion: 2
+        x: 6437
+        y: 10126
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0617895a92e5b60800000000000000
+      internalID: 7736667001073000703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_6
+      rect:
+        serializedVersion: 2
+        x: 6491
+        y: 10118
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669fc4bd0a4c48320800000000000000
+      internalID: 2559386683406350694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_7
+      rect:
+        serializedVersion: 2
+        x: 7005
+        y: 9961
+        width: 119
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cc6ebb70f9aad50800000000000000
+      internalID: 6749381847134162036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 10014
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca3ff6249274a30800000000000000
+      internalID: 4199370542869097566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 10014
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84255a49115bec0800000000000000
+      internalID: -3551913400985302865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 10014
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb85f72e63639de0800000000000000
+      internalID: -1327608140376208413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_11
+      rect:
+        serializedVersion: 2
+        x: 5811
+        y: 10016
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d606ad7f51954250800000000000000
+      internalID: 5928304323819079380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_12
+      rect:
+        serializedVersion: 2
+        x: 7108
+        y: 10016
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c570426dbafe15320800000000000000
+      internalID: 2545078785752172380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_13
+      rect:
+        serializedVersion: 2
+        x: 9035
+        y: 9953
+        width: 180
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538e24cce02b96210800000000000000
+      internalID: 1326787341863544885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_14
+      rect:
+        serializedVersion: 2
+        x: 9334
+        y: 9953
+        width: 181
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c049d8c1964f9430800000000000000
+      internalID: 3791827003223130313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_15
+      rect:
+        serializedVersion: 2
+        x: 5513
+        y: 9996
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b9cb74f8c1402c0800000000000000
+      internalID: -4466413528735245414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_16
+      rect:
+        serializedVersion: 2
+        x: 5586
+        y: 9996
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bfdc452ac679cd0800000000000000
+      internalID: -2551451219418809473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_17
+      rect:
+        serializedVersion: 2
+        x: 6425
+        y: 9996
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d85c22f7753cb50800000000000000
+      internalID: 6612224881465855306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_18
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 9996
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c80619304af4ec0800000000000000
+      internalID: -3580462843505374198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_19
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 9961
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a982de795a240f320800000000000000
+      internalID: 2589643064723974298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_20
+      rect:
+        serializedVersion: 2
+        x: 5561
+        y: 9962
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b7cccc40e715a0800000000000000
+      internalID: -6550520512529321329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_21
+      rect:
+        serializedVersion: 2
+        x: 6445
+        y: 9962
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfc81cd114d665b0800000000000000
+      internalID: -5375375932047962180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_22
+      rect:
+        serializedVersion: 2
+        x: 6469
+        y: 9961
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cce844f7a710510800000000000000
+      internalID: 1513625636802841706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9714
+        width: 120
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6e18fe6c7d59430800000000000000
+      internalID: 3789171910923904690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 9714
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a050dd2f79e3df2c0800000000000000
+      internalID: -4396288838908181238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_25
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 9755
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b3ad24c168ede30800000000000000
+      internalID: 4530205731120102154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_26
+      rect:
+        serializedVersion: 2
+        x: 5826
+        y: 9750
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0743d4d31a02810800000000000000
+      internalID: 1738566740825370790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_27
+      rect:
+        serializedVersion: 2
+        x: 5837
+        y: 9761
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77e6c02e4cf66bc0800000000000000
+      internalID: -3790064623898138758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_28
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 9752
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1625ac7cd7a7d4620800000000000000
+      internalID: 2759996827289408097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_29
+      rect:
+        serializedVersion: 2
+        x: 6475
+        y: 9759
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbba6644550166090800000000000000
+      internalID: -8041722126217598017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_30
+      rect:
+        serializedVersion: 2
+        x: 7044
+        y: 9750
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec90685d3a1db50800000000000000
+      internalID: 6616249465056120496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_31
+      rect:
+        serializedVersion: 2
+        x: 9033
+        y: 9653
+        width: 182
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e3271e3c4e9abe0800000000000000
+      internalID: -1465388673780269425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_32
+      rect:
+        serializedVersion: 2
+        x: 9138
+        y: 9715
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ae797119a3bfee0800000000000000
+      internalID: -1226322078687827425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_33
+      rect:
+        serializedVersion: 2
+        x: 9335
+        y: 9653
+        width: 181
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af42937fcbb2c2a00800000000000000
+      internalID: 733008929956111610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_34
+      rect:
+        serializedVersion: 2
+        x: 9439
+        y: 9724
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f577b17b36fd32a50800000000000000
+      internalID: 6495280706965174111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_35
+      rect:
+        serializedVersion: 2
+        x: 9205
+        y: 9679
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f62608470df8880800000000000000
+      internalID: -8606431164093010136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 9361
+        width: 85
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e7ce80b959bc910800000000000000
+      internalID: 1858743764322647577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9396
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f127207e6249ba0800000000000000
+      internalID: -6083194423050363085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 9361
+        width: 85
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15ba025c2352bb90800000000000000
+      internalID: -7227623002156124900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 9400
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b015a579014e5180800000000000000
+      internalID: -9124784286121783120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_40
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 9410
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3230104acf8956a90800000000000000
+      internalID: -7321277408370162909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_41
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 9360
+        width: 79
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b460d222ce47d1d40800000000000000
+      internalID: 5556726072779540043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_42
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 9360
+        width: 83
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1335234fd5965540800000000000000
+      internalID: 4996345622750901018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_43
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 9360
+        width: 83
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11c3ba38e96384f0800000000000000
+      internalID: -827701460367851235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_44
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 9360
+        width: 79
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9425adbf97c0dcc0800000000000000
+      internalID: -3688228605920992102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_45
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 8731
+        width: 127
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c60f5c62d9235d70800000000000000
+      internalID: 9030607661546014408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_46
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 9360
+        width: 76
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade4246aa0211bd40800000000000000
+      internalID: 5598275648746573530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_47
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 9361
+        width: 75
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbdfcd185d7efd70800000000000000
+      internalID: 9078831716236254165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_48
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 9361
+        width: 77
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dae18a3ea066af70800000000000000
+      internalID: 9198145590372985553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_49
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 9361
+        width: 75
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d95ee1155eedaf0800000000000000
+      internalID: -369605982824325887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_50
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 8735
+        width: 222
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac97726472a64880800000000000000
+      internalID: -8627029415429694297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_51
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 9414
+        width: 120
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344fda832f0628fd0800000000000000
+      internalID: -2341202262829960125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_52
+      rect:
+        serializedVersion: 2
+        x: 5893
+        y: 9433
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8756784fb5909c50800000000000000
+      internalID: 6669995696922711946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_53
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 9432
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a89885898f92b0800000000000000
+      internalID: -5575586607046023799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_54
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 9432
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45946c134bf192060800000000000000
+      internalID: 6929104360475871572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_55
+      rect:
+        serializedVersion: 2
+        x: 6689
+        y: 9426
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc17fd33ac241ee0800000000000000
+      internalID: -1291358113517593390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_56
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 9426
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230a00ce175b6c220800000000000000
+      internalID: 2505889743573655602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_57
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 9062
+        width: 142
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6941dcd7d9c4f22f0800000000000000
+      internalID: -995492753321421674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_58
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 9099
+        width: 92
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733ad0e13dbc37140800000000000000
+      internalID: 4716337342389789495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_59
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 9074
+        width: 42
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047cfe95e4364b6a0800000000000000
+      internalID: -6434408779438110912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_60
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 9104
+        width: 140
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb516c448d0579f0800000000000000
+      internalID: -471455724122055698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_61
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 9198
+        width: 35
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77884462429294f0800000000000000
+      internalID: -823434968007407750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_62
+      rect:
+        serializedVersion: 2
+        x: 4692
+        y: 9207
+        width: 86
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac931b8bd2f60370800000000000000
+      internalID: 8288579188967054502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_63
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 9213
+        width: 201
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b28776aa20009d0800000000000000
+      internalID: -2810243236575564904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 9148
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9a347769db04470800000000000000
+      internalID: 8376903760852789677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_65
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 9148
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3badf118b36fce80800000000000000
+      internalID: -8156190757917709505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_66
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 9119
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d7c779c1b28340800000000000000
+      internalID: 4864646026369683851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_67
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9133
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ba1d147313addf0800000000000000
+      internalID: -154757123793638605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_68
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 9133
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10735af8359af7f0800000000000000
+      internalID: -577985530213208037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_69
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 9119
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84eab65587c32e30800000000000000
+      internalID: 4477641830036071566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_70
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 9119
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce37c537096274c70800000000000000
+      internalID: 8955168785902105580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_71
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 9115
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22750726cf60ce1b0800000000000000
+      internalID: -5626114153439537374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_72
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 9108
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef02bc15711b570800000000000000
+      internalID: 8480585213383081696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_73
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 9115
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99bcc468955579a0800000000000000
+      internalID: -6235983996010055269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_74
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 9087
+        width: 67
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca4463b268db0680800000000000000
+      internalID: -8787692329455301943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_75
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8834
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef35d629bda7b270800000000000000
+      internalID: 8266266651793899490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_76
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 8834
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d17be138df68a50800000000000000
+      internalID: 6523179849890602328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_77
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 8833
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8b46ac601463830800000000000000
+      internalID: 4050496412287547643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_78
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 8852
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63af59db0e215d180800000000000000
+      internalID: -9091339516314781130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_79
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 8852
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1844a7d58009b4cb0800000000000000
+      internalID: -4878647405723368319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_80
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 8833
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee646d7c124109d60800000000000000
+      internalID: 7894832282099664622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_81
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 8833
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdeb32748b1f45c0800000000000000
+      internalID: -4229131269411443212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_82
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 8825
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2650c25da0cc58c0800000000000000
+      internalID: -4009117717616372177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_83
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 8822
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9864dc578d1183e50800000000000000
+      internalID: 6789196059648018057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_84
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 8825
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b6bd315a25a4df0800000000000000
+      internalID: -195252764880966851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_85
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 8416
+        width: 94
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f3fdd2296ab81c0800000000000000
+      internalID: -4500320255861637344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_86
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 8083
+        width: 154
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384325becc2ec9830800000000000000
+      internalID: 4079384732240065667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_87
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 8624
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3031df08b7cd7c00800000000000000
+      internalID: 900095093897244731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_88
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 8628
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3585ebe345fec2120800000000000000
+      internalID: 2390548647335843923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_89
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 8548
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1a6b2b4148e9ab0800000000000000
+      internalID: -4999413311902146116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_90
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8523
+        width: 123
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c1f1f1432a34590800000000000000
+      internalID: -7691125393874543616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_91
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 8523
+        width: 123
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341db51d0a7a226f0800000000000000
+      internalID: -710821482022055613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_92
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 8482
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2163c6fea0c16dc0800000000000000
+      internalID: -3647422365496549077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_93
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 8488
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fe4ed9e990713d0800000000000000
+      internalID: -3236107230383902876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_94
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 8488
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbc6626257d41960800000000000000
+      internalID: 7571913622354840570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_95
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 8482
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d772a4964a8c95f80800000000000000
+      internalID: -8117236244891949187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_96
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 8497
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af03b03be65e5f6a0800000000000000
+      internalID: -6415969830506385158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_97
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 8567
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66af4425c420f190800000000000000
+      internalID: -7930798514663086485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_98
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 8511
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8f1d42df2b5b790800000000000000
+      internalID: -7514903602883593989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_99
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 8479
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1086e7c47ffd630800000000000000
+      internalID: 3954150905764905461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_100
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 8473
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb203cc0bb65e7830800000000000000
+      internalID: 4070786474562486972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_101
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 8474
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4b75c6d5d2d4e20800000000000000
+      internalID: 3336372778224301259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_102
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 8473
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75414c8fdd3c12ab0800000000000000
+      internalID: -5034527550294715305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_103
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 8468
+        width: 86
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35abeb3b389940a0800000000000000
+      internalID: -6896813974165412546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_104
+      rect:
+        serializedVersion: 2
+        x: 4577
+        y: 8531
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade430b6f506c3900800000000000000
+      internalID: 665512807877529306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_105
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 8563
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72c3d18d7001edf0800000000000000
+      internalID: -152840373304835461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_106
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 8569
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624d8e8d3ff821610800000000000000
+      internalID: 1590491895894168614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_107
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 8560
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4edb23baa651d0800000000000000
+      internalID: -3362312385273638983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_108
+      rect:
+        serializedVersion: 2
+        x: 4889
+        y: 8559
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ed18c51d7c46520800000000000000
+      internalID: 2694498179088506501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_109
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 8513
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a93a14808767900800000000000000
+      internalID: 681864370449521278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_110
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 8499
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a55219a415f27ea0800000000000000
+      internalID: -5876365094680373847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_111
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 8492
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887439acd09b3f1a0800000000000000
+      internalID: -6776869545378101368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_112
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 8464
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc2b294367acbb70800000000000000
+      internalID: 8916185407157906633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_113
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 8302
+        width: 129
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cb870c670fa5140800000000000000
+      internalID: 4709340753195220072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_114
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 8403
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a25e0e78a4a2b40800000000000000
+      internalID: 5416223449320598053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_115
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 8146
+        width: 185
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63930a737b103cdb0800000000000000
+      internalID: -4772969293658703562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_116
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 8202
+        width: 98
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd6b22cb09c21030800000000000000
+      internalID: 3464052115740782003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_117
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 8308
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590ffc68629ca6bb0800000000000000
+      internalID: -4941916473777983339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_118
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 8193
+        width: 91
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92307ed4cb1585200800000000000000
+      internalID: 168974855229080361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_119
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 8157
+        width: 81
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61c9654439d3fdf0800000000000000
+      internalID: -147535544247008914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_120
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 8160
+        width: 70
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715f15051ebf471d0800000000000000
+      internalID: -3353778877350415081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_121
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 8321
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb1e5731b7d60d10800000000000000
+      internalID: 2091596233098271682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_122
+      rect:
+        serializedVersion: 2
+        x: 4747
+        y: 8312
+        width: 153
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad8086a41f92d660800000000000000
+      internalID: 7409159248019492256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_123
+      rect:
+        serializedVersion: 2
+        x: 4939
+        y: 8291
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d1be2dcdffb50f0800000000000000
+      internalID: -1127025957829665385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_124
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 7894
+        width: 1240
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c284f6599cf24080800000000000000
+      internalID: -9204516952872811835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8190
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9782485b680187e0800000000000000
+      internalID: -1765120321817245796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_126
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 8228
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4042c6a3b8ba1220800000000000000
+      internalID: 2457479628420431948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_127
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 8228
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289ccfc6af6a43bc0800000000000000
+      internalID: -3804232190720685694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_128
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 8190
+        width: 92
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03078afe41a3a0f70800000000000000
+      internalID: 9154193054178504752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_129
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 8214
+        width: 119
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637ef9d2dba534190800000000000000
+      internalID: -7979434346209614026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_130
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 8214
+        width: 119
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a190ec4ffc3b0f10800000000000000
+      internalID: 2236948707123696039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_131
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 8254
+        width: 73
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02afff1b5160a520800000000000000
+      internalID: 2711274019683803660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_132
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 8245
+        width: 8
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf5a08dfe3fc4270800000000000000
+      internalID: 8236226030001086397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_133
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 8218
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b813d68c37d986b00800000000000000
+      internalID: 822080052604514699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_134
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 8194
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75242197f802ae300800000000000000
+      internalID: 282073727247729239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_135
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 8202
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1524f5705338d60800000000000000
+      internalID: 7891209277862466042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_136
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 8188
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be0158e593bbe5a0800000000000000
+      internalID: -6490896981495312711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_137
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 8184
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611284afb294e1450800000000000000
+      internalID: 6061362601718718742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_138
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 8188
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9448988a735ac8fa0800000000000000
+      internalID: -5797076961863302071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_139
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 8184
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520af0a2561a97540800000000000000
+      internalID: 5006209916668452901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_140
+      rect:
+        serializedVersion: 2
+        x: 4701
+        y: 8182
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d462861d36e3a00800000000000000
+      internalID: 738137139981995312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_141
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 8184
+        width: 18
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1725a132cc6e0e960800000000000000
+      internalID: 7629351533202264689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_142
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 8154
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b77fe4afa9f69460800000000000000
+      internalID: 7248255183081142199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_143
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 8234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda9e4059673f4f70800000000000000
+      internalID: 9173611891435412191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_144
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 8225
+        width: 67
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583c36f73fa12b7e0800000000000000
+      internalID: -1751307671977081979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_145
+      rect:
+        serializedVersion: 2
+        x: 4974
+        y: 8179
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed4cfd750d0974e0800000000000000
+      internalID: -1983539843640308255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_146
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 8093
+        width: 137
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9e2e1b6b49413a0800000000000000
+      internalID: -6695563233603687999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_147
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 8100
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dc328b63784d620800000000000000
+      internalID: 2798009937591258480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_148
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 8091
+        width: 118
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3e3634b11b79630800000000000000
+      internalID: 3933807530184270764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_149
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 8096
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3649c4d703f65ddb0800000000000000
+      internalID: -4767782376450517917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_150
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 8089
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eab6f3e91f95530800000000000000
+      internalID: 3844369418908577389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_151
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6963
+        width: 94
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea897989e07221fc0800000000000000
+      internalID: -3525712614634579794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_152
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 6963
+        width: 94
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec045f105f38c7d10800000000000000
+      internalID: 2124718212535107790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_153
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 6961
+        width: 84
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb089f616f914670800000000000000
+      internalID: 8521267210794568636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_154
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 6965
+        width: 97
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e831535dd3da3740800000000000000
+      internalID: 5132647672881166562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_155
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 6965
+        width: 97
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5bfad1618b406c0800000000000000
+      internalID: -4178012149166131731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_156
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 6963
+        width: 84
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fde069ef80125130800000000000000
+      internalID: 3553921266230554104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_157
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 6954
+        width: 114
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996351a6572cb8eb0800000000000000
+      internalID: -4716462375193725287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_158
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 6966
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ccb1c5baca81c40800000000000000
+      internalID: 5483322398308289545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_159
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 6970
+        width: 72
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d718d976fc636a5c0800000000000000
+      internalID: -4204612937679273603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_160
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 7012
+        width: 71
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea94f9df85266760800000000000000
+      internalID: 7450683933298301676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_161
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 6995
+        width: 82
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618178af7e0a41eb0800000000000000
+      internalID: -4749994788767983594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_162
+      rect:
+        serializedVersion: 2
+        x: 4594
+        y: 6954
+        width: 114
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd038dcb3c98ec7b0800000000000000
+      internalID: -5202069045786431269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_163
+      rect:
+        serializedVersion: 2
+        x: 4894
+        y: 6954
+        width: 114
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96df75620ba9d7d50800000000000000
+      internalID: 6736710698964352361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_164
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 6966
+        width: 92
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509011245590d9830800000000000000
+      internalID: 4079427099252820229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_165
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 6960
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb6973795eae9620800000000000000
+      internalID: 2782853318974204892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_166
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 6962
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccfda2456bdb19d0800000000000000
+      internalID: -2802405115151123257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_167
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 6960
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eecd5eb052991380800000000000000
+      internalID: -9000001504834367775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_168
+      rect:
+        serializedVersion: 2
+        x: 5262
+        y: 6962
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db3276e89697780800000000000000
+      internalID: -8684794346070622912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_169
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 6737
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cf26367b3e59fa0800000000000000
+      internalID: -5794474968756323205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_170
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 6798
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f848af231137490800000000000000
+      internalID: -7749831623125463170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_171
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 6785
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a9cb17ce104d1a0800000000000000
+      internalID: -6785796623508399565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_172
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 6759
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063b9843b55d8f310800000000000000
+      internalID: 1439134668645053280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_173
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 6757
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d43762d88b7a7790800000000000000
+      internalID: -7531571599247985449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_174
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6773
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccacf03988f077e80800000000000000
+      internalID: -8181053118837962036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_175
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 6759
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c143109f3a861d0800000000000000
+      internalID: -3357253232342328316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_176
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 6757
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbdd16826e114b50800000000000000
+      internalID: 6575570339443366834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_177
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6773
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fc94fe8795cb580800000000000000
+      internalID: -8810068395097993357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_178
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 6721
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed824f5632b8796c0800000000000000
+      internalID: -4136684748565894946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_179
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 6739
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0929e8d5fa59258d0800000000000000
+      internalID: -2859058233005403504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_180
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 6739
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6750a119468bad80800000000000000
+      internalID: -8238343444957735060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_181
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 6721
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1afad3d9c621400800000000000000
+      internalID: 293416348333089263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_182
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 6728
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a349e023886ccb10800000000000000
+      internalID: 2003090846675190689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_183
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 6728
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3301a0542314fbd0800000000000000
+      internalID: -2597430038393453766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_184
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 6728
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e217f7ceb97200800000000000000
+      internalID: 178383426310825457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_185
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 6726
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bf5745c341e4a40800000000000000
+      internalID: 5354239256337709910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_186
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 6726
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d81b0f93a0787f70800000000000000
+      internalID: 9185215288072411352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_187
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 6726
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2dd2081156d9c40800000000000000
+      internalID: 5520679844065432249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_188
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 6726
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582c895502a3e07e0800000000000000
+      internalID: -1797435290724810107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_189
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 6724
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48623e34d6b5ae3d0800000000000000
+      internalID: -3176626062307940732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_190
+      rect:
+        serializedVersion: 2
+        x: 5196
+        y: 6724
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d3715ea260f3440800000000000000
+      internalID: 4917656099413769550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_191
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 6510
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d3021ef9a470c70800000000000000
+      internalID: 8937194036077280535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_192
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 6480
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f03174329ef91e20800000000000000
+      internalID: 3321966104060965111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_193
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6433
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc242100ec3a0430800000000000000
+      internalID: 3749876572528848076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_194
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 6433
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d424ea1844cacd90800000000000000
+      internalID: -7076628050491464496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_195
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 6458
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e80b74f8b88135c0800000000000000
+      internalID: -4237455446421862167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_196
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 6446
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f49c5716f6b1130800000000000000
+      internalID: 3538544396608294781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_197
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 6458
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd77099687b53df0800000000000000
+      internalID: -201052819627213374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_198
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 6446
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32209eefb381baf0800000000000000
+      internalID: -382379632985365954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_199
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 6443
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429eeef4f5df22a60800000000000000
+      internalID: 7647953703033301284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_200
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 6426
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdea4aa98b5417d50800000000000000
+      internalID: 6733239577066385119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_201
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 6439
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b56af1907fc10830800000000000000
+      internalID: 4035734823493068213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_202
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 6439
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26752a197fd960f40800000000000000
+      internalID: 5694412465482389346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_203
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 6426
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f6383a4f2006bc0800000000000000
+      internalID: -3792027636507381959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_204
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6425
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0b3c3d2002b2a00800000000000000
+      internalID: 732714560892678318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_205
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6419
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44086eacf5d7c2150800000000000000
+      internalID: 5849187866426900548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_206
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 6425
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404727fb7c3ec4720800000000000000
+      internalID: 2831888712759145476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_207
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 6419
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39534ff8bf31a2b10800000000000000
+      internalID: 1957398959218767251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_208
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6146
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643bb067d984df800800000000000000
+      internalID: 647753762538763078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_209
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6146
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b772becd2a12a400800000000000000
+      internalID: 333858106422491061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_210
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 6082
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d736edd60ae55e0800000000000000
+      internalID: -1918919997470311013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_211
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 6088
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e657efe1896602070800000000000000
+      internalID: 8079570535043724654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_212
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 6088
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8671af3f8c3a9a60800000000000000
+      internalID: 7681518700379338381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_213
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 6082
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa97832803b797400800000000000000
+      internalID: 322424296607087018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_214
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 6093
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee72c2967698150800000000000000
+      internalID: 5875340890291564232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_215
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 6070
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b338eacffafcb7fb0800000000000000
+      internalID: -4648893835564383429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_216
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 6073
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cc77827ff14b980800000000000000
+      internalID: -8524153048309183430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_217
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 6141
+        width: 115
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc3ef0e7bbd37d90800000000000000
+      internalID: -7101090604632884009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_218
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 6170
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9b59970ebffd210800000000000000
+      internalID: 1360082554020280773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_219
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 6093
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7602f11b8a2f190800000000000000
+      internalID: -7930090515161126929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_220
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 6093
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70088866fd46d2ad0800000000000000
+      internalID: -2725411288828575737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_221
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 6083
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491ebe2c4eac657a0800000000000000
+      internalID: -6388695937506877036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_222
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 5934
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebbe3d0f1c030540800000000000000
+      internalID: 4972831741052894185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_223
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 5866
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33225a7696b293f0800000000000000
+      internalID: -895452618479754436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_224
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 5850
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac977295d6cd99d0800000000000000
+      internalID: -2765835975547970399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_225
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5784
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7a71bd58243eca0800000000000000
+      internalID: -5988869936798783557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_226
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 5837
+        width: 122
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f79b49a50832a10800000000000000
+      internalID: 1883490195701596001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_227
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5837
+        width: 122
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b28e63b7531cbf0800000000000000
+      internalID: -305904496366048421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_228
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 5784
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b7dcb975da896b0800000000000000
+      internalID: -5289287170558952667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_229
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 5808
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40895b65baaf28530800000000000000
+      internalID: 3855919844783659012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_230
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 5808
+        width: 118
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aa7b38143ccd330800000000000000
+      internalID: 3737076476960811601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_231
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 5779
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f28931ede1bab990800000000000000
+      internalID: -7369382204994387209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_232
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 5798
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e091e6a2bc4a970800000000000000
+      internalID: 8765354157866028690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_233
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 5798
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a50723e684d9340800000000000000
+      internalID: 4872130010014571099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_234
+      rect:
+        serializedVersion: 2
+        x: 4279
+        y: 5848
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a622f534cf66f51e0800000000000000
+      internalID: -2206932058740153750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_235
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 5808
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf3da914ad0c48c0800000000000000
+      internalID: -4013818169437372473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_236
+      rect:
+        serializedVersion: 2
+        x: 4887
+        y: 5779
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb98c4b1962a9990800000000000000
+      internalID: -7378542632247977010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOXY_test_237
+      rect:
+        serializedVersion: 2
+        x: 5196
+        y: 5798
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e5828b2cff1540800000000000000
+      internalID: 4980976976698663063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BOXY_test_0: 890940038221719658
+      BOXY_test_1: -7532643136626341103
+      BOXY_test_10: -1327608140376208413
+      BOXY_test_100: 4070786474562486972
+      BOXY_test_101: 3336372778224301259
+      BOXY_test_102: -5034527550294715305
+      BOXY_test_103: -6896813974165412546
+      BOXY_test_104: 665512807877529306
+      BOXY_test_105: -152840373304835461
+      BOXY_test_106: 1590491895894168614
+      BOXY_test_107: -3362312385273638983
+      BOXY_test_108: 2694498179088506501
+      BOXY_test_109: 681864370449521278
+      BOXY_test_11: 5928304323819079380
+      BOXY_test_110: -5876365094680373847
+      BOXY_test_111: -6776869545378101368
+      BOXY_test_112: 8916185407157906633
+      BOXY_test_113: 4709340753195220072
+      BOXY_test_114: 5416223449320598053
+      BOXY_test_115: -4772969293658703562
+      BOXY_test_116: 3464052115740782003
+      BOXY_test_117: -4941916473777983339
+      BOXY_test_118: 168974855229080361
+      BOXY_test_119: -147535544247008914
+      BOXY_test_12: 2545078785752172380
+      BOXY_test_120: -3353778877350415081
+      BOXY_test_121: 2091596233098271682
+      BOXY_test_122: 7409159248019492256
+      BOXY_test_123: -1127025957829665385
+      BOXY_test_124: -9204516952872811835
+      BOXY_test_125: -1765120321817245796
+      BOXY_test_126: 2457479628420431948
+      BOXY_test_127: -3804232190720685694
+      BOXY_test_128: 9154193054178504752
+      BOXY_test_129: -7979434346209614026
+      BOXY_test_13: 1326787341863544885
+      BOXY_test_130: 2236948707123696039
+      BOXY_test_131: 2711274019683803660
+      BOXY_test_132: 8236226030001086397
+      BOXY_test_133: 822080052604514699
+      BOXY_test_134: 282073727247729239
+      BOXY_test_135: 7891209277862466042
+      BOXY_test_136: -6490896981495312711
+      BOXY_test_137: 6061362601718718742
+      BOXY_test_138: -5797076961863302071
+      BOXY_test_139: 5006209916668452901
+      BOXY_test_14: 3791827003223130313
+      BOXY_test_140: 738137139981995312
+      BOXY_test_141: 7629351533202264689
+      BOXY_test_142: 7248255183081142199
+      BOXY_test_143: 9173611891435412191
+      BOXY_test_144: -1751307671977081979
+      BOXY_test_145: -1983539843640308255
+      BOXY_test_146: -6695563233603687999
+      BOXY_test_147: 2798009937591258480
+      BOXY_test_148: 3933807530184270764
+      BOXY_test_149: -4767782376450517917
+      BOXY_test_15: -4466413528735245414
+      BOXY_test_150: 3844369418908577389
+      BOXY_test_151: -3525712614634579794
+      BOXY_test_152: 2124718212535107790
+      BOXY_test_153: 8521267210794568636
+      BOXY_test_154: 5132647672881166562
+      BOXY_test_155: -4178012149166131731
+      BOXY_test_156: 3553921266230554104
+      BOXY_test_157: -4716462375193725287
+      BOXY_test_158: 5483322398308289545
+      BOXY_test_159: -4204612937679273603
+      BOXY_test_16: -2551451219418809473
+      BOXY_test_160: 7450683933298301676
+      BOXY_test_161: -4749994788767983594
+      BOXY_test_162: -5202069045786431269
+      BOXY_test_163: 6736710698964352361
+      BOXY_test_164: 4079427099252820229
+      BOXY_test_165: 2782853318974204892
+      BOXY_test_166: -2802405115151123257
+      BOXY_test_167: -9000001504834367775
+      BOXY_test_168: -8684794346070622912
+      BOXY_test_169: -5794474968756323205
+      BOXY_test_17: 6612224881465855306
+      BOXY_test_170: -7749831623125463170
+      BOXY_test_171: -6785796623508399565
+      BOXY_test_172: 1439134668645053280
+      BOXY_test_173: -7531571599247985449
+      BOXY_test_174: -8181053118837962036
+      BOXY_test_175: -3357253232342328316
+      BOXY_test_176: 6575570339443366834
+      BOXY_test_177: -8810068395097993357
+      BOXY_test_178: -4136684748565894946
+      BOXY_test_179: -2859058233005403504
+      BOXY_test_18: -3580462843505374198
+      BOXY_test_180: -8238343444957735060
+      BOXY_test_181: 293416348333089263
+      BOXY_test_182: 2003090846675190689
+      BOXY_test_183: -2597430038393453766
+      BOXY_test_184: 178383426310825457
+      BOXY_test_185: 5354239256337709910
+      BOXY_test_186: 9185215288072411352
+      BOXY_test_187: 5520679844065432249
+      BOXY_test_188: -1797435290724810107
+      BOXY_test_189: -3176626062307940732
+      BOXY_test_19: 2589643064723974298
+      BOXY_test_190: 4917656099413769550
+      BOXY_test_191: 8937194036077280535
+      BOXY_test_192: 3321966104060965111
+      BOXY_test_193: 3749876572528848076
+      BOXY_test_194: -7076628050491464496
+      BOXY_test_195: -4237455446421862167
+      BOXY_test_196: 3538544396608294781
+      BOXY_test_197: -201052819627213374
+      BOXY_test_198: -382379632985365954
+      BOXY_test_199: 7647953703033301284
+      BOXY_test_2: -6081633869445640003
+      BOXY_test_20: -6550520512529321329
+      BOXY_test_200: 6733239577066385119
+      BOXY_test_201: 4035734823493068213
+      BOXY_test_202: 5694412465482389346
+      BOXY_test_203: -3792027636507381959
+      BOXY_test_204: 732714560892678318
+      BOXY_test_205: 5849187866426900548
+      BOXY_test_206: 2831888712759145476
+      BOXY_test_207: 1957398959218767251
+      BOXY_test_208: 647753762538763078
+      BOXY_test_209: 333858106422491061
+      BOXY_test_21: -5375375932047962180
+      BOXY_test_210: -1918919997470311013
+      BOXY_test_211: 8079570535043724654
+      BOXY_test_212: 7681518700379338381
+      BOXY_test_213: 322424296607087018
+      BOXY_test_214: 5875340890291564232
+      BOXY_test_215: -4648893835564383429
+      BOXY_test_216: -8524153048309183430
+      BOXY_test_217: -7101090604632884009
+      BOXY_test_218: 1360082554020280773
+      BOXY_test_219: -7930090515161126929
+      BOXY_test_22: 1513625636802841706
+      BOXY_test_220: -2725411288828575737
+      BOXY_test_221: -6388695937506877036
+      BOXY_test_222: 4972831741052894185
+      BOXY_test_223: -895452618479754436
+      BOXY_test_224: -2765835975547970399
+      BOXY_test_225: -5988869936798783557
+      BOXY_test_226: 1883490195701596001
+      BOXY_test_227: -305904496366048421
+      BOXY_test_228: -5289287170558952667
+      BOXY_test_229: 3855919844783659012
+      BOXY_test_23: 3789171910923904690
+      BOXY_test_230: 3737076476960811601
+      BOXY_test_231: -7369382204994387209
+      BOXY_test_232: 8765354157866028690
+      BOXY_test_233: 4872130010014571099
+      BOXY_test_234: -2206932058740153750
+      BOXY_test_235: -4013818169437372473
+      BOXY_test_236: -7378542632247977010
+      BOXY_test_237: 4980976976698663063
+      BOXY_test_24: -4396288838908181238
+      BOXY_test_25: 4530205731120102154
+      BOXY_test_26: 1738566740825370790
+      BOXY_test_27: -3790064623898138758
+      BOXY_test_28: 2759996827289408097
+      BOXY_test_29: -8041722126217598017
+      BOXY_test_3: 6676492726140399062
+      BOXY_test_30: 6616249465056120496
+      BOXY_test_31: -1465388673780269425
+      BOXY_test_32: -1226322078687827425
+      BOXY_test_33: 733008929956111610
+      BOXY_test_34: 6495280706965174111
+      BOXY_test_35: -8606431164093010136
+      BOXY_test_36: 1858743764322647577
+      BOXY_test_37: -6083194423050363085
+      BOXY_test_38: -7227623002156124900
+      BOXY_test_39: -9124784286121783120
+      BOXY_test_4: -2799914651928712168
+      BOXY_test_40: -7321277408370162909
+      BOXY_test_41: 5556726072779540043
+      BOXY_test_42: 4996345622750901018
+      BOXY_test_43: -827701460367851235
+      BOXY_test_44: -3688228605920992102
+      BOXY_test_45: 9030607661546014408
+      BOXY_test_46: 5598275648746573530
+      BOXY_test_47: 9078831716236254165
+      BOXY_test_48: 9198145590372985553
+      BOXY_test_49: -369605982824325887
+      BOXY_test_5: 7736667001073000703
+      BOXY_test_50: -8627029415429694297
+      BOXY_test_51: -2341202262829960125
+      BOXY_test_52: 6669995696922711946
+      BOXY_test_53: -5575586607046023799
+      BOXY_test_54: 6929104360475871572
+      BOXY_test_55: -1291358113517593390
+      BOXY_test_56: 2505889743573655602
+      BOXY_test_57: -995492753321421674
+      BOXY_test_58: 4716337342389789495
+      BOXY_test_59: -6434408779438110912
+      BOXY_test_6: 2559386683406350694
+      BOXY_test_60: -471455724122055698
+      BOXY_test_61: -823434968007407750
+      BOXY_test_62: 8288579188967054502
+      BOXY_test_63: -2810243236575564904
+      BOXY_test_64: 8376903760852789677
+      BOXY_test_65: -8156190757917709505
+      BOXY_test_66: 4864646026369683851
+      BOXY_test_67: -154757123793638605
+      BOXY_test_68: -577985530213208037
+      BOXY_test_69: 4477641830036071566
+      BOXY_test_7: 6749381847134162036
+      BOXY_test_70: 8955168785902105580
+      BOXY_test_71: -5626114153439537374
+      BOXY_test_72: 8480585213383081696
+      BOXY_test_73: -6235983996010055269
+      BOXY_test_74: -8787692329455301943
+      BOXY_test_75: 8266266651793899490
+      BOXY_test_76: 6523179849890602328
+      BOXY_test_77: 4050496412287547643
+      BOXY_test_78: -9091339516314781130
+      BOXY_test_79: -4878647405723368319
+      BOXY_test_8: 4199370542869097566
+      BOXY_test_80: 7894832282099664622
+      BOXY_test_81: -4229131269411443212
+      BOXY_test_82: -4009117717616372177
+      BOXY_test_83: 6789196059648018057
+      BOXY_test_84: -195252764880966851
+      BOXY_test_85: -4500320255861637344
+      BOXY_test_86: 4079384732240065667
+      BOXY_test_87: 900095093897244731
+      BOXY_test_88: 2390548647335843923
+      BOXY_test_89: -4999413311902146116
+      BOXY_test_9: -3551913400985302865
+      BOXY_test_90: -7691125393874543616
+      BOXY_test_91: -710821482022055613
+      BOXY_test_92: -3647422365496549077
+      BOXY_test_93: -3236107230383902876
+      BOXY_test_94: 7571913622354840570
+      BOXY_test_95: -8117236244891949187
+      BOXY_test_96: -6415969830506385158
+      BOXY_test_97: -7930798514663086485
+      BOXY_test_98: -7514903602883593989
+      BOXY_test_99: 3954150905764905461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
