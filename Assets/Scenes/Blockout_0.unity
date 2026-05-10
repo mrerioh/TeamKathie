@@ -1841,7 +1841,6 @@ GameObject:
   - component: {fileID: 1139482125}
   - component: {fileID: 1139482124}
   - component: {fileID: 1139482123}
-  - component: {fileID: 1139482127}
   - component: {fileID: 1139482128}
   m_Layer: 0
   m_Name: Heavy Draggable (2)
@@ -1937,27 +1936,13 @@ Transform:
   m_GameObject: {fileID: 1139482122}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.0000058859578, z: -0, w: 1}
-  m_LocalPosition: {x: 0.74999905, y: -0.05635729, z: -0.010629232}
-  m_LocalScale: {x: 1.35886, y: 2.2513072, z: 1.0550972}
+  m_LocalPosition: {x: 14.789999, y: -3.005, z: 4.87}
+  m_LocalScale: {x: 1.35886, y: 0.99867994, z: 0.99266005}
   m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1145478546}
+  m_Children:
+  - {fileID: 1145478546}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1139482127
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1139482122}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc84b228022026540bff53334c421aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MovementLocker
-  SpawnLocation: {x: 0, y: 0, z: 0}
-  MaxLeft: 2
-  MaxRight: 2
 --- !u!54 &1139482128
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1997,6 +1982,7 @@ GameObject:
   - component: {fileID: 1145478545}
   - component: {fileID: 1145478544}
   - component: {fileID: 1145478543}
+  - component: {fileID: 1145478547}
   m_Layer: 7
   m_Name: HookPoint (2)
   m_TagString: Untagged
@@ -2090,14 +2076,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1145478542}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 14.04, y: -2.98, z: 4.88}
-  m_LocalScale: {x: 1, y: 0.44360003, z: 0.9408233}
+  m_LocalRotation: {x: -0, y: -0.0000058859578, z: -0, w: 1}
+  m_LocalPosition: {x: -0.5519326, y: 0.02503314, z: 0.010065278}
+  m_LocalScale: {x: 0.73591095, y: 0.4441864, z: 0.94777995}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1139482126}
-  m_Father: {fileID: 0}
+  m_Children: []
+  m_Father: {fileID: 1139482126}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1145478547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1145478542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53d79c55c0c43c340920cc7f6846fc88, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PullHandler
+  _gameObject: {fileID: 1139482122}
+  _maxPull: 2
+  _currentPull: 0
 --- !u!1 &1255673140
 GameObject:
   m_ObjectHideFlags: 0
@@ -3907,7 +3907,7 @@ SceneRoots:
   - {fileID: 1428365926}
   - {fileID: 1335586190}
   - {fileID: 1918581955}
-  - {fileID: 1145478546}
+  - {fileID: 1139482126}
   - {fileID: 306252913}
   - {fileID: 1391339271}
   - {fileID: 2109494166}
