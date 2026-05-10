@@ -591,7 +591,7 @@ MonoBehaviour:
   zFore: 4.92
   zBack: 14.07
   isBackground: 0
-  JumpCooldown: 0
+  JumpCooldown: 0.5
   JumpSpeed: 5
   JumpForce: 5
   IsPreppingGrapple: 0

@@ -213,6 +213,7 @@ public class PlayerController : MonoBehaviour
             IsReadyToJump = false;
             JumpPlayer();
             Invoke( nameof( ResetJump ), JumpCooldown );
+            Debug.Log( animator.GetBool("isJumping") );
         }
 
         if(Switch.WasPressedThisFrame())
@@ -241,7 +242,6 @@ public class PlayerController : MonoBehaviour
             facingRight = -1;
             transform.localScale = new Vector3(facingRight, 1, 1);
         }
-
         // Update sound
         UpdateSound();
 
