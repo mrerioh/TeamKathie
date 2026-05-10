@@ -78,7 +78,7 @@ public class PlayerController : MonoBehaviour
         Move   = PlayerMap.FindAction( "Move" );
         Jump   = PlayerMap.FindAction( "Jump" );
         Switch = PlayerMap.FindAction( "SwitchLayer" );
-        PlayerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.PlayerFootsteps);
+        //PlayerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.PlayerFootsteps);
         IsReadyToJump = true;
     }
 
