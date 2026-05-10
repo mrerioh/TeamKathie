@@ -10,6 +10,8 @@ public class RocketPunch : MonoBehaviour
     public InputActionAsset InputActions;
     private InputActionMap PlayerMap;
     private InputAction Punch;
+    [SerializeField] private Animator playerAnimator;
+    [SerializeField] private Animator fistAnimator;
     
 
     [Header("Charge Mechanics ")]
@@ -36,7 +38,7 @@ public class RocketPunch : MonoBehaviour
     public float QuickActiveTime=0.1f;
     public float HeavyActiveTime=0.2f;
     public float QuickKnockback=3f;
-    public float HeavyKnockback=15f;
+    public float HeavyKnockback=50f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private float ChargeTimer;
     private float ChargeCoef;
@@ -89,6 +91,8 @@ public class RocketPunch : MonoBehaviour
         if(Punch.IsPressed() && !Pc.IsPunching && CooldownTimer<=0)
         {
             Pc.IsChargingPunch=true;
+            fistAnimator.SetBool("isCharging", true);
+            playerAnimator.SetBool("isCharging", true);
             ChargeTimer+=Time.deltaTime;
         }
         if(Pc.IsChargingPunch && Punch.WasReleasedThisFrame())
@@ -96,17 +100,33 @@ public class RocketPunch : MonoBehaviour
             if(ChargeTimer <TapThreshold)
             {
                 //ChargeCoef=MaxChargeTime;
+
                 if (ChargeHoldCur > 0f)
                 {
                     LaunchPunch();
                 }
-                QuickPunch();
+                else
+                {
+                    QuickPunch();
+                }
+                
             }
             else if (ChargeTimer>=MaxChargeTime) 
             {
                 ChargeHoldCur= ChargeHoldMax;
                 Pc.IsChargingPunch = false;
                 ChargeTimer= 0f;
+                fistAnimator.SetBool("isCharging", false);
+                playerAnimator.SetBool("isCharging", false);
+
+                //animator.SetTrigger("ChargeStored");
+            }
+            else
+            {
+                Pc.IsChargingPunch = false;
+                ChargeTimer = 0f;
+                playerAnimator.SetBool("isCharging", false);
+                fistAnimator.SetBool("isCharging", false);
             }
 
             
@@ -119,39 +139,43 @@ public class RocketPunch : MonoBehaviour
         Pc.IsChargingPunch=false;
         Pc.IsPunching=true;
         PunchTimer=0f;
+        
         ChargeTimer=0f;
         ChargeCoef=0.3f;
-        dir=new Vector3(Pc.facingRight, 0f, 0f);
 
-        Vector3 s = QuickHitboxScale;
-        s.x*=Pc.facingRight;
-        Hitbox.transform.localScale=s;
-        Hitbox.Activate(QuickKnockback);
+        fistAnimator.SetBool("isCharging", false);
+        fistAnimator.SetTrigger("QuickPunch");
+        playerAnimator.SetBool("isCharging", false);
+        playerAnimator.SetTrigger("QuickPunch");
+
+        
+
+        
     }
 
     private void LaunchPunch()
     {
         ChargeHoldCur=0f;
-        ChargeCoef=1f;
         Pc.IsChargingPunch=false;
         Pc.IsPunching=true;
-        PunchTimer=0f;
-        dir=new Vector3(Pc.facingRight, 0f, 0f);
         ChargeTimer=0f;
         //rb.linearVelocity=dir * (MaxPunchSpeed*ChargeCoef);
         ChargeTimer=0f;
 
-        Vector3 s = HeavyHitboxScale;
-        s.x*=Pc.facingRight;
-        Hitbox.transform.localScale=s;
-        Hitbox.Activate(HeavyKnockback);
+        fistAnimator.SetBool("isCharging", false);
+        playerAnimator.SetTrigger("HeavyPunch");
+        fistAnimator.SetBool("isCharging", false);
+        playerAnimator.SetTrigger("HeavyPunch");
+
+        
     }
 
     private void PunchFrames()
     {
         PunchTimer+=Time.deltaTime;
        // rb.linearVelocity=dir*(MaxPunchSpeed * ChargeCoef);
-        if(PunchTimer>=MaxPunchLength*ChargeCoef) StopPunch();
+        //if(PunchTimer>=MaxPunchLength*ChargeCoef) StopPunch();
+    if(PunchTimer>=MaxPunchLength*ChargeCoef) StopPunch();
     }
 
     private void StopPunch()
@@ -159,6 +183,32 @@ public class RocketPunch : MonoBehaviour
         Pc.IsPunching=false;
         CooldownTimer=punchCooldown;
 
+        Hitbox.Deactivate();
+    }
+
+    public void EnableQuickPunchHitbox()
+    {
+        Vector3 s = QuickHitboxScale;
+        Hitbox.transform.localScale=s;
+       Hitbox.Activate(QuickKnockback);
+    }
+
+    public void EnableHeavyPunchHitbox()
+    {
+        Vector3 s = HeavyHitboxScale;
+        Hitbox.transform.localScale=s;
+        Hitbox.Activate(HeavyKnockback);
+    }
+
+    public void DisablePunchHitbox()
+    {
+        Hitbox.Deactivate();
+    }
+
+    public void FinishPunch()
+    {
+        Pc.IsPunching=false;
+        CooldownTimer=punchCooldown;
         Hitbox.Deactivate();
     }
 }

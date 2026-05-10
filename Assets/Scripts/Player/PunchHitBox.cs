@@ -24,6 +24,7 @@ public class PunchHitBox : MonoBehaviour
         }
         Vector3 dir=(other.transform.position - transform.parent.position).normalized;
         rb.AddForce(dir * knockback,ForceMode.Impulse);
+        
     }
     void Start()
     {
