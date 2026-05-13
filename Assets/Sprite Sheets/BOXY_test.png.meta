@@ -1827,7 +1827,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOXY_test_45
+      name: Idle_R1
       rect:
         serializedVersion: 2
         x: 2213
@@ -1849,7 +1849,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOXY_test_46
+      name: Idle_R2
       rect:
         serializedVersion: 2
         x: 2513
@@ -1871,7 +1871,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOXY_test_47
+      name: Idle_R3
       rect:
         serializedVersion: 2
         x: 2812
@@ -1893,7 +1893,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOXY_test_48
+      name: Idle_R4
       rect:
         serializedVersion: 2
         x: 3113
@@ -1937,15 +1937,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOXY_test_50
+      name: Punch_Arm
       rect:
         serializedVersion: 2
         x: 4094
         y: 9434
         width: 109
         height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.088222116, y: 0.5520399}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1959,15 +1959,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BOXY_test_51
+      name: Punch_Fist
       rect:
         serializedVersion: 2
         x: 4299
         y: 9433
         width: 117
         height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.11637787, y: 0.5081177}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1988,8 +1988,8 @@ TextureImporter:
         y: 9363
         width: 63
         height: 121
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.64847624, y: 0.89580643}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2010,8 +2010,8 @@ TextureImporter:
         y: 9397
         width: 118
         height: 91
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.82025456, y: 0.76314604}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6358,14 +6358,8 @@ TextureImporter:
       BOXY_test_42: 4996345622750901018
       BOXY_test_43: -827701460367851235
       BOXY_test_44: -3688228605920992102
-      BOXY_test_45: 9030607661546014408
-      BOXY_test_46: 5598275648746573530
-      BOXY_test_47: 9078831716236254165
-      BOXY_test_48: 9198145590372985553
       BOXY_test_49: -369605982824325887
       BOXY_test_5: 7736667001073000703
-      BOXY_test_50: -8627029415429694297
-      BOXY_test_51: -2341202262829960125
       BOXY_test_52: 6669995696922711946
       BOXY_test_53: -5575586607046023799
       BOXY_test_54: 6929104360475871572
@@ -6418,6 +6412,12 @@ TextureImporter:
       BOXY_test_97: -7930798514663086485
       BOXY_test_98: -7514903602883593989
       BOXY_test_99: 3954150905764905461
+      Idle_R1: 9030607661546014408
+      Idle_R2: 5598275648746573530
+      Idle_R3: 9078831716236254165
+      Idle_R4: 9198145590372985553
+      Punch_Arm: -8627029415429694297
+      Punch_Fist: -2341202262829960125
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
