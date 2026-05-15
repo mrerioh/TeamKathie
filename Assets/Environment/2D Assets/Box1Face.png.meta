@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2f5660c8009a9f64a99c9b7902e354f1
+guid: 0c613531ad01b0748985c6263173b55e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2980220908147764965
-    second: StraightCurtain_0
+      213: 5591759745218256308
+    second: Box1Face_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: StraightCurtain_0
+      name: Box1Face_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 20
-        height: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5eee656402fdb5920800000000000000
-      internalID: 2980220908147764965
+      spriteID: 4bd1013acdbe99d40800000000000000
+      internalID: 5591759745218256308
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      StraightCurtain_0: 2980220908147764965
+      Box1Face_0: 5591759745218256308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

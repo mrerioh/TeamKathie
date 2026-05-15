@@ -4,6 +4,7 @@ public class PunchHitBox : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private float knockback;
+    public float hitStunDuration = 0.35f;
     
     public void Activate(float kb)
     {
@@ -25,6 +26,9 @@ public class PunchHitBox : MonoBehaviour
         Vector3 dir=(other.transform.position - transform.parent.position).normalized;
         rb.AddForce(dir * knockback,ForceMode.Impulse);
         
+        var enemy = rb.GetComponent<EnemyTest>();
+        if (enemy != null)
+            enemy.stun(hitStunDuration);
     }
     void Start()
     {
