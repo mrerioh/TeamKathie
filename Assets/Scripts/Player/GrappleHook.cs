@@ -159,11 +159,19 @@ public class GrappleHook : MonoBehaviour
     private void StopStomp()
     {
         // disable box collider here,  drop grapple hook at point of grapple layer. user will have to pick this up
-        Debug.Log("StopStomp");
-        EnableLineRenderer       = false;
-        EnableBoxCollider        = false;
-        IsStomped                = false;
-        StompCooldownTimer       = StompCooldown;
+        RaycastHit Hit;
+        if( Physics.Raycast( transform.position, Vector3.down, out Hit, Pc.PlayerHeight * 0.5f + 0.2f, GrappleLayer ) )
+        {
+            GameObject CurrentGameObject = Hit.collider.gameObject;
+            if( CurrentGameObject == HitObject )
+            {
+                Debug.Log("StopStomp");
+                EnableLineRenderer       = false;
+                EnableBoxCollider        = false;
+                IsStomped                = false;
+                StompCooldownTimer       = StompCooldown;
+            }
+        }
     }
 
     private void StopGrapple()
