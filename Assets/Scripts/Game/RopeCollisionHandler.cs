@@ -17,6 +17,10 @@ public class RopeCollisionHandler : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        if (other.tag == "Player")
+            if(!LimbManager.IsBalanced)
+                CutEnds();
+
         if (other.gameObject.layer == 10)
         {
             Debug.Log("Hit");

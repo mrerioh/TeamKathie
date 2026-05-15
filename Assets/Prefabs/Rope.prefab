@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 6473056496064034860}
   - component: {fileID: 3700818761910484784}
-  - component: {fileID: 2285763472560393479}
   - component: {fileID: 7073426971824488656}
   - component: {fileID: 7703523252642787194}
   - component: {fileID: 8997033425446191088}
@@ -95,29 +94,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!136 &2285763472560393479
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1258760067837318528}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Radius: 0.21
-  m_Height: 1
-  m_Direction: 0
-  m_Center: {x: 0, y: 0.00000047683716, z: 0}
 --- !u!54 &7073426971824488656
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -126,7 +102,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1258760067837318528}
   serializedVersion: 5
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -180,7 +156,7 @@ HingeJoint:
     contactDistance: 0
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
-  m_EnableCollision: 0
+  m_EnableCollision: 1
   m_EnablePreprocessing: 1
   m_MassScale: 1
   m_ConnectedMassScale: 1
@@ -203,7 +179,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.93, y: 0.73, z: 0.2}
+  m_Size: {x: 0.93, y: 0.73, z: 0.68}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1522033732447482917
 GameObject:
@@ -274,8 +250,8 @@ MonoBehaviour:
   ExceedsWeight: 0
   NumOnRope: 0
   NumToBreak: 3
-  RightEnd: {fileID: 8992957736632475591}
   LeftEnd: {fileID: 1876680231225248900}
+  RightEnd: {fileID: 8992957736632475591}
 --- !u!1 &1609627948701903868
 GameObject:
   m_ObjectHideFlags: 0
@@ -286,7 +262,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8802444188323261421}
   - component: {fileID: 4224845704559133547}
-  - component: {fileID: 396877600554633101}
   - component: {fileID: 512949269494438263}
   - component: {fileID: 2231564963730182911}
   - component: {fileID: 3014824239331193408}
@@ -371,29 +346,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!136 &396877600554633101
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1609627948701903868}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Radius: 0.21
-  m_Height: 1
-  m_Direction: 0
-  m_Center: {x: 0, y: 0.00000047683716, z: 0}
 --- !u!54 &512949269494438263
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -402,7 +354,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1609627948701903868}
   serializedVersion: 5
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -456,7 +408,7 @@ HingeJoint:
     contactDistance: 0
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
-  m_EnableCollision: 0
+  m_EnableCollision: 1
   m_EnablePreprocessing: 1
   m_MassScale: 1
   m_ConnectedMassScale: 1
@@ -479,7 +431,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.93, y: 0.73, z: 0.2}
+  m_Size: {x: 0.93, y: 0.73, z: 0.68}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1876680231225248900
 GameObject:
@@ -604,9 +556,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5367120850621357801}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.6, y: -2.79, z: 4.908}
-  m_LocalScale: {x: 0.64, y: 0.64, z: 0.64}
+  m_LocalScale: {x: 0.7069439, y: 0.7069439, z: 0.7069439}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2120848729614521587}
@@ -628,7 +580,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1518282760802773493}
   - component: {fileID: 8746977617901442433}
-  - component: {fileID: 5217676415848645111}
   - component: {fileID: 2458689591348440631}
   - component: {fileID: 1651014052082231195}
   - component: {fileID: 4028005078743514650}
@@ -713,29 +664,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!136 &5217676415848645111
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6312790551880583731}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Radius: 0.21
-  m_Height: 1
-  m_Direction: 0
-  m_Center: {x: 0, y: 0.00000047683716, z: 0}
 --- !u!54 &2458689591348440631
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -744,7 +672,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6312790551880583731}
   serializedVersion: 5
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -798,7 +726,7 @@ HingeJoint:
     contactDistance: 0
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
-  m_EnableCollision: 0
+  m_EnableCollision: 1
   m_EnablePreprocessing: 1
   m_MassScale: 1
   m_ConnectedMassScale: 1
@@ -821,7 +749,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.93, y: 0.73, z: 0.2}
+  m_Size: {x: 0.93, y: 0.73, z: 0.68}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &8885785120158637123
 GameObject:
@@ -833,7 +761,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8808422882428149828}
   - component: {fileID: 3787611055108713786}
-  - component: {fileID: 5431026062864692994}
   - component: {fileID: 6681071661604579542}
   - component: {fileID: 8698558270909193370}
   - component: {fileID: 8122809792458889889}
@@ -918,29 +845,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!136 &5431026062864692994
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8885785120158637123}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Radius: 0.21
-  m_Height: 1
-  m_Direction: 0
-  m_Center: {x: 0, y: 0.00000047683716, z: 0}
 --- !u!54 &6681071661604579542
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -949,7 +853,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8885785120158637123}
   serializedVersion: 5
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -1003,7 +907,7 @@ HingeJoint:
     contactDistance: 0
   m_BreakForce: Infinity
   m_BreakTorque: Infinity
-  m_EnableCollision: 0
+  m_EnableCollision: 1
   m_EnablePreprocessing: 1
   m_MassScale: 1
   m_ConnectedMassScale: 1
@@ -1026,7 +930,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.93, y: 0.73, z: 0.2}
+  m_Size: {x: 0.93, y: 0.73, z: 0.68}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &8992957736632475591
 GameObject:

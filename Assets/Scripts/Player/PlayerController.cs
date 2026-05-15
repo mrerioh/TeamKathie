@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using FMODUnity;
 using FMOD.Studio;
+using DG.Tweening;
 
 public enum MovementState
 {
@@ -28,9 +29,9 @@ public class PlayerController : MonoBehaviour
 
     [Header("Grounding Info")]
     public float                      PlayerHeight;
-    public LayerMask                  GroundLayer;
+    public LayerMask[]                  GroundLayer;
     int    Mask;
-    bool                              IsGrounded;
+    [SerializeField]bool                              IsGrounded;
 
     [Header("Walk Info")]
     private InputAction               Move;
@@ -84,9 +85,11 @@ public class PlayerController : MonoBehaviour
         Switch          = PlayerMap.FindAction( "SwitchLayer" );
         //PlayerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.PlayerFootsteps);
         IsReadyToJump   = true;
-        Mask            = LayerMask.GetMask( "Terrain", "GrappleLayer" );
+        Mask            = LayerMask.GetMask( "Terrain", "GrappleLayer", "Blocks" );
         PlayerHeight    = PlayerCollider.height;
     }
+
+    
 
     public Vector3 GetPlayerCenter()
     {
@@ -129,14 +132,16 @@ public class PlayerController : MonoBehaviour
         {
             newZ = zBack;
             isBackground=true;
+            rb.transform.DOMoveZ(zFore, .2f).SetEase(Ease.Linear);
         }
         else
         {
            newZ = zFore;
-           isBackground=false; 
+           isBackground=false;
+            rb.transform.DOMoveZ(zBack, .2f).SetEase(Ease.Linear);
         }
 
-        rb.position = new Vector3( currentPos.x, currentPos.y, newZ );
+        //rb.position = new Vector3( currentPos.x, currentPos.y, newZ );
     }
 
     private void FsmHandler()
@@ -199,9 +204,16 @@ public class PlayerController : MonoBehaviour
         Invoke( nameof(ResetRestrictions), 3f );
     }
 
+    private void FixedUpdate()
+    {
+        Vector3 pos = rb.position;
+        rb.position = new Vector3(pos.x, pos.y, isBackground ? zFore : zBack);
+    }
+
     // Update is called once per frame
     void Update()
     {
+        
 
         IsGrounded = Physics.Raycast( transform.position, Vector3.down, PlayerHeight * 0.5f + 0.2f, Mask );
 
@@ -210,6 +222,7 @@ public class PlayerController : MonoBehaviour
 //Debug.Log($"map enabled: {PlayerMap.enabled}, jump enabled: {Jump.enabled}, jump phase: {Jump.phase}");
         if( Jump.WasPressedThisFrame() && IsGrounded && IsReadyToJump && !IsChargingPunch)
         {
+
             IsReadyToJump = false;
             JumpPlayer();
             Invoke( nameof( ResetJump ), JumpCooldown );
