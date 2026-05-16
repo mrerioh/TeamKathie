@@ -19,16 +19,17 @@ public class PunchHitBox : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Rigidbody rb=other.attachedRigidbody;
-        if(rb==null) {
-            return;
-        }
-        Vector3 dir=(other.transform.position - transform.parent.position).normalized;
-        rb.AddForce(dir * knockback,ForceMode.Impulse);
+        //if(other.gameObject.TryGetComponent<PunchHandler>)
+        //Rigidbody rb=other.attachedRigidbody;
+        //if(rb==null) {
+        //    return;
+        //}
+        //Vector3 dir=(other.transform.position - transform.parent.position).normalized;
+        //rb.AddForce(dir * knockback,ForceMode.Impulse);
         
-        var enemy = rb.GetComponent<EnemyTest>();
-        if (enemy != null)
-            enemy.stun(hitStunDuration);
+        //var enemy = rb.GetComponent<EnemyTest>();
+        //if (enemy != null)
+        //    enemy.stun(hitStunDuration);
     }
     void Start()
     {

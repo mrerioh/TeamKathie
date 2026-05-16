@@ -58,11 +58,13 @@ public class RocketPunch : MonoBehaviour
     private void OnEnable()
     {
         PlayerMap.Enable();
+
     }
 
     private void OnDisable()
     {
         PlayerMap.Disable();
+
     }
     void Start()
     {

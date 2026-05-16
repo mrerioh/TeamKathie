@@ -61,6 +61,9 @@ public class PlayerController : MonoBehaviour
     public bool IsPunching;
     public bool IsChargingPunch=false;
 
+    [Header("Test")]
+    private InputAction Drop;
+
     private void Awake()
     {
         PlayerMap = InputActions.FindActionMap( "Player" );
@@ -83,6 +86,7 @@ public class PlayerController : MonoBehaviour
         Move            = PlayerMap.FindAction( "Move" );
         Jump            = PlayerMap.FindAction( "Jump" );
         Switch          = PlayerMap.FindAction( "SwitchLayer" );
+        Drop = PlayerMap.FindAction("Drop");
         //PlayerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.PlayerFootsteps);
         IsReadyToJump   = true;
         Mask            = LayerMask.GetMask( "Terrain", "GrappleLayer", "Blocks" );
@@ -231,6 +235,14 @@ public class PlayerController : MonoBehaviour
 
         if(Switch.WasPressedThisFrame())
             SwitchPlayer();
+
+
+
+        if (Drop.WasPressedThisFrame())
+        {
+            //if(LimbManager.HasLeftLimb)
+        }    
+            
 
         FsmHandler();
 

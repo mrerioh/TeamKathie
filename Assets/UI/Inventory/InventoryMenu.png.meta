@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: c9f59b1fb6f737141b9ef3e11d1f5a20
+guid: 70b4eec3b72a84741b645fb4c2d4dbac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8332795389372915873
-    second: DHWall_0
+      213: -6836852531566440805
+    second: Settings_Export-1_0
+  - first:
+      213: -1873366706565999936
+    second: Settings_Export-1_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,9 +43,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -126,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DHWall_0
+      name: Settings_Export-1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 973
+        y: 731
+        width: 277
+        height: 332
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +144,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a0e591f14904a370800000000000000
-      internalID: 8332795389372915873
+      spriteID: b9e804288de9e11a0800000000000000
+      internalID: -6836852531566440805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Settings_Export-1_1
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 798
+        width: 6
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c21719e7e67006e0800000000000000
+      internalID: -1873366706565999936
       vertices: []
       indices: 
       edges: []
@@ -161,7 +186,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      DHWall_0: 8332795389372915873
+      Settings_Export-1_0: -6836852531566440805
+      Settings_Export-1_1: -1873366706565999936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
